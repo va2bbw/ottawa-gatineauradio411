@@ -24,6 +24,12 @@ Finally, if you don't want to use Git/Github at all, just send an email to va2bb
 +
 _Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simplement un courriel à va2bbw@gmail.com avec les informations sur la fréquence et je pourrai l'ajouter._
 	     
+== Frequency criteria / Critères pour fréquence
++
+If it's an active frequency with transmissions that can be heard in and around the Ottawa-Gatineau area without requiring a multi-element yagi or other high-gain antenna, it can be included in this list. The goal is that anyone in the area with modest equipment has a reasonable chance of hearing things on these frequencies or making contact with other individuals on these frequencies.
++
+_Si c'est une fréquence active avec des transmissions qui peuvent être entendues dans la région d'Ottawa-Gatineau sans nécéssiter l'utilisation d'une yagi multi-éléments ou autre antenne à haut gain, elle peut être incluse dans cette list. Le but est que n'importe qui dans la région avec de l'équipement modeste ait une chance raisonable d'entendre des choses sur ces fréquences ou d'établir des contacts avec d'autres individus sur ces fréquences.
+
 == Frequencies / Fréquences
 === Amateur Radio / Radio amateur
 

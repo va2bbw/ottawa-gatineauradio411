@@ -14,6 +14,18 @@
 |Ante Laurijssen, VA2BBW
 |https://ve2cro.ca
 
+|VE2RAO
+|146.745
+|FM
+|-0.6
+|110.9
+|110.9
+|Gatineau (secteur Aylmer)
+|Club de Radioamateur Outaouais
+|Ante Laurijssen, VA2BBW
+|https://ve2cro.ca
+
+
 |VE2RBH
 |146.410
 |FM
@@ -79,5 +91,16 @@
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
 |https://ve2reh.com
+
+|VE2CRA
+|146.940
+|FM
+|-0.6
+|100
+|100
+|Camp Fortune
+|Ottawa Amateur Radio Club
+|Ante Laurijssen, VA2BBW
+|https://oarc.net
 
 |===
