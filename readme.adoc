@@ -6,24 +6,44 @@ _La région de la capitale nationale est pleine de RF de toute sorte, et je me s
 
 == How to collaborate - Comment collaborer
 
-=== 1. Git/Github
+. *Git/Github*
++
+The traditional way to do things, just like you would for any other software project. If you're familiar already with how Git/Github work, this should be easy. The project is written in asciidoc.
++
+_La manière traditionelle de faire les chose, comme vous feriez pour n'importe quel autre project de logiciel. Si vous êtes déjà familier avec la manière dont fonctionne Git/Github, Le project est écrit en asciidoc._
 
-The traditional way to do things, just like you would for any other software project. If you're familiar already with how Git/Github work, this should be easy. The main frequency lists are written in asciidoc and are converted into CSV, ODF, and other formats.
-
-_La manière traditionelle de faire les chose, comme vous feriez pour n'importe quel autre project de logiciel. Si vous êtes déjà familier avec la manière dont fonctionne Git/Github, Les listes de fréquences principales sont rédigées en asciidoc et sont ensuite converties en CSV, ODF, et autres formats._
-
-=== 2. Github Issues
-
+. *Issues*
++
 If you don't like asciidoc, aren't familiar with Git workflow, or simply don't feel like forking the repository and submitting a pull request, you can raise an issue in the repository containing the information you want to submit and I can add it in.
-
++
 _Si vous n'aimez pas le asciidoc, n'êtes pas familier avec Git, ou ne voulez simplement pas télécharger le référentiel de code et soumettre une demande de tirage, vous pouvez soulever un problème dans le dépot contenant l'information que vous voulez soumettre et je pourrai l'ajouter._
 
-=== 3. Email - Courriel
-
+. *Email / Courriel*
++
 Finally, if you don't want to use Git/Github at all, just send an email to va2bbw@gmail.com with the frequency information and I can add it in.
-
++
 _Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simplement un courriel à va2bbw@gmail.com avec les informations sur la fréquence et je pourrai l'ajouter._
+	     
+== Frequencies / Fréquences
+=== Amateur Radio / Radio amateur
 
-== Frequencies/Fréquences
+- xref:2m-Amateur-Analog.adoc[2m Amateur Radio Analog / Radio amateur 2m analogique]
+- xref:2m-Amateur-Digital.adoc[2m Amateur Radio Digital / Radio amateur 2m numérique]
 
-include::2m-Amateur-Analog.adoc[tag=2m Amateur Analog]
+//-
+
+- xref:70cm-Amateur-Radio-Analog.adoc[70cm Amateur Radio Analog / Radio amateur 70cm analogique]
+- xref:70cm-Amateur-Radio-Digital.adoc[70cm Amateur Radio Digital / Radio amateur 70cm numérique]
+
+=== Commercial FM Radio / Radio FM commerciale
+
+=== Commercial AM Radio / Radio AM commerciale
+
+=== Emergency Services / Services d'urgence
+
+=== Municipal services / Services municipaux
+
+=== Public transit, taxis, etc. / Transport en commun, taxis, etc.
+
+=== Security Services / Services de sécurit
+=== Government / Gouvernement

@@ -1,4 +1,4 @@
-= 2m Amateur Analog
+= 2m Amateur Radio Analog / Radio amateur 2m analogique
 
 |===
 | Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
@@ -11,8 +11,8 @@
 |118.8
 |Hopital de Gatineau (secteur Hull)
 |Club de Radioamateur Outaouais
-|
-|
+|Ante Laurijssen, VA2BBW
+|https://ve2cro.ca
 
 |VE2RBH
 |146.410
@@ -22,8 +22,62 @@
 |123
 |Ripon
 |Club de Radioamateur Outaouais
-|
-|
+|Ante Laurijssen, VA2BBW
+|https://ve2cro.ca
+
+|VE2REH
+|147.105
+|FM
+|+0.6
+|103.5
+|103.5
+|Gatineau
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com
+
+|VE2REH
+|145.490
+|FM
+|-0.6
+|110.9
+|110.9
+|Gatineau Est
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com
+
+|VE2REH
+|147.105
+|FM
+|+0.6
+|110.9
+|110.9
+|Cantley
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com
+
+|VE2REH
+|147.360
+|FM
+|+0.6
+|123
+|123
+|Camp Fortune
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com
+
+|VE2REH
+|147.390
+|FM
+|+0.6
+|146.2
+|146.2
+|Ripon
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com
 
 |===
-
