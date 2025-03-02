@@ -45,5 +45,5 @@ _Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simp
 
 === Public transit, taxis, etc. / Transport en commun, taxis, etc.
 
-=== Security Services / Services de sécurit
+=== Security Services / Services de sécurité
 === Government / Gouvernement
