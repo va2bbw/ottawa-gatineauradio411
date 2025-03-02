@@ -26,4 +26,4 @@ _Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simp
 
 == Frequencies/Fréquences
 
-include::2m-Amateur-Analog.adoc[]
+include::2m-Amateur-Analog.adoc[tag=2m Amateur Analog]
