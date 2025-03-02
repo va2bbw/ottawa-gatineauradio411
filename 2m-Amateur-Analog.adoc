@@ -1,0 +1,29 @@
+= 2m Amateur Analog
+
+|===
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
+
+|VE2RAO
+|146.745
+|FM
+|-0.6
+|118.8
+|118.8
+|Hopital de Gatineau (secteur Hull)
+|Club de Radioamateur Outaouais
+|
+|
+
+|VE2RBH
+|146.410
+|FM
+|-0.6
+|123
+|123
+|Ripon
+|Club de Radioamateur Outaouais
+|
+|
+
+|===
+

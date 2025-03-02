@@ -23,3 +23,7 @@ _Si vous n'aimez pas le asciidoc, n'êtes pas familier avec Git, ou ne voulez si
 Finally, if you don't want to use Git/Github at all, just send an email to va2bbw@gmail.com with the frequency information and I can add it in.
 
 _Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simplement un courriel à va2bbw@gmail.com avec les informations sur la fréquence et je pourrai l'ajouter._
+
+== Frequencies/Fréquences
+
+include::2m-Amateur-Analog.adoc[]
