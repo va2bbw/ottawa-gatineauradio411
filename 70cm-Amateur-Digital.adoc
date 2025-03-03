@@ -36,7 +36,7 @@
 |https://va3xpr.net/dmr-simplex-frequencies/
 
 |DMR UHF Simplex 4
-|441
+|441.000
 |1
 |1
 |99
