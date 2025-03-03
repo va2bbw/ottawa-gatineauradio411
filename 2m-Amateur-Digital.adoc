@@ -1,0 +1,47 @@
+= 2m Digital Radio Analog / Radio amateur 2m numérique
+
+== DMR
+
+=== Simplex
+
+|===
+
+| Name/Nom | Frequency/Fréquence (MHz) | Colour Code (CC) | Time Slot (TS) | Talk Group (TG) | Description/Notes | Submitted by/Soumis par | Reference
+
+|DMR VHF Simplex 1
+|145.510
+|1
+|1
+|99
+|
+|Ante Laurijssen, VA2BBW
+|https://va3xpr.net/dmr-simplex-frequencies/
+
+|DMR VHF Simplex 2
+|145.790
+|1
+|1
+|99
+|
+|Ante Laurijssen, VA2BBW
+|https://va3xpr.net/dmr-simplex-frequencies/
+
+|===
+
+== D-Star
+
+== Fusion / C4FM
+
+== Packet / Winlink
+
+|===
+
+| Name/Nom | Frequency/Fréquence (MHz) | Description/Notes | Submitted by/Soumis par | Reference
+
+|VE3OCE
+|145.030
+|Winklink
+|Ante Laurijssen, VA2BBW
+|http://emrg.ca/repeaters.htm
+
+|===

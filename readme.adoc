@@ -38,13 +38,17 @@ _Si c'est une fréquence active avec des transmissions qui peuvent être entendu
 
 //-
 
-- xref:70cm-Amateur-Radio-Analog.adoc[70cm Amateur Radio Analog / Radio amateur 70cm analogique]
-- xref:70cm-Amateur-Radio-Digital.adoc[70cm Amateur Radio Digital / Radio amateur 70cm numérique]
+- xref:70cm-Amateur-Analog.adoc[70cm Amateur Radio Analog / Radio amateur 70cm analogique]
+- xref:70cm-Amateur-Digital.adoc[70cm Amateur Radio Digital / Radio amateur 70cm numérique]
+
+=== FRS / GMRS / CB
+
+- xref:frs-gmrs.adoc[FRS]
 
 === Commercial FM Radio / Radio FM commerciale
 
 === Commercial AM Radio / Radio AM commerciale
-
+=== Airband / Bande aviation   
 === Emergency Services / Services d'urgence
 
 === Municipal services / Services municipaux

@@ -103,4 +103,59 @@
 |Ante Laurijssen, VA2BBW
 |https://oarc.net
 
+|VE3OCE
+|146.880
+|FM
+|-0.6
+|136.5
+|136.5
+|Ottawa Fire Dispatch
+|EMRG
+|Ante Laurijssen, VA2BBW
+|http://www.emrg.ca/repeaters.htm
+
+|VA3OFS
+|146.670
+|FM
+|-0.6
+|136.5
+|136.5
+|Ottawa Fire Station 44
+|EMRG
+|Ante Laurijssen, VA2BBW
+|http://www.emrg.ca/repeaters.htm
+
+|VA3EMV/E
+|146.985
+|FM
+|-0.6
+|100
+|100
+|Ottawa Fire Station 23 (Cumberland)
+|EMRG
+|Ante Laurijssen, VA2BBW
+|http://www.emrg.ca/repeaters.htm
+
+|VA3EMV/W
+|144.210
+|FM
+|-0.6
+|123
+|123
+|Ottawa Fire Station 81 (Stittsville)
+|EMRG
+|Ante Laurijssen, VA2BBW
+|http://www.emrg.ca/repeaters.htm
+
+|VE3TWO
+|147.300
+|FM
+|+0.6
+|100
+|100
+|
+|OVMRC, limited coverage to East and South Ottawa
+|Ante Laurijssen, VA2BBW
+|https://ovmrc.ca/about-ovmrc/ve3two/
+
 |===

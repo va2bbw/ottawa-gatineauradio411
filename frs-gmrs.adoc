@@ -1,0 +1,17 @@
+= FRS / GMRS
+
+|===
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
+
+|Mike 303
+|462.600 (FRS/GMRS ch#17)
+|FM
+|+5
+|141.3
+|141.3
+|Gatineau (Secteur Hull)
+|
+|Ante Laurijssen, VA2BBW
+|Personal / Personnelle
+
+|===

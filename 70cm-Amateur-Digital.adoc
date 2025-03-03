@@ -1,0 +1,53 @@
+= 70cm Digital Radio Analog / Radio amateur 70cm numérique
+
+== DMR
+
+=== Simplex
+
+|===
+
+| Name/Nom | Frequency/Fréquence (MHz) | Colour Code (CC) | Time Slot (TS) | Talk Group (TG) | Description/Notes | Submitted by/Soumis par | Reference
+
+|DMR UHF Simplex 1
+|433.450
+|1
+|1
+|99
+|
+|Ante Laurijssen, VA2BBW
+|https://va3xpr.net/dmr-simplex-frequencies/
+
+|DMR UHF Simplex 2
+|446.075
+|1
+|1
+|99
+|
+|Ante Laurijssen, VA2BBW
+|https://va3xpr.net/dmr-simplex-frequencies/
+
+|DMR UHF Simplex 3
+|446.500
+|1
+|1
+|99
+|
+|Ante Laurijssen, VA2BBW
+|https://va3xpr.net/dmr-simplex-frequencies/
+
+|DMR UHF Simplex 4
+|441
+|1
+|1
+|99
+|
+|Ante Laurijssen, VA2BBW
+|https://va3xpr.net/dmr-simplex-frequencies/
+
+|===
+
+== D-Star
+
+== Fusion / C4FM
+
+== Packet / Winlink
