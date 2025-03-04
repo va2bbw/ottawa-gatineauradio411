@@ -1,6 +1,8 @@
 = FRS / GMRS
 :showtitle:
 
+WARNING: GMRS repeaters aren't currently legal in Canada / Les répétitrices GMRS ne sont pas présentement légales au Canada
+
 |===
 | Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
 
@@ -11,7 +13,7 @@
 |141.3
 |141.3
 |Gatineau (Secteur Hull)
-|GMRS repeaters aren't currently legal in Canada / Les répétitrices GMRS ne sont pas présentement légales au Canada
+|
 |Ante Laurijssen, VA2BBW
 |Personal / Personnelle
 
