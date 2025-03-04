@@ -1,0 +1,15 @@
+= Commercial AM Radio / Radio AM commerciale
+:showtitle:
+
+|===
+| Name/Nom | Frequency/Fréquence (KHz) | Mode | Location | Description/Notes | Submitted by/Soumis par | Reference
+
+|CJEU
+|1670
+|AM
+|Gatineau
+|Radio Jeunesse
+|Ante Laurijssen, VA2BBW
+|https://en.wikipedia.org/wiki/CJEU_(AM)
+
+|===

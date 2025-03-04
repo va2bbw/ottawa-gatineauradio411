@@ -1,4 +1,5 @@
 = 2m Amateur Radio Analog / Radio amateur 2m analogique
+:showtitle:
 
 |===
 | Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
@@ -25,7 +26,6 @@
 |Ante Laurijssen, VA2BBW
 |https://ve2cro.ca
 
-
 |VE2RBH
 |146.410
 |FM
@@ -46,7 +46,7 @@
 |Gatineau
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/
 
 |VE2REH
 |145.490
@@ -57,7 +57,7 @@
 |Gatineau Est
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/
 
 |VE2REH
 |147.105
@@ -68,7 +68,7 @@
 |Cantley
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/
 
 |VE2REH
 |147.360
@@ -79,7 +79,7 @@
 |Camp Fortune
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/
 
 |VE2REH
 |147.390
@@ -90,7 +90,7 @@
 |Ripon
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/
 
 |VE2CRA
 |146.940
@@ -101,7 +101,7 @@
 |Camp Fortune
 |Ottawa Amateur Radio Club
 |Ante Laurijssen, VA2BBW
-|https://oarc.net
+|https://oarc.net/ve2cra-repeaters/
 
 |VE3OCE
 |146.880

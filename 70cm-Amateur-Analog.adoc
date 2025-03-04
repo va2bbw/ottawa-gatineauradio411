@@ -1,0 +1,63 @@
+= 70cm Amateur Radio Analog / Radio amateur 70cm analogique
+:showtitle:
+
+|===
+
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
+
+|VE2RAO
+|443.950
+|FM
+|+5
+|118.8
+|118.8
+|Hopital de Gatineau (secteur Hull)
+|Club de Radioamateur Outaouais
+|Ante Laurijssen, VA2BBW
+|https://ve2cro.ca
+
+|VE3OCE
+|443.800
+|FM
+|+5
+|136.5
+|136.5
+|Ottawa Fire Dispatch
+|EMRG
+|Ante Laurijssen, VA2BBW
+|http://emrg.ca/repeaters.htm
+
+|VE2REH
+|444.150
+|FM
+|+5
+|110.9
+|110.9
+|L'Ange-Gardien
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/
+
+|VE2REH
+|444.600
+|FM
+|+5
+|110.9
+|110.9
+|Cantley
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/
+
+|VE2CRA
+|443.300
+|FM
+|+5
+|100
+|100
+|Camp Fortune
+|Ottawa Amateur Radio Club
+|Ante Laurijssen, VA2BBW
+|https://oarc.net/ve2cra-repeaters/
+
+|===

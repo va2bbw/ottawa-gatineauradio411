@@ -1,4 +1,5 @@
 = 2m Digital Radio Analog / Radio amateur 2m numérique
+:showtitle:
 
 == DMR
 
@@ -36,12 +37,22 @@
 
 |===
 
-| Name/Nom | Frequency/Fréquence (MHz) | Description/Notes | Submitted by/Soumis par | Reference
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Description/Notes | Location | Submitted by/Soumis par | Reference
 
-|VE3OCE
+|VE3SMF-10
 |145.030
-|Winklink
+|Packet 1200
+|Winlink RMS
+|Ottawa - FN25DG
 |Ante Laurijssen, VA2BBW
-|http://emrg.ca/repeaters.htm
+|https://winlink.org/RMSChannels
+
+|VE3PRV-10
+|145.030
+|Packet 1200
+|Winlink RMS
+|Ottawa - FN25JL
+|Ante Laurijssen, VA2BBW
+|https://winlink.org/RMSChannels
 
 |===
