@@ -27,9 +27,9 @@ _Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simp
 
 == Frequency criteria / Critères pour fréquence
 
-If it's an active frequency with transmissions that can be heard in and around the Ottawa-Gatineau area without requiring a multi-element yagi or other high-gain antenna, it can be included in this list. The goal is that anyone in the area with modest equipment has a reasonable chance of hearing things on these frequencies or making contact with other individuals on these frequencies.
+If it's an active frequency with transmissions that originate from, and can be heard, in and around the Ottawa-Gatineau area without requiring a multi-element yagi or other high-gain antenna, it can be included in this list. The goal is that anyone in the area with modest equipment has a reasonable chance of hearing things on these frequencies or making contact with other individuals on these frequencies.
 
-_Si c'est une fréquence active avec des transmissions qui peuvent être entendues dans la région d'Ottawa-Gatineau sans nécéssiter l'utilisation d'une yagi multi-éléments ou autre antenne à haut gain, elle peut être incluse dans cette list. Le but est que n'importe qui dans la région avec de l'équipement modeste ait une chance raisonable d'entendre des choses sur ces fréquences ou d'établir des contacts avec d'autres individus sur ces fréquences._
+_Si c'est une fréquence active avec des transmissions qui proviennent de, et peuvent être entendues dans, la région d'Ottawa-Gatineau sans nécéssiter l'utilisation d'une yagi multi-éléments ou autre antenne à haut gain, elle peut être incluse dans cette list. Le but est que n'importe qui dans la région avec de l'équipement modeste ait une chance raisonable d'entendre des choses sur ces fréquences ou d'établir des contacts avec d'autres individus sur ces fréquences._
     	  
 == Structure
 
@@ -45,31 +45,37 @@ _Le répertoire racine du projet contient tous les fichiers asciidoc où se trou
 +
 _Le répertoire « scripts » contient des scripts pour convertir l'asciidoc en d'autres formats, comme le html._
 
-- The "html" directory contains the asciidoc files converted to css-less embeddable html.
+- The other directories like "hmtl", "pdf", etc, contain the files converted to those formats.
 +
-_Le répertoire « html » contient les fichiers asciidoc convertis en HTML intégrable sans CSS._
+_Les autres répertoires tels que "html, "pdf", etc, contiennent les fichiers convertis á ces formats._
 
 == Frequencies / Fréquences
-=== Amateur Radio / Radio amateur
+
+- xref:6m-Amateur-Analog.adoc[6m Amateur Radio Analog / Radio amateur 6m analogique]
+
+'''
 
 - xref:2m-Amateur-Analog.adoc[2m Amateur Radio Analog / Radio amateur 2m analogique]
 - xref:2m-Amateur-Digital.adoc[2m Amateur Radio Digital / Radio amateur 2m numérique]
 
-//-
+'''
+
+- xref:135cm-Amateur-Analog.adoc[135cm Amateur Radio Analog / Radio amateur 135cm analogique]
+
+'''
 
 - xref:70cm-Amateur-Analog.adoc[70cm Amateur Radio Analog / Radio amateur 70cm analogique]
 - xref:70cm-Amateur-Digital.adoc[70cm Amateur Radio Digital / Radio amateur 70cm numérique]
 
-=== FRS, GMRS, GRS/SRG (CB)
+'''
 
 - xref:frs-gmrs.adoc[FRS-GMRS]
 
-=== Commercial FM Radio / Radio FM commerciale
-
-=== Commercial AM Radio / Radio AM commerciale
+'''
 
 - xref:commercial-am.adoc[Commercial AM Radio / Radio commerciale AM]
-
+  
+=== Commercial FM Radio / Radio commerciale FM
 === Airband / Bande aviation   
 === Emergency Services / Services d'urgence
 

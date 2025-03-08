@@ -1,10 +1,7 @@
 = 2m Digital Radio Analog / Radio amateur 2m numérique
 :showtitle:
 
-== DMR
-
-=== Simplex
-
+.DMR Simplex
 |===
 
 | Name/Nom | Frequency/Fréquence (MHz) | Colour Code (CC) | Time Slot (TS) | Talk Group (TG) | Description/Notes | Submitted by/Soumis par | Reference
@@ -16,7 +13,7 @@
 |99
 |
 |Ante Laurijssen, VA2BBW
-|https://va3xpr.net/dmr-simplex-frequencies/
+|https://va3xpr.net/dmr-simplex-frequencies/[window=_blank]
 
 |DMR VHF Simplex 2
 |145.790
@@ -25,16 +22,30 @@
 |99
 |
 |Ante Laurijssen, VA2BBW
-|https://va3xpr.net/dmr-simplex-frequencies/
+|https://va3xpr.net/dmr-simplex-frequencies/[window=_blank]
 
 |===
 
-== D-Star
+.DMR Repeaters / Répétitrices DMR
+|===
 
-== Fusion / C4FM
+| Name/Nom | Frequency/Fréquence (MHz) | Offset (MHz) | Network / Réseau | CC | TS1 | TS2 | Location | Description/Notes | Submitted by/Soumis par | Reference
 
-== Packet / Winlink
+|VE2REH
+|147.180
+|+0.6
+|Brandmeister
+|10
+|TG-3022
+|TG-30239, TG-302354, TG-3022911, TG-2, TG-8
+|Cantley
+|Réseau des Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://brandmeister.network/?page=device&id=302370[window=_blank]
 
+|===
+
+.Packet/Winlink
 |===
 
 | Name/Nom | Frequency/Fréquence (MHz) | Mode | Description/Notes | Location | Submitted by/Soumis par | Reference
@@ -45,7 +56,7 @@
 |Winlink RMS
 |Ottawa - FN25DG
 |Ante Laurijssen, VA2BBW
-|https://winlink.org/RMSChannels
+|https://winlink.org/RMSChannels[window=_blank]
 
 |VE3PRV-10
 |145.030
@@ -53,6 +64,6 @@
 |Winlink RMS
 |Ottawa - FN25JL
 |Ante Laurijssen, VA2BBW
-|https://winlink.org/RMSChannels
+|https://winlink.org/RMSChannels[window=_blank]
 
 |===

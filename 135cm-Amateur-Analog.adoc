@@ -1,0 +1,41 @@
+= 135cm Amateur Radio Analog / Radio amateur 135cm analogique
+:showtitle:
+
+.Repeaters / Répétitrices
+|===
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
+
+|VA2YDP
+|224.160
+|FM
+|-1.6
+|123
+|123
+|Hôpital de Gatineau (secteur Hull)
+|Club Radio Amateur Outaouais
+|Ante Laurijssen, VA2BBW
+|https://ve2cro.ca[window=_blank]
+
+|VE2REH
+|224.500
+|FM
+|-1.6
+|110.9
+|110.9
+|Gatineau (secteur Buckingham)
+|Association des Radioamateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+
+|VE2REH
+|224.760
+|FM
+|-1.6
+|110.9
+|110.9
+|Gatineau
+|Association des Radioamateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+
+|===

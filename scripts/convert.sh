@@ -7,6 +7,8 @@ cd "$SCRIPT_DIR"
 echo "Starting conversion of files..."
 echo
 
+./to_html_embed.sh &&
+    
 ./to_html.sh &&
 
 ./to_pdf.sh &&

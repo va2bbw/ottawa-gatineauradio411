@@ -1,8 +1,9 @@
 = FRS / GMRS
 :showtitle:
 
-*_GMRS repeaters aren't currently legal in Canada / Les répétitrices GMRS ne sont pas présentement légales au Canada_*
+WARNING: *_GMRS repeaters aren't currently legal in Canada / Les répétitrices GMRS ne sont pas présentement légales au Canada_*
 
+.Repeaters / Répétitrices
 |===
 | Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
 

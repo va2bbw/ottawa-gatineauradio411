@@ -1,0 +1,45 @@
+= 6m Amateur Radio Analog / Radio amateur 6m analogique
+:showtitle:
+
+.Simplex
+|===
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Tone TX | Tone RX | Description/Notes | Submitted by/Soumis par | Reference
+
+|Pot Lid Net Frequency
+|50.090
+|CW
+|
+|
+|Pot Lid Net - Sundays/Dimanches, 7h30 local time/heure locale
+|Ante Laurijssen, VA2BBW
+|Personal/Personnelle
+
+|===
+
+.Repeaters / Répétitrices
+|===
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
+
+|VE2REH
+|53.110
+|FM
+|-0.5
+|110.9
+|110.9
+|Gatineau
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+
+|VE2REH
+|53.310
+|FM
+|-0.5
+|123
+|123
+|Ripon
+|Association des Radio Amateurs Indépendants
+|Ante Laurijssen, VA2BBW
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+
+|===
