@@ -1,0 +1,55 @@
+= Airband / Bande aviation
+:showtitle:
+
+|===
+| Name/Nom | Frequency/Fréquence (KHz) | Mode | Location | Description/Notes | Submitted by/Soumis par | Reference
+
+|Ottawa International Airport (CYOW)
+|118.800
+|AM
+|Ottawa
+|Tower - Bilingual
+|Tom Cort, VA2NW
+|https://www.radioreference.com/db/aid/3155
+
+|Ottawa International Airport (CYOW)
+|120.100
+|AM
+|Ottawa
+|Tower - Bilingual
+|Tom Cort, VA2NW
+|https://www.radioreference.com/db/aid/3155
+
+|Ottawa International Airport (CYOW)
+|121.900
+|AM
+|Ottawa
+|Ground - Bilingual
+|Tom Cort, VA2NW
+|https://www.radioreference.com/db/aid/3155
+
+|Ottawa International Airport (CYOW)
+|127.700
+|AM
+|Ottawa
+|Ottawa Terminal
+|Tom Cort, VA2NW
+|https://www.radioreference.com/db/aid/3155
+
+|Ottawa International Airport (CYOW)
+|128.175
+|AM
+|Ottawa
+|Departures
+|Tom Cort, VA2NW
+|https://www.radioreference.com/db/aid/3155
+
+|Ottawa International Airport (CYOW)
+|135.150
+|AM
+|Ottawa
+|Arrivals
+|Tom Cort, VA2NW
+|https://www.radioreference.com/db/aid/3155
+
+|===
