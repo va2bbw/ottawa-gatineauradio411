@@ -47,7 +47,7 @@
 |Hôpital de Gatineau (secteur Hull)
 |Club de Radioamateur Outaouais
 |Ante Laurijssen, VA2BBW
-|https://ve2cro.ca[window=_blank]
+|https://ve2cro.ca[^]
 
 |VE2RAO
 |146.745
@@ -69,7 +69,7 @@
 |Ripon
 |Club de Radioamateur Outaouais
 |Ante Laurijssen, VA2BBW
-|https://ve2cro.ca[window=_blank]
+|https://ve2cro.ca[^]
 
 |VE2REH
 |147.105
@@ -80,7 +80,7 @@
 |Gatineau
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
 |VE2REH
 |145.490
@@ -91,7 +91,7 @@
 |Gatineau Est
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
 |VE2REH
 |147.105
@@ -102,7 +102,7 @@
 |Cantley
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
 |VE2REH
 |147.360
@@ -113,7 +113,7 @@
 |Camp Fortune
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
 |VE2REH
 |147.390
@@ -124,7 +124,7 @@
 |Ripon
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
 |VE2CRA
 |146.940
@@ -135,7 +135,7 @@
 |Camp Fortune
 |Ottawa Amateur Radio Club
 |Ante Laurijssen, VA2BBW
-|https://oarc.net/ve2cra-repeaters/[window=_blank]
+|https://oarc.net/ve2cra-repeaters/[^]
 
 |VE3OCE
 |146.880
@@ -146,7 +146,7 @@
 |Ottawa Fire Dispatch
 |EMRG
 |Ante Laurijssen, VA2BBW
-|http://www.emrg.ca/repeaters.htm[window=_blank]
+|http://www.emrg.ca/repeaters.htm[^]
 
 |VA3OFS
 |146.670
@@ -157,7 +157,7 @@
 |Ottawa Fire Station 44
 |EMRG
 |Ante Laurijssen, VA2BBW
-|http://www.emrg.ca/repeaters.htm[window=_blank]
+|http://www.emrg.ca/repeaters.htm[^]
 
 |VA3EMV/E
 |146.985
@@ -168,7 +168,7 @@
 |Ottawa Fire Station 23 (Cumberland)
 |EMRG
 |Ante Laurijssen, VA2BBW
-|http://www.emrg.ca/repeaters.htm[window=_blank]
+|http://www.emrg.ca/repeaters.htm[^]
 
 |VA3EMV/W
 |144.210
@@ -179,7 +179,7 @@
 |Ottawa Fire Station 81 (Stittsville)
 |EMRG
 |Ante Laurijssen, VA2BBW
-|http://www.emrg.ca/repeaters.htm[window=_blank]
+|http://www.emrg.ca/repeaters.htm[^]
 
 |VE3TWO
 |147.300
@@ -190,7 +190,7 @@
 |
 |OVMRC, limited coverage to East and South Ottawa
 |Ante Laurijssen, VA2BBW
-|https://ovmrc.ca/about-ovmrc/ve3two/[window=_blank]
+|https://ovmrc.ca/about-ovmrc/ve3two/[^]
 
 |VE3STP
 |147.060
@@ -201,6 +201,6 @@
 |CRRA Site 2
 |Champlain Regional Repeater Association
 |Ante Laurijssen, VA2BBW
-|https://champlainrepeater.ca/repeater-2/[window=_blank]
+|https://champlainrepeater.ca/repeater-2/[^]
 
 |===

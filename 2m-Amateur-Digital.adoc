@@ -13,7 +13,7 @@
 |99
 |
 |Ante Laurijssen, VA2BBW
-|https://va3xpr.net/dmr-simplex-frequencies/[window=_blank]
+|https://va3xpr.net/dmr-simplex-frequencies/[^]
 
 |DMR VHF Simplex 2
 |145.790
@@ -22,7 +22,7 @@
 |99
 |
 |Ante Laurijssen, VA2BBW
-|https://va3xpr.net/dmr-simplex-frequencies/[window=_blank]
+|https://va3xpr.net/dmr-simplex-frequencies/[^]
 
 |===
 
@@ -41,7 +41,7 @@
 |Cantley
 |Réseau des Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://brandmeister.network/?page=device&id=302370[window=_blank]
+|https://brandmeister.network/?page=device&id=302370[^]
 
 |===
 
@@ -56,7 +56,7 @@
 |Winlink RMS
 |Ottawa - FN25DG
 |Ante Laurijssen, VA2BBW
-|https://winlink.org/RMSChannels[window=_blank]
+|https://winlink.org/RMSChannels[^]
 
 |VE3PRV-10
 |145.030
@@ -64,6 +64,6 @@
 |Winlink RMS
 |Ottawa - FN25JL
 |Ante Laurijssen, VA2BBW
-|https://winlink.org/RMSChannels[window=_blank]
+|https://winlink.org/RMSChannels[^]
 
 |===

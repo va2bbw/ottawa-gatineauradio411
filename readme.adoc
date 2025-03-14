@@ -1,10 +1,10 @@
-= Ottawa-Gatineau Frequency List - Liste de fréquences Ottawa-Gatineau
+= Ottawa-Gatineau Radio411
 :showtitle:
 
-The nation's capital is rife with RF of all sorts, and I thought it would be a fun little project and great resource to have a collaborative list of interesting frequencies. From amateur radio to commercial radio, from VHF/UHF and up down to LF, lets share what we have programmed in our scanners and transceivers from around the region.
+The nation's capital is rife with RF of all sorts, and I thought it would be a fun project to create a central collaborative repository for everything radio-related within 100 kilometres of Parliament Hill. My goal is for this to not only be a list of active frequencies, but also a list of local resources for the radio hobbyist.
 
-_La région de la capitale nationale est pleine de RF de toute sorte, et je me suis dis que ce serait un petit projet amusant et une superbe ressource d'avoir une liste collaborative de fréquences intérèssantes. De la radio amateur à la radio commerciale, des fréquences VHF/UHF et au dessus aux fréquences LF, partageons ce que nous avons de programmé dans nos scanners et nos émetteurs-récepteurs de la région._
-
+_La région de la capitale nationale est pleine de RF de toute sorte, et je me suis dis que ce serait un petit projet amusant de créer un dépot collaboratif pour tout ce qui est relié à la radio dans un rayon de 100 kilomètres de la colline du parlement. Mon but est que ceci ne soit pas simplement une liste de fréquences actives, mais aussi une liste de ressources locales pour les amateurs de radio	._
+    	      
 == How to collaborate - Comment collaborer
 
 . *Git/Github*
@@ -25,11 +25,11 @@ Finally, if you don't want to use Git/Github at all, just send an email to va2bb
 +
 _Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simplement un courriel à va2bbw@gmail.com avec les informations sur la fréquence et je pourrai l'ajouter._
 
-== Frequency criteria / Critères pour fréquence
+== Frequency and Resource Criteria / Critères pour fréquences et ressources
 
-If it's an active frequency with transmissions that originate from, and can be heard, in and around the Ottawa-Gatineau area without requiring a multi-element yagi or other high-gain antenna, it can be included in this list. The goal is that anyone in the area with modest equipment has a reasonable chance of hearing things on these frequencies or making contact with other individuals on these frequencies.
+The frequencies and resources must be active or available within 100 kilometres of Parliament Hill, and within Canada.
 
-_Si c'est une fréquence active avec des transmissions qui proviennent de, et peuvent être entendues dans, la région d'Ottawa-Gatineau sans nécéssiter l'utilisation d'une yagi multi-éléments ou autre antenne à haut gain, elle peut être incluse dans cette list. Le but est que n'importe qui dans la région avec de l'équipement modeste ait une chance raisonable d'entendre des choses sur ces fréquences ou d'établir des contacts avec d'autres individus sur ces fréquences._
+_Les fréquences et ressources doivent être actives ou disponibles dans un rayon de 100 kilomètres de la colline du parlement, et à l'intérieur du Canada._
     	  
 == Structure
 
@@ -37,13 +37,13 @@ The project structure is pretty straightforward:
 
 _La structure du project est assez évidente:_
 
-- The project's root directory contains all of the asciidoc files that hold the frequency information.
+- The project's root directory contains all of the asciidoc files that hold the frequency and resource information.
 +
-_Le répertoire racine du projet contient tous les fichiers asciidoc où se trouve l'information sur les fréquences._
+_Le répertoire racine du projet contient tous les fichiers asciidoc où se trouve l'information sur les fréquences et les ressources._
 
-- The "scripts" directory contains scripts to convert the asciidoc to other formats, like html.
+- The "scripts" directory contains scripts to convert the asciidoc to other formats, like html, as well as other scripts used to build some of the lists.
 +
-_Le répertoire « scripts » contient des scripts pour convertir l'asciidoc en d'autres formats, comme le html._
+_Le répertoire « scripts » contient des scripts pour convertir l'asciidoc en d'autres formats, comme le html, ainsi que d'autres scripts utilisés dans la création des listes._
 
 - The other directories like "hmtl", "pdf", etc, contain the files converted to those formats.
 +
@@ -74,17 +74,12 @@ _Les autres répertoires tels que "html, "pdf", etc, contiennent les fichiers co
 '''
 
 - xref:commercial-am.adoc[Commercial AM Radio / Radio commerciale AM]
-  
-=== Commercial FM Radio / Radio commerciale FM
-=== Airband / Bande aviation   
+
+'''
 
 - xref:airband.adoc[Airband / Bande aviation]
 
-=== Emergency Services / Services d'urgence
+== Resources / Ressources
 
-=== Municipal services / Services municipaux
-
-=== Public transit, taxis, etc. / Transport en commun, taxis, etc.
-
-=== Security Services / Services de sécurité
-=== Government / Gouvernement
+- xref:pota-parks.adoc[POTA Parks / Parcs POTA]
+- xref:sota-summits.adoc[SOTA Summits / Sommets SOTA]

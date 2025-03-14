@@ -15,7 +15,7 @@
 |Hopital de Gatineau (secteur Hull)
 |Club de Radioamateur Outaouais
 |Ante Laurijssen, VA2BBW
-|https://ve2cro.ca[window=_blank]
+|https://ve2cro.ca[^]
 
 |VE3OCE
 |443.800
@@ -26,7 +26,7 @@
 |Ottawa Fire Dispatch
 |EMRG
 |Ante Laurijssen, VA2BBW
-|http://emrg.ca/repeaters.htm[window=_blank]
+|http://emrg.ca/repeaters.htm[^]
 
 |VE2REH
 |444.150
@@ -37,7 +37,7 @@
 |L'Ange-Gardien
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
 |VE2REH
 |444.600
@@ -48,7 +48,7 @@
 |Cantley
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
 |VE2CRA
 |443.300
@@ -59,7 +59,7 @@
 |Camp Fortune
 |Ottawa Amateur Radio Club
 |Ante Laurijssen, VA2BBW
-|https://oarc.net/ve2cra-repeaters/[window=_blank]
+|https://oarc.net/ve2cra-repeaters/[^]
 
 
 |VE3RAM
@@ -71,6 +71,6 @@
 |Orleans
 |OVMRC - limited coverage to Orleans and East Ottawa
 |Ante Laurijssen, VA2BBW
-|https://ovmrc.ca/about-ovmrc/ve3ram/[window=_blank]
+|https://ovmrc.ca/about-ovmrc/ve3ram/[^]
 
 |===

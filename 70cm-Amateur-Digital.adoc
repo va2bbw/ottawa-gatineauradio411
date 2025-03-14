@@ -13,7 +13,7 @@
 |99
 |
 |Ante Laurijssen, VA2BBW
-|https://va3xpr.net/dmr-simplex-frequencies/[window=_blank]
+|https://va3xpr.net/dmr-simplex-frequencies/[^]
 
 |DMR UHF Simplex 2
 |446.075
@@ -22,7 +22,7 @@
 |99
 |
 |Ante Laurijssen, VA2BBW
-|https://va3xpr.net/dmr-simplex-frequencies/[window=_blank]
+|https://va3xpr.net/dmr-simplex-frequencies/[^]
 
 |DMR UHF Simplex 3
 |446.500
@@ -31,7 +31,7 @@
 |99
 |
 |Ante Laurijssen, VA2BBW
-|https://va3xpr.net/dmr-simplex-frequencies/[window=_blank]
+|https://va3xpr.net/dmr-simplex-frequencies/[^]
 
 |DMR UHF Simplex 4
 |441.000
@@ -40,7 +40,7 @@
 |99
 |
 |Ante Laurijssen, VA2BBW
-|https://va3xpr.net/dmr-simplex-frequencies/[window=_blank]
+|https://va3xpr.net/dmr-simplex-frequencies/[^]
 
 |===
 
@@ -59,7 +59,7 @@
 |Hôpital de Gatineau (secteur Hull)
 |Club de Radio Amateur Outaouais
 |Ante Laurijssen, VA2BBW
-|https://brandmeister.network/?page=device&id=302242[window=_blank]
+|https://brandmeister.network/?page=device&id=302242[^]
 
 |VE3RAM
 |443.700
@@ -71,7 +71,7 @@
 |Orleans
 |OVMRC
 |Ante Laurijssen, VA2BBW
-|http://ve3ram.ddns.net:380/[window=_blank]
+|http://ve3ram.ddns.net:380/[^]
 
 |VE2REH
 |442.650
@@ -83,7 +83,7 @@
 |Gatineau
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://brandmeister.network/?page=repeater&id=302354[window=_blank]
+|https://brandmeister.network/?page=repeater&id=302354[^]
 
 |VE2REH
 |442.550
@@ -95,6 +95,6 @@
 |L'Ange-Gardien
 |Association des Radio Amateurs Indépendants
 |Ante Laurijssen, VA2BBW
-|https://brandmeister.network/?page=repeater&id=302046[window=_blank]
+|https://brandmeister.network/?page=repeater&id=302046[^]
 
 |===

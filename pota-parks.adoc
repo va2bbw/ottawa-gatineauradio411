@@ -1,0 +1,608 @@
+= POTA Parks / Parcs POTA
+:showtitle:
+
+.POTA Parks / Parcs POTA
+|===
+| Park/Parc | Name/Nom | Location | Submitted by/Soumis par | Reference
+
+|CA-0057
+|Mississippi Lake National Wildlife Area
+|45.0297, -76.228
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0057[^]
+
+|CA-0136
+|Alexander Stewart Provincial Park
+|45.4292, -76.4974
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0136[^]
+
+|CA-0150
+|Beckett Creek Migratory Bird Sanctuary
+|45.5065, -75.3361
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0150[^]
+
+|CA-0212
+|Fitzroy Provincial Park
+|45.482, -76.2138
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0212[^]
+
+|CA-0307
+|Mississippi Lake Migratory Bird Sanctuary
+|45.0394, -76.2378
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0307[^]
+
+|CA-0312
+|Murphys Point Provincial Park
+|44.782, -76.2377
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0312[^]
+
+|CA-0332
+|Ottawa River Provincial Park
+|45.7338, -76.7428
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0332[^]
+
+|CA-0364
+|Rideau Migratory Bird Sanctuary
+|44.9159, -75.8446
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0364[^]
+
+|CA-0365
+|Rideau River Provincial Park
+|45.0599, -75.6715
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0365[^]
+
+|CA-0391
+|Silver Lake Provincial Park
+|44.8298, -76.5767
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0391[^]
+
+|CA-0419
+|Upper Canada Migratory Bird Sanctuary
+|44.9632, -75.016
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0419[^]
+
+|CA-0421
+|Voyageur Provincial Park
+|45.5556, -74.4449
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0421[^]
+
+|CA-0498
+|Gatineau Conservation Park
+|45.5051, -75.8119
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0498[^]
+
+|CA-0503
+|Jacques-Cartier Gatineau Historic Site
+|45.4323, -75.7088
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0503[^]
+
+|CA-0517
+|Plaisance National Park
+|45.5994, -75.1102
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-0517[^]
+
+|CA-1013
+|Parc regional du Poisson Blanc Regional Park
+|46.0941, -75.674
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1013[^]
+
+|CA-1024
+|Réserve faunique de Papineau-Labelle Wildlife Reserve
+|46.1373, -75.1468
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1024[^]
+
+|CA-1040
+|Burnt Lands Provincial Park
+|45.2614, -76.15
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1040[^]
+
+|CA-1294
+|Aviation Museum Woods Conservation Reserve
+|45.463, -75.6262
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1294[^]
+
+|CA-1319
+|Black Rapids Creek Conservation Reserve
+|45.3199, -75.7
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1319[^]
+
+|CA-1342
+|Carlington Woods Conservation Reserve
+|45.3711, -75.7425
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1342[^]
+
+|CA-1349
+|Remic Rapids and Bate Island Conservation Park
+|45.4071, -75.7542
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1349[^]
+
+|CA-1350
+|Chapel Hill's North Forest Conservation Reserve
+|45.4436, -75.5461
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1350[^]
+
+|CA-1359
+|Constant Creek Swamp And Fen Conservation Reserve
+|45.3005, -76.8147
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1359[^]
+
+|CA-1375
+|DuPont Provincial Park
+|44.935, -75.1454
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1375[^]
+
+|CA-1385
+|Chapman Mills Conservation Area
+|45.2791, -75.7029
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1385[^]
+
+|CA-1425
+|Green's Creek Conservation Reserve
+|45.4747, -75.5692
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1425[^]
+
+|CA-1436
+|Hawkins Property Conservation Reserve
+|45.563, -76.8515
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1436[^]
+
+|CA-1506
+|McCarthy Woods Natural Area
+|45.3549, -75.676
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1506[^]
+
+|CA-1515
+|Mer Bleue Bog Conservation Reserve
+|45.4008, -75.4997
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1515[^]
+
+|CA-1516
+|Mer Bleue Conservation Reserve
+|45.3926, -75.5515
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1516[^]
+
+|CA-1579
+|Pine Grove Forest Conservation Reserve
+|45.3551, -75.5927
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1579[^]
+
+|CA-1581
+|Pinhey Forest Conservation Reserve
+|45.3284, -75.738
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1581[^]
+
+|CA-1596
+|Hog's Back Conservation Reserve
+|45.3717, -75.695
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1596[^]
+
+|CA-1597
+|Rockcliffe Park and the Rockeries Natural Area
+|45.4507, -75.6866
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1597[^]
+
+|CA-1621
+|Shirleys Bay Conservation Reserve
+|45.3924, -75.9318
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1621[^]
+
+|CA-1638
+|W.A. Taylor Conservation Reserve
+|45.133, -75.6333
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1638[^]
+
+|CA-1645
+|Stony Swamp Conservation Reserve
+|45.3028, -75.8316
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1645[^]
+
+|CA-1701
+|Westmeath Bog Conservation Reserve
+|45.7685, -76.8645
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1701[^]
+
+|CA-1703
+|White Lake Conservation Reserve
+|45.2896, -76.5103
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1703[^]
+
+|CA-1920
+|Alvar-d'Aylmer Nature Reserve
+|45.4387, -75.8736
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1920[^]
+
+|CA-1924
+|Andre-Michaux Ecological Reserve
+|45.8248, -75.8941
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-1924[^]
+
+|CA-2013
+|Foret-la-Blanche Ecological Reserve
+|45.7096, -75.2957
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-2013[^]
+
+|CA-2083
+|Lac-Beauchamp Park (Regional) Nature Reserve
+|45.4888, -75.6247
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-2083[^]
+
+|CA-2217
+|Reserve naturelle de l'Ile-Kettle Nature Reserve
+|45.4657, -75.6736
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-2217[^]
+
+|CA-2271
+|Parc de la biche Recreation Park
+|46.2967, -75.482
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-2271[^]
+
+|CA-4855
+|Battle of the Windmill National Historic Site
+|44.7218, -75.4872
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4855[^]
+
+|CA-4868
+|Fort Wellington National Historic Site
+|44.7126, -75.5105
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4868[^]
+
+|CA-4871
+|Inverarden House National Historic Site
+|45.0305, -74.6704
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4871[^]
+
+|CA-4873
+|Laurier House National Historic Site
+|45.4278, -75.6783
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4873[^]
+
+|CA-4874
+|Merrickville Blockhouse National Historic Site
+|44.9164, -75.8376
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4874[^]
+
+|CA-4882
+|Rideau Canal National Historic Site
+|45.3832, -75.7006
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4882[^]
+
+|CA-4887
+|Sir John Johnson House National Historic Site
+|45.1449, -74.579
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4887[^]
+
+|CA-4916
+|Manoir Papineau National Historic Site
+|45.6499, -74.9431
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4916[^]
+
+|CA-4947
+|Parc Nature Eco-Odyssee Regional Park
+|45.6395, -75.8838
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4947[^]
+
+|CA-4970
+|Parc regional du Lac 31 Milles Regional Park
+|46.1929, -75.8308
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-4970[^]
+
+|CA-5002
+|Parc des Montagnes Noires de Ripon Regional Park
+|45.8072, -75.162
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5002[^]
+
+|CA-5004
+|Centre de plein air du Lac-Leamy Regional Park
+|45.4537, -75.7259
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5004[^]
+
+|CA-5030
+|Parc des Chutes Coulonge Regional Park
+|45.8753, -76.6872
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5030[^]
+
+|CA-5041
+|Parc regional du Mont Morissette Regional Park
+|46.2195, -76.0997
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5041[^]
+
+|CA-5062
+|Chutes de Plaisance Regional Park
+|45.6409, -75.133
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5062[^]
+
+|CA-5083
+|Diefenbunker National Historic Site
+|45.3505, -76.0462
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5083[^]
+
+|CA-5084
+|South March Highlands Conservation Forest Natural Area
+|45.3462, -75.9463
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5084[^]
+
+|CA-5094
+|Central Chambers National Historic Site
+|45.4232, -75.6952
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5094[^]
+
+|CA-5095
+|Central Experimental Farm National Historic Site
+|45.3877, -75.7088
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5095[^]
+
+|CA-5097
+|Confederation Square National Historic Site
+|45.4236, -75.6955
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5097[^]
+
+|CA-5098
+|Earnscliffe National Historic Site
+|45.4374, -75.6988
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5098[^]
+
+|CA-5106
+|Langevin National Historic Site
+|45.4238, -75.6973
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5106[^]
+
+|CA-5109
+|National Arts Centre National Historic Site
+|45.4233, -75.6934
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5109[^]
+
+|CA-5110
+|Notre-Dame Roman Catholic Basilica National Historic Site
+|45.4304, -75.6949
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5110[^]
+
+|CA-5113
+|Parliament Buildings National Historic Site
+|45.4238, -75.7009
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5113[^]
+
+|CA-5115
+|Public Grounds of the Parliament Buildings National Historic Site
+|45.4238, -75.7009
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5115[^]
+
+|CA-5116
+|Rideau Hall and Landscaped Grounds National Historic Site
+|45.4446, -75.6858
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5116[^]
+
+|CA-5117
+|Royal Canadian Mint National Historic Site
+|45.4315, -75.6991
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5117[^]
+
+|CA-5295
+|Baxter Conservation Area
+|45.0983, -75.6243
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5295[^]
+
+|CA-5306
+|Fulford Place National Historic Site
+|44.5974, -75.6708
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5306[^]
+
+|CA-5538
+|J. Henry Tweed Conservation Area
+|45.261, -75.3701
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5538[^]
+
+|CA-5542
+|Foley Mountain Conservation Area
+|44.6867, -76.3978
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5542[^]
+
+|CA-5543
+|Morris Island Conservation Area
+|45.4593, -76.2709
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5543[^]
+
+|CA-5644
+|Pinhey’s Point National Historic Site
+|45.4399, -75.9532
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5644[^]
+
+|CA-5888
+|First Geodetic Survey Station National Historic Site
+|45.4891, -75.8626
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5888[^]
+
+|CA-5926
+|Larose Forest Recreation Park
+|45.405, -75.1413
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5926[^]
+
+|CA-5940
+|Aberdeen Pavilion National Historical Site
+|45.4002, -75.6833
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5940[^]
+
+|CA-5945
+|Cooper Marsh Conservation Area
+|45.1166, -74.518
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5945[^]
+
+|CA-5948
+|Hart Massey House National Historic Site
+|45.4513, -75.6719
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5948[^]
+
+|CA-5954
+|Maplelawn & Gardens National Historic Site
+|45.3887, -75.7619
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5954[^]
+
+|CA-5955
+|Mill Pond Conservation Area
+|44.7705, -76.1793
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5955[^]
+
+|CA-5956
+|Perth Wildlife Reserve
+|44.8888, -76.2036
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5956[^]
+
+|CA-5957
+|Portland Bay Conservation Area
+|44.7017, -76.1834
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5957[^]
+
+|CA-5958
+|Hampton Park Conservation Area
+|45.3873, -75.7382
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-5958[^]
+
+|CA-6100
+|Stewartville Swamp Nature Reserve
+|45.4131, -76.5117
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6100[^]
+
+|CA-6199
+|Smiths Falls Bascule Bridge National Historic Site
+|44.8957, -76.0278
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6199[^]
+
+|CA-6204
+|Vincent Massey Conservation Park
+|45.3779, -75.6947
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6204[^]
+
+|CA-6209
+|High Falls Conservation Area
+|45.3177, -75.0922
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6209[^]
+
+|CA-6215
+|NCC River House National Heritage Site
+|45.4576, -75.6784
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6215[^]
+
+|CA-6256
+|Major's Hill National Park
+|45.4284, -75.6986
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6256[^]
+
+|CA-6257
+|Rideau Falls and Green Island National Park
+|45.4426, -75.694
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6257[^]
+
+|CA-6336
+|Commissioners National Park
+|45.3965, -75.7079
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6336[^]
+
+|CA-6337
+|LeBreton Flats National Park
+|45.4146, -75.7185
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6337[^]
+
+|CA-6345
+|Confederation National Park
+|45.4225, -75.6924
+|Ante Laurijssen, VA2BBW
+|https://pota.app/#/park/CA-6345[^]
+
+|===

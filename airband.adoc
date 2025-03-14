@@ -1,55 +1,78 @@
 = Airband / Bande aviation
 :showtitle:
 
+.CYOW Ottawa Macdonald-Cartier International Airport / Aéroport international Macdonald-Cartier d'Ottawa
 |===
 | Name/Nom | Frequency/Fréquence (KHz) | Mode | Location | Description/Notes | Submitted by/Soumis par | Reference
 
-|Ottawa International Airport (CYOW)
+|Tower - Bilingual
 |118.800
 |AM
 |Ottawa
 |Tower - Bilingual
 |Tom Cort, VA2NW
-|https://www.radioreference.com/db/aid/3155
+|https://www.radioreference.com/db/aid/3155[^]
 
-|Ottawa International Airport (CYOW)
+|Tower - Bilingual
 |120.100
 |AM
 |Ottawa
 |Tower - Bilingual
 |Tom Cort, VA2NW
-|https://www.radioreference.com/db/aid/3155
+|https://www.radioreference.com/db/aid/3155[^]
 
-|Ottawa International Airport (CYOW)
+|Ground - Bilingual
 |121.900
 |AM
 |Ottawa
 |Ground - Bilingual
 |Tom Cort, VA2NW
-|https://www.radioreference.com/db/aid/3155
+|https://www.radioreference.com/db/aid/3155[^]
 
-|Ottawa International Airport (CYOW)
+|Ottawa Terminal
 |127.700
 |AM
 |Ottawa
 |Ottawa Terminal
 |Tom Cort, VA2NW
-|https://www.radioreference.com/db/aid/3155
+|https://www.radioreference.com/db/aid/3155[^]
 
-|Ottawa International Airport (CYOW)
+|Departures / Départs
 |128.175
 |AM
 |Ottawa
-|Departures
+|Departures / Départs
 |Tom Cort, VA2NW
-|https://www.radioreference.com/db/aid/3155
+|https://www.radioreference.com/db/aid/3155[^]
 
-|Ottawa International Airport (CYOW)
+|Arrivals / Arrivées
 |135.150
 |AM
 |Ottawa
-|Arrivals
+|Arrivals / Arrivées
 |Tom Cort, VA2NW
-|https://www.radioreference.com/db/aid/3155
+|https://www.radioreference.com/db/aid/3155[^]
+
+|===
+
+.CYND Gatineau-Ottawa Executive Airport / Aéroport Exécutif Gatineau-Ottawa
+|===
+| Name/Nom | Frequency/Fréquence (KHz) | Mode | Location | Description/Notes | Submitted by/Soumis par | Reference
+
+|Mandatory/Aerodrome Traffic Frequency
+|122.300
+|AM
+|Gatineau
+|MF/ATF
+|Ante Laurijssen, VA2BBW
+|https://skyvector.com/comment/4608[^]
+
+|Remote Communications Outlet
+|123.375
+|AM
+|Gatineau
+|RCO / FISE
+|Ante Laurijssen, VA2BBW
+|https://skyvector.com/comment/4608[^]
 
 |===
