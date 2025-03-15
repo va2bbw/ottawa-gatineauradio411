@@ -1,0 +1,314 @@
+FIRST_NAME;SURNAME;ADDRESS;CITY;PROVINCE;PHONE1;PHONE2;EMAIL_ADDRESS;EXPIRY_DATE;POSTAL_CODE
+Garry;Jacobs;**;RED DEER;AB;4033431930;;ve6cia@gmail.com;2026-03-08;T4N0A1
+Norm;Rashleigh;1611 WAINFLEET ST.;ORLEANS;ON;6138371733;;norm.ve3lc@gmail.com;2027-05-03;K1C3G3
+Donald;Greene;153 Curtis Pvt.;GLOUCESTER;ON;6136396120;;ve3ign@gmail.com;2026-11-02;K1V7L7
+Mike;Kelly;25 STEVENSON AVE.;OTTAWA;ON;6133220669;;ve3ffk@gmail.com;2026-01-11;K1Z6M9
+Jacques;Lafreniere;19, RUE LAFLECHE;LA TUQUE;QC;8195233827;;jacques.lafreniere@sogetel.net;2025-04-28;G9X1A1
+Yvan;Lessard;526 GENEST;THETFORD MINES;QC;4183327530;4183355554;yvanlessard100@gmail.com;2026-03-08;G6G6T9
+Luc;Bergeron;1600, RUE JACQUES-CARTIER;TROIS-RIVIERES;QC;8193862255;;lucb884@gmail.com;2027-12-13;G8Y3E1
+Roger;Audet;453, 11E AVENUE NORD;SHERBROOKE;QC;8195742017;;rogeraudet@gmail.com;2026-11-02;J1E2V7
+Gilles;Sainton;71 ROUTE 216;STOKE;QC;;8195650520;ve2gqf@gmail.com;2025-10-28;J0B3G0
+Scott;Leaf;P.O. BOX 61, 24740 102A Ave,;MAPLE RIDGE;BC;6048398239;;scott.e.leaf@gmail.com;2026-07-21;V2X7E9
+Niall;Parker;3354 PORT WASHINGTON ROAD;PENDER ISLAND;BC;2502226186;;ve7hex@gmail.com;2027-02-21;V0N2M1
+Bradford Arthur;Ross;2240 Two Island Road, Box 4;PARRSBORO;NS;9022542260;9026940531;ve1zx@mail.com;2025-10-06;B0M1S0
+Michel;Dumais;1505 RUE DES FOUGERES;QUEBEC;QC;4188779045;;ve2sig@videotron.ca;2025-10-17;G2G1X3
+David Arthur;Dickinson;14672 Red Creek Road;CHARLIE LAKE;BC;;2502614790;dickinson10e@outlook.com;2027-03-22;V1J8L8
+Ron;Kolody;P.O. BOX 176;HARRISON HOT SPRINGS;BC;;6043211833;ronk@telus.net;2026-01-06;V0M1K0
+Michael;Deboersap;22 MCGILVARY CR.;GEORGETOWN;ON;9058773492;;mdeboersap@gmail.com;2026-04-14;L7G1L6
+Pierre;Mainville;23 CHATSWORTH DR.;BRAMPTON;ON;9054536644;;VA3PM@sympatico.ca;2025-11-07;L6X2L8
+Ian;Sparling;PMB-144, # 11 - 1673 Richmond St. N.;LONDON;ON;5192827449;;croiser101@hotmail.com;2026-08-17;N6G2N3
+Allan;Boyd;27 RED MILL ROAD, BOX 208;LITTLE CURRENT;ON;7053682779;;VE3AJB@vianet.ca;2027-02-08;P0P1K0
+Paul;Caccamo;331 KEELING DRIVE;CALLANDER;ON;7057521683;;VA3PC@ciinet.org;2027-05-07;P0H1H0
+Frank;Deluca;185 Lyon St. N. , APT.2412;OTTAWA;ON;7057744530;;va3fsd@gmail.com;2025-08-17;K1R7Y4
+Brent;Macmillan;30 CHAPPLE;SAULT STE. MARIE;ON;7057593131;;ve3otl@sympatico.ca;2027-08-06;P6B3N9
+Philip;Gebhardt;43969 Hwy 3, Unit 4;WAINFLEET;ON;4165000901;;pdvgebhardt@gmail.com;2026-06-30;L0S1V0
+Michael Norman;Hill;4985 Somerville Street;VANCOUVER;BC;6043251999;;va7mn@teksavvy.com;2027-03-13;V5W3H1
+Sheldon;Melodick;7460   #1203 Bathurst Street;THORNHILL;ON;4168386400;;shellym@hot-shot.com;2025-08-03;L4J7K9
+Robert;Simpson;492 7764 Knobhill;WASHAGO;ON;7056896545;;rces@rogers.com;2027-07-15;L0K2B0
+David;Tilley;186 FREDERICK STREET;PORT STANLEY;ON;5197823445;;dtilley@execulink.com;2027-07-09;N5L1H2
+Dan;Shack;9 MAGEE STREET;LONDON;ON;5194557669;;DSHACK@ROGERS.COM;2025-06-03;N5W1C5
+Larry;Parker;1741 Lakeshore Road;SARNIA;ON;5195425944;;ve3edy1972@gmail.com;2026-01-23;N7X1C1
+Kerry;Bushell;1 Trillium Way;SIMCOE;ON;5194262785;;kgbushell46@gmail.com;2026-01-11;N3Y0B8
+Paul Edward;Brown;1689 LAKESHORE RD.;SELKIRK;ON;9057762200;;ve3su@ve3su.com;2026-10-25;N0A1P0
+Mitchell;Herf;5692 MELLING AVE;COTE SAINT-LUC;QC;5149264789;;mherf@videotron.ca;2027-04-09;H4W2C4
+Pierre;Provencher;112, Rue SARAH-GARTH;BLAINVILLE;QC;5143860399;;ve2the@hotmail.com;2028-01-20;J7C4T6
+Robert;Sondack;260 DES BERNACHES;SAINT-JEAN-SUR-RICHELIEU;QC;4503489425;;robertsondack@videotron.ca;2026-01-27;J2W2E5
+Reginald;Deroy;57, RUE DE BIENVILLE;BAIE-COMEAU;QC;4182962342;;regi@globetrotter.net;2026-09-15;G4Z1A1
+Cameron;Bremner;25 Huron Street;VICTORIA;BC;2505806048;;cam@ve7xn.com;2025-10-17;V8V4V9
+Joe Kwok Leung;Lam;141-8680 Cambie Road;RICHMOND;BC;6042709933;;cq2waycom@gmail.com;2026-02-13;V6X4K1
+Manuel A.;Machado;25 MARYHILL DR.;ETOBICOKE;ON;6479336525;;manmac502@rogers.com;2025-11-07;M9V3C1
+Thomas J.;Muzzin;24 CHIPPAWA CRT.;BARRIE;ON;7058160639;;tommuzz@sympatico.ca;2026-03-03;L4M5N8
+Alvin;Duncan;38 MAPLEHURST CR.;BARRIE;ON;7057349081;;ve3rrd@sympatico.ca;2026-01-20;L4M4X2
+Francis;Pitre;1109 25 Street;Wainwright;AB;8254617901;;va6fp@outlook.com;2027-11-18;T9W1W4
+Ernie;Ringuette;26-53209 Range Road 183;Yellowhead County;AB;7802800057;;va6ejr@gmail.com;2025-04-11;T7E3B2
+Yvon;Hachey;43 Rue Saint Paul;Rogersville;NB;5068669204;;yvon.hachey@gmail.com;2027-01-24;E4Y1V8
+Terry;Finn;PO Box 68181, RPO Crowfoot;CALGARY;AB;5879984666;;terry@terryfinn.com;2026-05-29;T3G3N8
+Frank;Vanderzande;5995 FRENKEL ROAD;PRINCE GEORGE;BC;2509611173;;frankvdz@telus.net;2026-10-12;V2N6H2
+Dean J.;Penney;117 VALLEY ROAD;CARBONEAR;NL;7095898574;;deanpenney@hotmail.com;2025-06-10;A1Y1A7
+Barry D.;Mackenzie;1001 - 12TH AVENUE S.W.;MOOSE JAW;SK;3063615061;;ve5trf@sasktel.net;2027-01-24;S6H6N2
+William;Leal;2297 PARKWOOD AVE.;WINDSOR;ON;5199157304;;ve3es@yahoo.com;2027-04-19;N8W2K1
+Gary;Skett;64 - 20071 24 Avenue;Langley;BC;6047537822;;VE7AS@shaw.ca;2026-10-12;V2Z2A1
+Rick;Streifel;5-6320 48A Ave;DELTA;BC;6045514051;;locksmth@gmail.com;2025-11-17;V4K4W3
+Clifford L;Olson;625 PARK DR.;CLEARWATER;BC;2506742994;2506741008;bolsoncliffbetty@gmail.com;2026-03-22;V0E1N1
+Terrence;Paton;10156 Blue mountain Road;VANDERHOOF;BC;2505670808;2505612121;terry.ve7up@gmail.com;2026-12-15;V0J3A2
+Larry;Stanley;BOX 1545;VANDERHOOF;BC;2505676992;;larrystanley35@gmail.com;2025-12-20;V0J3A0
+Jeff;Lush;46 Memorial Drive, Unit 327;GANDER;NL;7094545258;;jefflushart@gmail.com;2027-11-08;A1V2R9
+Ken;Whalen;117 Blue Puttee Drive;ST. JOHN'S;NL;7097494516;;ken.vo1st@gmail.com;2026-05-05;A1A0K5
+John;Brown;P.O. BOX 131;NEW GERMANY;NS;9026442913;;j.brown@ns.sympatico.ca;2025-12-12;B0R1E0
+Robert E;McGrath;9 BROWN STREET,;SYDNEY MINES;NS;9027369404;;va1bob@yahoo.ca;2028-02-07;B1V1E7
+Robert Bruce;Harvey;52 SPRUCE DRIVE;Salmon River;NS;9028933908;;bharvey@ns.sympatico.ca;2027-01-22;B2N4X6
+Kenneth D;Oelke;729 HARVEST HILLS DR. NE;CALGARY;AB;4032265840;;ve6afo@telus.net;2026-01-09;T3K4R3
+Stewart;Martin;247 BOSSONS AVE.;DAUPHIN;MB;2046385237;;ve4stu@mts.net;2025-08-25;R7N0R3
+Joseph Yvan Roger;Belanger;3253 Richmond Drive;Cornwall;ON;6133300312;;belanger.roger@sympatico.ca;2027-10-07;K0C1P0
+Fabien;Corsini;1724 RUE DU RENNE;LONGUEUIL;QC;5145948314;;fabien@corsini.ca;2025-05-18;J4N1M8
+Dany-Philippe;Savard;3923 DE LA PICARDIE;JONQUIERE;QC;4185505090;4185472191;danyphsavard@gmail.com;2027-07-10;G7X3X5
+Martin;Arsenault;21, rue des Potagers;RIMOUSKI;QC;4187360000;4187327375;arsemar@outlook.com;2027-02-09;G0L1B0
+Keith;Baker;377 Bentinck Street;Corunna;ON;5194810153;;va3ksf@cogeco.ca;2027-01-22;N0N1G0
+John D;Erskine;404 - 310 ROBERT ST.;VICTORIA;BC;;;va7otc@shaw.ca;2027-06-05;V9A3Z4
+Serge;Lavoie;1507 DES LILAS;SAINTE-JULIE;QC;4506494109;;ve2hls@videotron.ca;2027-04-18;J3E1J3
+Justin;Schmidt-Clever;106 Colonel by Way;MERRICKVILLE;ON;3435534834;;mr-x-2000@rogers.com;2027-04-09;K0G1N0
+Terrance;Rudersdorfer;453 SCENIC DRIVE;COLDSTREAM;BC;2505496740;;norac-ae@zeak.ca;2026-02-06;V1B2W9
+Eric Earle;DePass;17437 KINGS ROAD, Box 251;ST ANDREWS WEST;ON;6139302145;6139989992;earfran@bell.net;2025-12-02;K0C2A0
+Allan G;Winney;5760 STRATHCONA ST.;PORT ALBERNI;BC;2507352093;;ve7cm.al@gmail.com;2025-10-03;V9Y8S4
+Arthur W;Gunn;26 HIDDEN LANE;NASONWORTH;NB;5064595336;;arthur.gunn@gmail.com;2027-04-23;E3B0N6
+Peter Willem;Tryon;1590 Pratt Road;QUALICUM BEACH;BC;2509512727;;ptryon2@gmail.com;2027-02-20;V9K1W7
+Frederick Andrew;Lesnick;2060 HIGHWAY 61;THUNDER BAY;ON;8076300273;;ve3fal@tbaytel.net;2025-11-23;P7J1B9
+Dean;Cassar;7 Walmer Road. APT#2009;TORONTO;ON;4169923326;;mopadean@hotmail.com;2026-10-18;M5R2W8
+Darrel;Smith;4836 36TH AVE;DELTA;BC;6049465187;;darrels@me.com;2026-02-10;V4K3N2
+Earle;Robinson;262 DILL STREET;BRACEBRIDGE;ON;7056462443;;earlerobinson@sympatico.ca;2026-04-17;P1L2G8
+Alan W;Mallett;110-1655 BEGBIE STREET;VICTORIA;BC;2505922183;;va7awm@shaw.ca;2026-09-26;V8R1L4
+Tank;Winters;15516 109A Ave;SURREY;BC;7789689380;;gerdazech@gmail.com;2026-03-24;V3R0Y2
+Frank Wilson;Mclaughlin;4-457 rue Rivière à la Truite;TRACADIE-SHEILA;NB;5067201332;;kilt_2@yahoo.com;2026-05-23;E1X1C8
+E. Hayward;Stratton;9 MATTERN PLACE;GANDER;NL;7092564814;;vo1ehs@yahoo.ca;2027-10-07;A1V2K8
+Darren;Lortie;843 BAY STREET;MIDLAND;ON;7059997301;;dklortie@teksavvy.com;2027-01-24;L4R1M8
+Christopher;Vessey;86 LOWER MALPEQUE ROAD;CHARLOTTETOWN;PE;9029406260;;cvessey@gmail.com;2026-03-27;C1E1R4
+Warren;Paulson;144 WILLOW RD P.O. BOX 2106;ATIKOKAN;ON;8075976989;8075971292;ve3fyn@gmail.com;2027-02-14;P0T1C0
+Steve D;Harvey;17389 McLean Road;MAXVILLE;ON;7786797839;;harvey.steve@gmail.com;2027-01-24;K0C1T0
+Charles;Nagy;21136 PORTERFIELD RD;CALEDON;ON;5199416173;;hamexaminer@hotmail.com;2027-10-16;L7K1S8
+Josue B;Ascano;11 BAYCREST AVE;NORTH YORK;ON;4168232119;;ve3lhy@hotmail.com;2025-10-05;M6A1V7
+Mike;Myers;2858 PRINCE OF WALES DR;NEPEAN;ON;6137964840;;va3mpm@gmail.com;2027-11-08;K2C3H1
+Chester;Latawiec;315 LONDON RD;SARNIA;ON;5193376209;;ve3cfk@gmail.com;2027-02-20;N7T4W2
+Keith R;Gosse;4743 STRAUME AVE;TERRACE;BC;2506355865;;kgosse@uniserve.com;2027-01-03;V8G2C4
+Remi;Lavoie;3022 WILFRID-SIMARD;LA BAIE;QC;4185447936;;ve2lre@hotmail.com;2025-11-22;G7B4C2
+James Douglas;Steventon;8203 KROEKER ROAD;SMITHERS;BC;2508474469;;doug.steventon@yahoo.com;2026-05-24;V0J2N2
+John;Harden;3107 HIGHWAY 535;ST CHARLES;ON;7056626061;;ve3vgi@gmail.com;2027-03-08;P0M2W0
+Nigel William;Johnson;503-97 Lawton Blvd;TORONTO;ON;4164761146;;nw.johnson@ieee.org;2027-09-23;M4V1Z6
+Aldo;Galati;67 AYLESWORTH AVE;COURTICE;ON;9057237320;9054297320;va3ag@sympatico.ca;2026-04-12;L1E3J8
+Edgar Milton Leon;Duquette;13 CAIRNEY CRES.;MEDICINE HAT;AB;4035261195;;ve6mld@gmail.com;2025-04-21;T1B1L5
+Wilfred;Saulnier;370 BURNS HILL RD. R.R. #1;DEEP BROOK;NS;9026388465;;mastercarver65@gmail.com;2025-08-16;B0S1J0
+Robert L;Wortman;13 PARADIS ST;ST-JOSEPH-DE-MADAWASKA;NB;5067354659;;rlwortman@rogers.com;2026-04-14;E7B2N9
+Margarito N;Cruto;323-25 Ancaster Gate;WINNIPEG;MB;2049981879;;ve4mar@hotmail.com;2027-02-15;R3Y1Y9
+Randy;Canning;RR1, SITE 8, Comp 20;CHRISTOPHER LAKE;SK;3063140442;3069600594;ve5qu@yahoo.ca;2027-01-02;S0J0N0
+Robert;Brown;P.O. BOX 749;MASSET;BC;7803148221;;ve7rxb@gmail.com;2027-03-01;V0T1M0
+Stephan;Smolar;4701 Elmgrove Place;BURNABY;BC;6042028854;;ssmolar@telus.net;2026-04-13;V5G3Z1
+Stephen;Gorecki;126 KANTOLA ROAD;LIVELY;ON;7056925631;;ve3cwj@hotmail.com;2025-03-22;P3Y1H4
+Witold;Kinsner;2899 Kingston Crescent;WINNIPEG;MB;;2044746490;witold.kinsner@umanitoba.ca;2027-10-02;R2M0T7
+William (Bill);Demish;145 - 12 STREET N.W.;MEDICINE HAT;AB;4035274710;;ve6yxh@shaw.ca;2027-01-24;T1A6P6
+Kevin James;Short;830 RHEAUME CRESCENT;TIMMINS;ON;7052680517;;ve3kjs@gmail.com;2025-06-23;P4N7S3
+Leslie Leonard;Lindstrom;691 WILLIS ST.;KINGSTON;ON;6135328873;;les.lindstrom@sympatico.ca;2026-01-11;K7M6J5
+Rick;Mate;81 Optimist Drive;St Thomas;ON;;;ve3rqm@hotmail.com;2027-07-15;N5P0G3
+Lyle Edgar;Sibbald;215 GUELPH  ST.;OSHAWA;ON;9055716776;;lylek7yq@gmail.com;2026-08-02;L1H6J1
+Lance Owen;Cuthill;4300 WILKS RD.;CRANBROOK;BC;2504266049;;lcuthill@gmail.com;2026-03-14;V1C6S9
+Roy;Thistle;22 SOUTHAMPTON DR.;SCARBOROUGH;ON;6477634195;;roy.thistle@alumni.utoronto.ca;2027-04-19;M1K4V7
+G. Douglas;Pichette;87-1147 Main Street;PENTICTON;BC;2504878065;;dougva7dp@shaw.ca;2027-04-05;V2A8G4
+Richard;Smith;596 SHORE ROAD;BREADALBANE;NB;5067552960;;bread755@xplornet.ca;2027-04-18;E5C1P3
+Wayne F;Willis;P.O.BOX 191;CHRISTOPHER LAKE;SK;3069809211;;mistyriver_80@hotmail.com;2027-01-26;S0J0N0
+G.John;Schouten;11426, 144A STREET;SURREY;BC;6042005333;;johnschouten@outlook.com;2026-03-14;V3R7C8
+Jose N. Jr.;Talens;10722 155 Street Northwest;Edmonton;AB;7804543304;7807824638;ve6jnt@gmail.com;2027-02-05;T5P2M6
+Lot;Espiritu;5531 10 AVENUE N.W.;EDMONTON;AB;;;ve6lot@shaw.ca;2025-09-27;T6L1Y5
+Peter H.;Risdahl;101 TUSCANY DRIVE N.W.;CALGARY;AB;;;hamve6kk@gmail.com;2025-04-29;T3L2E8
+Allen C.;Wootton;Box 21217 Vista Road;WHITEHORSE;YT;8673349755;;awootton@uniserve.com;2027-05-22;Y1A6R8
+Ronald Glenn;Thompson;14 Ptarmigan Rd;YELLOWKNIFE;NT;8679207515;;ve8rt@yknwt.ca;2027-06-05;X1A2W8
+Edmund Walter;Harwood;9915 DUDLEY DRIVE, PO BOX 459;HUDSON'S HOPE;BC;2507835562;;wharwood@pris.ca;2027-10-07;V0C1V0
+Karl Mel;De Winter;29 Garden Place, Box 767;MAGRATH;AB;4037586887;;dewintk@gmail.com;2026-10-30;T0K1J0
+Lorne R.;Goodwin;2145 TAYLOR DRIVE;NELSON;BC;2508252215;;lgoodwin@telusplanet.net;2025-10-05;V1L6K3
+Alain;Renaud;347 RG.OUEST;SAINT-AMBROISE;QC;4186724195;4188178831;alainva2yr@hotmail.ca;2026-04-13;G7P2X6
+Robert;McKenny;115 Loon Bay Lane;MCDONALDS CORNERS;ON;6134157330;;ve3rmj@gmail.com;2026-02-10;K0G1M0
+Basil;Burgess;1273 St James Ave;Mississauga;ON;4164361940;;bmburgess@rogers.com;2027-12-23;L5E1J2
+Lori;Bedford;425 COLLINS PLACE;THUNDER BAY;ON;8076307688;;lbedford@tbaytel.net;2026-03-14;P7E6R6
+Matthieu;Dugas;1341 CHEMIN GORGE;STILESVILLE;NB;5065884368;;ve9mdb@gmail.com;2026-01-13;E1G3E1
+William John;Baugh;25 - 10 ST. S.E.;MEDICINE HAT;AB;4035273688;4038660677;baugh.william@gmail.com;2026-09-01;T1A1P8
+Peter;Driessen;PO BOX 42075, RPO, OAK BAY;VICTORIA;BC;2507218688;;peterdri@gmail.com;2026-04-14;V8R6T4
+John;Brodie;12144 57 Ave.;Surrey;BC;6045911825;;brodiejb@shaw.ca;2028-02-24;V3X2S3
+Don;Jepson;1216 GALIANO ST.;COQUITLAM;BC;6049423278;;dj3278@telus.net;2027-03-25;V3B5T2
+Julio Cesar;Diaz;321 Pefferlaw Rd.;Pefferlaw;ON;4166881095;4167483564;jcdoooo@rogers.com;2027-02-13;L0E1N0
+Andre Michel;Pilon;204 Sanderson Road;QUESNEL;BC;2506276561;;ve7dqc@gmail.com;2026-03-20;V2J5V9
+Virgilio;Ocampo;407 - 396 E. 2ND AVENUE;VANCOUVER;BC;6047821160;;dynamics@shaw.ca;2026-10-13;V5T4L4
+Robin Brian;Hickman;372 McLean Sawmill Road;MALAKWA;BC;2504631689;;ve7hmn@shaw.ca;2026-01-10;V0E2J0
+Jerry J.;Beneteau;2255 NORMANDY STREET;WINDSOR;ON;5199698893;;ve3ext@gmail.com;2026-11-02;N9H1R1
+William Patrick;Young;1759, rue Walnut;SAINT-HUBERT;QC;4506789463;;wpy@mainbrain.ca;2025-10-03;J4T1G6
+John William;Semenec;986 CHRISTINA PLACE;KELOWNA;BC;2508608660;;john@semenec.ca;2027-03-22;V1V1J5
+William R;Burrows;7059 MALDEN RD., RR1;MAIDSTONE;ON;;5192579812;wburrows@xplornet.com;2027-09-10;N0R1K0
+Hessel;Hessels;209-2567 VICTORIA STREET;ABBOTSFORD;BC;6048555846;6048555846;hhessels@shaw.ca;2027-05-08;V2T2T4
+Minsik;Lee;18 STAGHILL DRIVE;EAST YORK;ON;4168325783;;va3kn@hotmail.com;2027-11-04;M4B1K6
+Kishore Kumar;Nair;10440 RAILWAY AVE;RICHMOND;BC;;6046901935;va7kkn@hotmail.com;2026-12-15;V7E2B8
+Raymond J H;Gowan;PO Box 133;SWIFT CURRENT;SK;3067737064;;ve5xra@icloud.com;2027-12-19;S9H3V5
+Howard Gern;Sabourin;109 - 52063 Range RD. 225;SHERWOOD PARK;AB;7804678679;;GERNLJ@aol.com;2025-05-03;T8C1C3
+Mark A.;Perren;2350 Nechako;KAMLOOPS;BC;5872011712;;m.perren@ymail.com;2027-01-09;V2E1Z3
+Richard David;Parsons;7714 94A Street;GRANDE PRAIRIE;AB;;7809783716;ricksmv2@gmail.com;2027-12-13;T8V4T4
+Martin;Halley;443 rue Allard;SHERBROOKE;QC;;8195625091;ve2fqh@gmail.com;2028-01-09;J1G5C3
+Mike;Lukasik;38 Taylor Crescent;ST THOMAS;ON;5198785949;;mslukasik@outlook.com;2026-09-12;N5R5J4
+B. Scott;Hale;1885 HOYT ST. PO BOX 1203;WESTVILLE;NS;9027596398;;scotthale1955@gmail.com;2027-03-18;B0K2A0
+Edmondo;Conetta;9 Snellview Blvd;Caledon;ON;4168547404;;va3ita@edmondoconetta.com;2027-08-01;L7C3T4
+David G;Michelson;1465 MCNAIR DRIVE;NORTH VANCOUVER;BC;6043125136;6048223544;david.michelson@ubc.ca;2026-10-13;V7K1X4
+Robert;Peterson;5256 Norton Road;NANAIMO;BC;2507608037;;rgpeterson@mac.com;2025-04-11;V9T0B9
+Philip;Quessy;1743 chemin du lac echo;PREVOST;QC;8198568536;;pquessy@gmail.com;2026-09-07;J0R1T0
+Scott Neil;Moody;RR#3, SITE 304, BOX 5;DRYDEN;ON;;8072205496;ssmoody@hotmail.com;2026-01-20;P8N3G2
+Paul Arnold;Fleck;73 Mary Jane Lane;JARVIS;ON;9059064320;;ve3htf@gmail.com;2026-01-11;N0A1J0
+Peter M.;Shilton;3360 Almond Gardens Road West;GRAND FORKS;BC;2504448877;;ve7ps@telus.net;2025-12-29;V0H1H4
+Steve;Martak;1627 SUNNYCOVE DRIVE;MISSISSAUGA;ON;9052799187;;stevemartak@rogers.com;2027-03-24;L4X1B6
+Rock;Mallin;**;JOHNSTOWN;ON;6139257592;;mallincam@gmail.com;2028-02-06;K0E1T1
+Frederick Schurman;Archibald;25 CANARD STREET RR#1;PORT WILLIAMS;NS;9025821561;;fred.ve1fa@gmail.com;2025-12-12;B0P1T0
+Kevin G.;Smith;679 Boulder Road;South River;ON;9053801305;;va3kgs@gmail.com;2027-01-24;P0A1X0
+Martin;McCulloch;124 Taylorwood Ave.;BOLTON;ON;2262182976;;martymcc@gmail.com;2026-12-15;L7E1H8
+Charles P.;Cohen;33-8111 SAUNDERS RD;RICHMOND;BC;;;va7cpc@gmail.com;2027-02-01;V7A4L9
+Jean-Claude;Dignard;151-B Rte 230;SAINT-PHILIPPE-DE-NERI;QC;4185519677;;ve2dig@videotron.ca;2027-05-16;G0L4A0
+Carol;Hutchinson;8939 Hwy 10;Nictaux Falls;NS;9028257522;;cfhutchinson@gmail.com;2027-04-03;B0S1P0
+Eamon;Egan;3495 WESTMORE AVE.;MONTREAL;QC;5149639024;;eamon.egan@gmail.com;2027-03-22;H4B1Z7
+Daria;Juniper;1475 King St W E3;Toronto;ON;6474798860;;dariajuniper@gmail.com;2027-01-22;M6K1J4
+René;Brousseau;4160 RUE D'AUTRAY;TERREBONNE;QC;;4383915260;ve2esu@gmail.com;2028-03-05;J6X1L2
+Tony Calado;Fonseca;44 FULMAR STREET;KITIMAT;BC;2506394676;;va7tf.1@gmail.com;2026-04-17;V8C1T4
+Guida;Bendrich;483 DOUGLAS AVENUE;FREDERICTON;NB;5064534520;5064473238;bendrich@unb.ca;2025-12-16;E3A5T1
+Brent R.;Petersen;50 BLUE HERON DRIVE;HANWELL;NB;5064548676;5064473328;b.petersen@ieee.org;2025-12-16;E3E2L1
+Richard;Tervo;257 KIMBLE DRIVE;FREDERICTON;NB;5064585957;5064473137;tervo@unb.ca;2025-12-16;E3B4Y9
+Ira;Stacey;9 SPRUCE GROVE AVE.;GOULDS;NL;;7096935959;vo1ira@yahoo.ca;2026-12-20;A1S0A5
+Mark Denis;Morin;5024A de la Roche;Montreal;QC;5146884163;;mark@partout.ca;2027-03-22;H2J3J9
+Roldan Gloria;Bartolome;67 CRANARCH CIRCLE SE;CALGARY;AB;4038368340;;ve6rgb@shaw.ca;2027-08-27;T3M0S3
+Micheal;Misiwich;Box 175;ARDMORE;AB;7808269012;7808269214;va6mis@yahoo.ca;2027-08-09;T0A0B0
+Brian;Allen;558 Bedford Highway, Apt 410;HALIFAX;NS;9024894656;;basailor@eastlink.ca;2028-02-25;B3M0A2
+John;Leonardelli;42 Kettle Court;Maple;ON;;;john.leonardelli@gmail.com;2027-10-07;L6A2M2
+Richard Aurel;Chabot;52 Kimberly Drive;Kapuskasing;ON;7053350460;;bikesinmotion81@gmail.com;2027-09-05;P5N1L6
+Luc;Romain;140 Félix-Leclerc;GATINEAU;QC;6138974467;;ve2lrs@ve2reh.com;2027-01-09;J9H0G4
+Joe;Metallo;11 Albert Street West;Hillsdale;ON;;2885530411;va3tal@gmail.com;2027-12-05;L0L1V0
+Joe;Craig;Box 1033;TORBAY;NL;7097276015;;jmc@nf.sympatico.ca;2025-11-09;A1K1K8
+Paul Joseph;Leger;32 IVAN COURT;HAMPTON;NB;5068321992;;legerpj@nbnet.nb.ca;2025-11-10;E5N5B6
+Pierre;Champagne;930 DES TULIPES;BECANCOUR;QC;;8193804619;pierrechampagne@cgocable.ca;2026-04-06;G9H2S8
+Steve;Toupin;194-2 rue Gallant;SEPT-ILES;QC;5148170455;;ve2tkh@yahoo.ca;2026-04-18;G4R3T8
+Istvan;Nyul;15 Talbot Street;COURTLAND;ON;5194897027;;inyul@teksavvy.com;2026-01-04;N0J1E0
+Konstantinos;Madzaras;15654 Gaucher;PIERREFONDS;QC;5145538078;;belairtech@gmail.com;2027-05-02;H9H4V8
+Terrance Daniel;Wagner;#139 Foxhaven Way;SHERWOOD PARK;AB;7802339130;;tdwagner@gmail.com;2027-10-10;T8A6N4
+Ian;Rennie;#1004, 5300 - 49th Street;Yellowknife;NT;8674454996;;ian_rennie@gov.nt.ca;2027-11-28;X1A3G5
+Garry;Bukowiecki;102 LA ROSE DR;ST. ALBERT;AB;7804584692;;gbuk@shaw.ca;2025-08-16;T8N2T2
+Arpad;Vadasz;30 Bettina Ave.;Hamilton;ON;4168789194;;va3vad@yahoo.com;2025-10-05;L8K3M5
+Richard;Henderson;5930 Cody Pl;NEW WESTMINSTER;BC;;7083747424;rhenderson@gmail.com;2027-01-05;V9V1J7
+Paul;Gouger;371 ST JACQUES;SAINT-MICHEL-DES-SAINTS;QC;4508336395;;va2pgr@gmail.com;2027-02-14;J0K3B0
+Dwight Edward;Morrow;7135 Blackwell Road;Kamloops;BC;2505737663;;dwight.morrow53@telus.net;2027-02-08;V2C6V8
+Brent;Taylor;30 Harland View Dr.;Stratford;PE;9023307668;;vy2hf.radio@gmail.com;2027-02-09;C1B1W3
+Martin;Massie;105 rue des Bassons;SAINT-COLOMBAN;QC;5142415081;;ve2zmm@gmail.com;2025-05-06;J5K1Y7
+Rodney L.E.;Clifton;2188 Bader Cres;Burlington;ON;9053350267;2892429663;VE3ISO@gmail.com;2027-03-18;L7P4N6
+J. Thomas;Mitchell;P.O. Box 232;EDMONTON;AB;7804468958;;mitch@tnc.com;2027-02-08;T5J2J1
+Randy C;Morden;PO Box 405;Berwyn;AB;;;rcmorden@protonmail.com;2027-10-03;T0H0E0
+Norman;Fex;1611 RUE DES PRAIRIES;TROIS-RIVIÈRES;QC;8196911705;;normanfex@videotron.ca;2026-02-15;G8T1K7
+David G;Llewellyn;982 Maple Heights Rd;QUESNEL;BC;;;ve7dgl@gmail.com;2027-06-20;V2J3X3
+François;Provencal;45 PARC TISSEUR;LERY;QC;4386993981;;ve2mrs@gmail.com;2027-09-17;J6N1G1
+Gerald;Lemay;495 Rue Chasse;Drummondville;QC;8194747768;;gerald.lemay.va2gj@gmail.com;2026-03-28;J2C4E5
+Kevin H.;Lemon;54 Elmwood Avenue;Welland;ON;9059411953;;ve3rrh@gmail.com;2026-04-06;L3C2E1
+Wayne;Galaugher;905-12079 Harris Rd;Pitt Meadows;BC;6047901943;;wgalaugher@telus.net;2027-03-01;V3Y0C7
+Douglas Wayne;Holmes;18 Noah's Park;ANTIGONISH;NS;9028636932;;dwholmes@hotmail.com;2028-03-11;B2G2X3
+Alan;McLean;326 ROSSMORE ROAD;SAULT STE. MARIE;ON;7059458495;;trallex50@gmail.com;2025-12-16;P6C2Z3
+David Graham;McCarter;511 HIBISCUS AVENUE;LONDON;ON;5194721437;;astronomizer@gmail.com;2026-06-14;N6H3P2
+Michael Arnold;Cook;1478 Adelaide Street N., #61;London;ON;5198727432;;mcook@uwo.ca;2026-06-14;N5X3Y1
+Meenakshinathan;Parameswaran;1870 Rideau Ave;COQUITLAM;BC;;7787824971;paramesw@sfu.ca;2025-08-03;V3J3G8
+Richard (RYSZARD) LUDWIK;WODZIANEK;2564 Harrier Drive;COQUITLAM;BC;;;va7rlw@telus.net;2025-11-08;V3E2A8
+Alphonse Dewayne;Penney;365 Victoria Road;AYLESFORD;NS;9028470554;;alphonsepenney@gmail.com;2026-05-02;B0P1C0
+Linda Mary;Peterson;5256 Norton Road;NANAIMO;BC;;;lnpeterson1@icloud.com;2026-06-21;V9T0B9
+Gilles;Beaulieu;1010 Elizabeth St.,  P.O. Box 22;Curran;ON;6137121058;6135182262;VE3NPI@OUTLOOK.COM;2028-01-27;K0B1C0
+Gary;Morrison;#93-2600 Ferguson Road;Saanichton;BC;;;gary@islander.link;2025-03-22;V8M2C1
+Gabor;Horvath;1559 BROOK STR. BOX 345;CROFTON;BC;2507158634;;ve7jh@rac.ca;2025-06-23;V0R1R0
+Vince;d'Eon;27 Cimarron Meadows Crescent;Okotoks;AB;5878884870;;vince@vincedeon.com;2028-01-17;T1S1S9
+Nehemias B.;Medina;16405 - 49 Street N.W.;EDMONTON;AB;;;nehemias.medina@gmail.com;2025-06-09;T5Y0A5
+David;Evans;4911 Aho Road;Ladysmith;BC;2502458842;;david.evans.va7dxx@gmail.com;2025-10-11;V9G1G8
+Philip John;Bradbury;1351 Anderton Rd;Comox;BC;2503396975;2367931091;ve7xfa@shaw.ca;2025-11-10;V9M3Z2
+Drago;Lambeta;16 Everden Road;WINNIPEG;MB;2044160184;;drago@lambeta.net;2027-12-23;R2N3Y2
+David;Latour;659 VALOUR RD.;WINNIPEG;MB;2048017698;;ve4dla@gmail.com;2027-12-02;R3G3A8
+Levente Imre;Buzás;***;Victoria;BC;;2507218989;va7qf@myrac.ca;2026-09-21;V8X1G3
+Aaron Kent;Abbott;6 Lady Anderson Street;ST. JOHN'S;NL;7093279351;;XKD466@GMAIL.COM;2026-02-14;A1B0B2
+Tony;Pattinson;54 CEDAR CIRCLE;DOLLARD-DES-ORMEAUX;QC;5146223397;5146223397;VE2KM@ynotsailing.com;2026-11-15;H9B1H6
+Donald;Hekman;65 Dr. Gordon Crescent;KEMPTVILLE;ON;6132586170;;don.hekman@gmail.com;2025-04-11;K0G1J0
+Christian;Henri;783 rue Joseph Carrier;LEVIS;QC;4184568733;;va2chq@gmail.com;2027-02-15;G6C1H5
+Francesco;DeChellis;198 Michael Drive;WELLAND;ON;9057083077;;fdechellis@niagaracollege.ca;2026-01-23;L3C7B8
+David Cameron;Franklin;5727 Remington Cres;Chilliwack;BC;;6049977016;ve7dcf@outlook.com;2026-05-24;V2R3X1
+Kosta;Arvanitis;5336 Lost Lake Rd.;Nanaimo;BC;2507589443;;ve7kcy@gmail.com;2026-03-28;V9T5E8
+Christopher;Hillier;29 Round Pond Road;PORTUGAL COVE-ST PHILIPS;NL;7093303350;;vo1idx.chris@gmail.com;2025-10-31;A1M2Z4
+Stephen;Eiler;5 Ealing Drive;NORTH YORK;ON;6474702960;;seiler@plantoprosper.co;2026-02-09;M2L2R4
+David;Goodwin;141 Acton Drive;Smiths Falls;ON;6134304911;;goodwindave.73@gmail.com;2027-11-01;K7A5B8
+Ryan;McClinchey;R.R.3, 62 Wellingston Street South;GODERICH;ON;5195291144;;ryanmcc@hurontel.on.ca;2026-01-25;N7A3X9
+Christopher;Walter;404 Phipps Crescent;Kelowna;BC;2507659493;;walter_c@telus.net;2026-07-24;V1X7N3
+Roger;Cyr;14-1271 BEAUBIEN EST;MONTREAL;QC;5142761163;;rc@bell.net;2026-08-03;H2S1V1
+Guy;Lemieux;2100-2 Georgeville Road;MAGOG;QC;8198433058;;guy@guylemieux.com;2028-03-11;J1X7V6
+Victor F.;DiCiccio;365 GLASGOW ST;KITCHENER;ON;5195763729;;vicd@uwaterloo.ca;2025-06-22;N2M2M9
+Harrie F C;Jones;68 Crossley Road;Rosseau;ON;6139781557;;harriej59@gmail.com;2025-07-28;P0C1J0
+Jeremy;Burnett;PO Box 674;Brooks;AB;4033620928;;ve6jbw@gmail.com;2025-09-27;T1R1B6
+Carole;Eng;P.O. Box 88055;RICHMOND;BC;;;va7qce@hotmail.com;2025-08-17;V6X3T6
+Steven J.;McLean;14689 72A Avenue;Surrey;BC;;6046578753;steve.mclean@hpe.com;2026-10-12;V3S9L8
+Kevin William Lloyd;McQuiggin;4022 Haas Road;COURTENAY;BC;;;mcquiggi@sfu.ca;2026-01-04;V9N9T4
+Scott William;Mitchell;39 ELMWOOD AVE;CAMBRIDGE;ON;;;scottm2015@gmail.com;2027-09-04;N1R4Y3
+Jean;Mandeville;2083 Baldwin;Montreal;QC;4388731465;;ve2dqb@hotmail.com;2027-08-22;H1L5A5
+Dennis;D'Entremont;PO Box 501, 3119 Highway 334;Lower Wedgeport;NS;;;dennis@ddentremont.com;2027-09-10;B0W2B0
+Michael A;Iszak;C-191 Earlscourt Ave;Toronto;ON;;2899990295;miszak@gmail.com;2025-03-22;M6E4B2
+Floro Jr;Llagas;1395 EAST 36TH AVENUE;Vancouver;BC;;;ve7fjl.va7fl@gmail.com;2028-03-05;V5W1E1
+Erik;Skovgaard;PO Box 56;Quathiaski Cove;BC;;;ve7mdl@gmail.com;2028-03-13;V0P1N0
+Harry Gerard;Niezen;116 Monteagle Crescent;Kitchener;ON;5198977040;;hniezen@gmail.com;2027-02-08;N2N1N1
+Christian;Angelakis;7 Cameron Ave.;Dundas;ON;9059292628;;ve3qyv@gmail.com;2027-03-04;L9H1P4
+Robert Edward;Suek;BOX 66;YELLOW CREEK;SK;;;ve5agbob@sasktel.net;2025-05-25;S0K4X0
+Ancel C.;Mamucud;7 Finestone St.;WINNIPEG;MB;2042326994;;ve4aae@gmail.com;2025-12-29;R2R1E3
+Georges-André;Chaudron;23 des Pommiers;Gatineau;QC;8197776852;;gachaudron@gmail.com;2027-12-06;J9A3V2
+Dean;Stennes;1578 Rondeault Road;Cowichan Bay;BC;2505974181;;ve7new@shaw.ca;2027-01-02;V0R1N1
+Felix;Jochin Jr;1246 MCALLISTER WAY SW;EDMONTON;AB;7807578381;;fjochin@shaw.ca;2027-01-29;T6W1X7
+Pierre;Poirier;7 6,avenue;Forestville;QC;4185870618;;poirier.pierre1@telus.net;2027-03-13;G0T1E0
+Jack Miroslav;Benes;12 PEACH TREE PARK;FONTHILL;ON;;9057143857;jack.benes@gmail.com;2027-08-26;L0S1E0
+Sylvain;Marcotte;104 rue Piché;CAP-SANTE;QC;4182830491;;smarcott70@hotmail.com;2025-10-20;G0A1L0
+Terry;White;30 Davis Place;REGINA;SK;3065861810;;twhite@sasktel.net;2026-02-03;S4S4R1
+Bruce;Clements;16 Frontenac Drive;MCKELLAR;ON;2893835448;;ve3bv.ca@gmail.com;2026-02-10;P0G1C0
+Louis;Perron;986 RUE BIBEAU;LAVAL;QC;4506895425;;perronlouis@videotron.ca;2026-05-03;H7Y1E4
+Douglas R.;Newberry;132 Grandview Place;Cranbrook;BC;7785175448;2365053330;doug@blackinktechnologies.ca;2026-05-04;V1C6R4
+John;Klassen;66 Ritz Cr.;New Hamburg;ON;;;john.klassen@kindredcu.com;2025-07-08;N3A2E2
+Jason J.;McDonald;8-1560 Prince Street;PORT MOODY;BC;;;pascocap2002@yahoo.com;2025-07-08;V3H3W8
+Alvin;Austin;Site 601, Comp 74, RR 6;Saskatoon;SK;3063412300;;alvin.austin@gmail.com;2025-07-19;S7K3J9
+Robert P;Jankov;31 Ontario Street;Picton;ON;;;rpjankov31@gmail.com;2027-11-21;K0K2T0
+Robert Wayne;Noakes;55 ALBERT ROAD RR2;TIVERTON;ON;5195623621;;rwnoakes@bmts.com;2025-08-16;N0G2T0
+Nicetos Benedicto Florendo;Campos;6521 Nanaimo St;Vancouver;BC;;;direkchito@gmail.com;2025-08-16;V5P4L1
+Clyde;Murray;36179 Dawn Crescent;ABBOTSFORD;BC;6048500400;;clydermurray@gmail.com;2025-11-25;V3G1C6
+Benjamin Michael Thomas;Riehl;General Delivery;Durban;MB;;;exams@riehl.me;2025-11-29;R0L0P0
+Robert Wallace;Campbell;9 Crown Hill Place, #208;ETOBICOKE;ON;;;ve3vaj@gmail.com;2026-01-16;M8Y4C5
+Christopher John;Sullivan;316 AURORA HEIGHTS DRIVE;AURORA;ON;;;dx@ve3nrt.net;2026-05-18;L4G5C4
+Rene Gerald;Champagne;53,15E RUE;ROXBORO;QC;5149008442;;ve2ri@mail.com;2026-11-06;H8Y1N7
+Stephen;Conrad;109 Evergreen Drive;Moncton;NB;5063840649;;ve9sc@ve9sc.com;2025-11-10;E1G1Y2
+Kyle;Moxam;598 Queen Elizabeth Street;Lively;ON;4165770795;;kyle@moxam.ca;2026-08-02;P3Y1N1
+David;Gallois;661 York Rd;Dundas;ON;9056998104;;VA3DGA@outlook.com;2025-09-27;L9H5Z3
+Geoffrey Harry;Bawden;85 BARRINGTON AVENUE;WINNIPEG;MB;4313360342;;ghbawden@gmail.com;2025-09-23;R2M2A6
+Guy Jr.;Beaupre;149 DE NORMANDIE;SAINT-BASILE-LE-GRAND;QC;;;guy.beaupre@electa.ca;2026-07-17;J3N1T4
+L. A. Robert;Brosseau;34 Dawson Street;LACOLLE;QC;4502461111;;va2dbj@gmail.com;2026-07-13;J0J1J0
+Bruce H;Wade;1610 COW BAY RD;COW BAY;NS;9022214790;;brucehwade@bellaliant.net;2026-11-15;B3G1L1
+JAMES MAURICE;PAULSON;49-9th Street Southeast;MEDICINE HAT;AB;4035814106;;jpaulson1963@gmail.com;2026-11-15;T1A1N1
+Rhonda;Shand;55,51551 RANGE ROAD 212A;SHERWOOD PARK;AB;;;gwshand@shandpower.com;2026-06-14;T8G1B2
+NORMAN ILLIS;REINTAMM;400085, Grey Road 4;Flesherton;ON;;;normanreintamm@gmail.com;2026-03-28;N0C1E0
+Thomas E;Fisher;801  Point Lane;Lyndhurst;ON;6139850144;;ve3tef@kingston.net;2026-06-14;K0E1N0
+Aaron;Conner;RR 1 Site 4 Comp 33;Legal;AB;7802999672;;aaron.t.conner@gmail.com;2026-07-13;T0G1L0
+Richard;Baker;540 Barker Avenue;Peterborough;ON;;7052437210;rbaker42@primus.ca;2026-06-23;K9J1E5
+Paul;Weston;851 RAINBOW RD.;SALT SPRING ISLAND;BC;2505379886;;ve7pjo@gmail.com;2026-06-21;V8K2M8
+Bruce;Winter;4757 LONDON GREEN PLACE;DELTA;BC;6049466607;;winter@dccnet.com;2025-10-28;V4K4X1
+Clifford;Dungey;43 Falkirk Drive;DELHI;ON;2263883262;;cdungey@ctsit.ca;2026-03-08;N4B2W4
+James E.;Sloane;164 Powell Crescent  Box 1139;Souris;MB;2049222427;;jim_sloane@outlook.com;2026-09-19;R0K2C0
+Gregory Stephen;Halinda;9 Birch Road;FORT MCMURRAY;AB;7807433123;;halindag@shaw.ca;2026-10-12;T9H1J6
+Kevin;Lewis;14-9762 Ermacora Road;Cranbrook;BC;2509199625;2509199625;va7kjl@gmail.com;2026-12-01;V1C7E1
+Donald R;Tolson;884 Ava Place;Parksville;BC;;;drtolson@outlook.com;2026-12-19;V9P1Y9
+Michel;Vandal;872 rue des Sorbiers, Amos, Quebec, Canada;Amos;QC;8192719903;;michelvandal@yahoo.ca;2027-02-20;J9T3G8
+Akanksha;Joshi;169 Royal Birch Cres NW;Calgary;AB;;;ve6aks@gmail.com;2027-02-20;T3G5P2
+Michael;Beaveridge;3703 42 St SW;Calgary;AB;7786330411;;tabaliah@mac.com;2027-03-22;T3E3M9
+Vanessa;Perrier;174 MAIN ROAD, PO Box 405;ST GEORGES;NL;7096496953;;NESSY91@PM.ME;2027-06-03;A0N1Z0
+Joseph George Robert;Brown;4 BOW ST.;DARTMOUTH;NS;9024632620;;ve1bfx@hotmail.com;2027-06-03;B2Y4H8
+Diane Lynn;Ernst;73 MAPLEHILL DR.;BIG BRAS D'OR;NS;;;ernstd@eastlink.ca;2027-07-09;B1X1Y3
+RICHARD JOHN;MITCHELL;6176 Highmoor Road;SECHELT;BC;;;richardm57@icloud.com;2027-05-23;V7Z0L1
+Nicholaos;Janetos;30 CANHAM CRESCENT;SCARBOROUGH;ON;4166606533;;tncexaminer@gmail.com;2027-06-27;M1S2H6
+Gary Leroy;Wheeler;30 SHERIDAN ROAD WEST;LETHBRIDGE;AB;;;gary@drhd.com;2027-05-23;T1K4L8
+Wayde;Nie;99 Pleasant Ave.;Dundas;ON;;2895270536;testing@va3n.ca;2027-06-14;L9H3T6
+James;St Cyr;101 Ilkka Drive;Kakabeka Falls;ON;8077071021;;1021yqt@gmail.com;2027-04-09;P0T1W0
+Eric;Mundle;1623 Rockaway Street;OSHAWA;ON;9059628670;;va3eam@gmail.com;2027-04-03;L1K0L9
+Halden;Field;**;North Vancouver;BC;;;incorridge@yahoo.com;2027-05-07;V7K2L6
+Kenneth Lloyd;Hilton;c/o UTARS, 10 King's College Rd, B740 Sanford Fleming Bldg.;Toronto;ON;;;va3byx@gmail.com;2028-02-10;M5S3G8
+Martin Richard;Bordt;524 THOUSAND ISLANDS PARKWAY;LANSDOWNE;ON;6136592020;;reagentmartin@gmail.com;2028-02-14;K0E1L0
+Sylvain;Coulombe;1464 route 122;Saint-Bonaventure;QC;8198188856;;sylcou12@gmail.com;2027-01-23;J0C1C0
+Stephen Michael;WHITE;1271 Risto Road;Eganville;ON;6137070376;;va3wav@gmail.com;2027-09-17;K0J1T0
+Rémi;Comeau;141 CH. G boudreau;Sormany;NB;5065450186;;amateur1966@gmail.com;2027-04-16;E8K0C7
+Terrence;Sutherland;PO Box 34, 26 High Street;Roblin;MB;4317608275;;terrence3556@gmail.com;2027-08-01;R0L1P0

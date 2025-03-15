@@ -39,7 +39,7 @@ with open(sota_adoc_filename, "w") as f:
     f.write(":showtitle:\n\n")
     f.write(".SOTA Summits / Sommets SOTA\n")
     f.write("|===\n")
-    f.write("| Summit/Sommet | Name/Nom | Location | Submitted by/Soumis par | Reference\n\n")
+    f.write("| Summit/Sommet | Name/Nom | Location | Height (m)/Hauteur (m) | Submitted by/Soumis par | Reference\n\n")
 
     with open(sota_csv_filename, mode='r') as file:
         csvFile = csv.reader(file)
@@ -50,7 +50,7 @@ with open(sota_adoc_filename, "w") as f:
                     if -90 <= lat <= 90:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
-                            f.write(f"|{lines[0]}\n|{lines[3]}\n|{lat}, {lon}\n|{sub_name}\n|{sota_site_pref}{lines[0]}[^]\n\n")
+                            f.write(f"|{lines[0]}\n|{lines[3]}\n|{lat}, {lon}\n|{lines[4]}\n|{sub_name}\n|{sota_site_pref}{lines[0]}[^]\n\n")
                  except ValueError:
                      print(f"Skipping invalid lat/lon: {lines[9]}, {lines[8]}")
     f.write("|===")

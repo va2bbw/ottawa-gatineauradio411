@@ -1,0 +1,120 @@
+= ISED Accredited Examiners / Examinateurs accrédités ISDE
+:showtitle:
+
+.ISED Accredited Examiners / Examinateurs accrédités ISDE
+|===
+| Name/Nom | Addresse | Telephone | email/courriel | Submitted by/Soumis par | Reference
+
+|Norm Rashleigh
+|1611 WAINFLEET ST., ORLEANS, ON, K1C3G3
+|6138371733 
+|norm.ve3lc@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Donald Greene
+|153 Curtis Pvt., GLOUCESTER, ON, K1V7L7
+|6136396120 
+|ve3ign@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Mike Kelly
+|25 STEVENSON AVE., OTTAWA, ON, K1Z6M9
+|6133220669 
+|ve3ffk@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Frank Deluca
+|185 Lyon St. N. , APT.2412, OTTAWA, ON, K1R7Y4
+|7057744530 
+|va3fsd@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Joseph Yvan Roger Belanger
+|3253 Richmond Drive, Cornwall, ON, K0C1P0
+|6133300312 
+|belanger.roger@sympatico.ca
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Justin Schmidt-Clever
+|106 Colonel by Way, MERRICKVILLE, ON, K0G1N0
+|3435534834 
+|mr-x-2000@rogers.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Eric Earle DePass
+|17437 KINGS ROAD, Box 251, ST ANDREWS WEST, ON, K0C2A0
+|6139302145 6139989992
+|earfran@bell.net
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Steve D Harvey
+|17389 McLean Road, MAXVILLE, ON, K0C1T0
+|7786797839 
+|harvey.steve@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Mike Myers
+|2858 PRINCE OF WALES DR, NEPEAN, ON, K2C3H1
+|6137964840 
+|va3mpm@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Robert McKenny
+|115 Loon Bay Lane, MCDONALDS CORNERS, ON, K0G1M0
+|6134157330 
+|ve3rmj@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Rock Mallin
+|**, JOHNSTOWN, ON, K0E1T1
+|6139257592 
+|mallincam@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Luc Romain
+|140 Félix-Leclerc, GATINEAU, QC, J9H0G4
+|6138974467 
+|ve2lrs@ve2reh.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Gilles Beaulieu
+|1010 Elizabeth St.,  P.O. Box 22, Curran, ON, K0B1C0
+|6137121058 6135182262
+|VE3NPI@OUTLOOK.COM
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Donald Hekman
+|65 Dr. Gordon Crescent, KEMPTVILLE, ON, K0G1J0
+|6132586170 
+|don.hekman@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|David Goodwin
+|141 Acton Drive, Smiths Falls, ON, K7A5B8
+|6134304911 
+|goodwindave.73@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Georges-André Chaudron
+|23 des Pommiers, Gatineau, QC, J9A3V2
+|8197776852 
+|gachaudron@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|===
