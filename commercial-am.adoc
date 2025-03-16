@@ -4,12 +4,20 @@
 |===
 | Name/Nom | Frequency/Fréquence (KHz) | Mode | Location | Description/Notes | Submitted by/Soumis par | Reference
 
+|CFGO
+|1200
+|AM
+|Ottawa
+|TSN 1200
+|Myles Bird, VA3MYZ
+|https://en.wikipedia.org/wiki/CFGO[^]
+
 |CJEU
 |1670
 |AM
 |Gatineau
 |Radio Jeunesse
 |Ante Laurijssen, VA2BBW
-|https://en.wikipedia.org/wiki/CJEU_(AM)
+|https://en.wikipedia.org/wiki/CJEU_(AM)[^]
 
 |===

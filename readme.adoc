@@ -80,6 +80,9 @@ _Les autres répertoires tels que "html, "pdf", etc, contiennent les fichiers co
 - xref:airband.adoc[Airband / Bande aviation]
 
 == Resources / Ressources
+- xref:ised-ham-db.adoc[ISED Amateur Database / Base de données amateur ISDE]
 - xref:ised-accred-examiners.adoc[ISED Accredited Examiners / Examinateurs accrédités ISDE]
 - xref:pota-parks.adoc[POTA Parks / Parcs POTA]
 - xref:sota-summits.adoc[SOTA Summits / Sommets SOTA]
+- xref:wwff-parks.adoc[WWFF Parks / Parcs WWFF]
+- xref:arlhs-lighthouses.adoc[ARLHS Lighthouses / Phares ARLHS]

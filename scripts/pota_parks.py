@@ -51,6 +51,9 @@ with open(pota_adoc_filename, "w") as f:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
                             f.write(f"|{lines[0]}\n|{lines[1]}\n|{lat}, {lon}\n|{sub_name}\n|{pota_site_pref}{lines[0]}[^]\n\n")
+                            print(f"\n***Park {lines[0]} added to the database.***\n".upper())
+                        else:
+                            print(f"Park {lines[0]} not added to the database.")
                 except ValueError:
-                    print(f"Skipping invalid lat/lon: {lines[5]}, {lines[6]}")
+                    print(f"Park {lines[0]} not added to the database.")
     f.write("|===")

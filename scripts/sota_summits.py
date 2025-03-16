@@ -51,6 +51,11 @@ with open(sota_adoc_filename, "w") as f:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
                             f.write(f"|{lines[0]}\n|{lines[3]}\n|{lat}, {lon}\n|{lines[4]}\n|{sub_name}\n|{sota_site_pref}{lines[0]}[^]\n\n")
+                            print(f"\n***Summit {lines[0]} added to the database.***\n".upper())
+                        else:
+                            print(f"Summit {lines[0]} not added to the database.")
+                    else:
+                        print(f"Summit {lines[0]} not added to the database.")
                  except ValueError:
-                     print(f"Skipping invalid lat/lon: {lines[9]}, {lines[8]}")
+                     print(f"Summit {lines[0]} not added to the database.")
     f.write("|===")
