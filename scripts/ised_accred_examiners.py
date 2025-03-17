@@ -63,7 +63,7 @@ with open(accred_exam_adoc_filename, "w") as f:
                     if -90 <= lat <= 90:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
-                            f.write(f"|{lines[0]} {lines[1]}\n|{lines[2]}, {lines[3]}, {lines[4]}, {lines[9]}\n|({lines[5][:3]}) {lines[5][3:6]}-{lines[5][6:10]} {lines[6][:-2]}\n|{lines[7]}\n|{sub_name}\n|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]\n\n")
+                            f.write(f"|{lines[0]} {lines[1]}\n|{lines[2]}, {lines[3]}, {lines[4]}, {lines[9]}\n|({lines[5][:3]}) {lines[5][3:6]}-{lines[5][6:10]}, ({lines[6][:3]}) {lines[6][3:6]}-{lines[6][6:10]}\n|{lines[7]}\n|{sub_name}\n|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]\n\n")
                             print(f"\n***{lines[0]} {lines[1]} added to the database.***\n".upper())
                         else:
                             print(f"{lines[0]} {lines[1]} not added to the database.")
