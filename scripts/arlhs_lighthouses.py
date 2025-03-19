@@ -88,7 +88,7 @@ with open(arlhs_adoc_filename, "w") as f:
                         if distance <= 100:
                             f.write(f"|{lines[1]}\n")
                             f.write(f"|{lines[0]}\n")
-                            f.write(f"|{google_maps_url_pref}{lat},{lon}[{lat, lon}^]\n")
+                            f.write(f"|{google_maps_url_pref}{lat},{lon}[{lat},{lon}^]\n")
                             f.write(f"|{sub_name}\n")
                             f.write(f"|{arlhs_site_pref}{lines[1].replace(" ", "")}.html[^]\n\n")
                             print(f"\n***Lighthouse {lines[1]} added to the database.***\n".upper())
