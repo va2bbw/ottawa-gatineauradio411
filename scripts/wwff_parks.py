@@ -11,6 +11,7 @@ import sys
 os.chdir(os.path.dirname(os.path.abspath(sys.argv[0])))
 
 # Set the lattitude and longitude frome where we want to calculate the distance
+# Parliament Hill
 ottawa_lat = 45.423599
 ottawa_lon = -75.701050
 
@@ -23,6 +24,9 @@ wwff_adoc_filename = "../wwff-parks.adoc"
 
 # Wwff website prefix - for use with reference links + park ref#
 wwff_site_pref = "https://wwff.co/directory/"
+
+# GoogleMaps url prefix
+google_maps_url_pref = "https://maps.google.com/maps?t=k&q="
 
 # Name of person submitting these parks
 sub_name = "Ante Laurijssen, VA2BBW"
@@ -53,7 +57,7 @@ with open(wwff_adoc_filename, "w") as f:
                     if -90 <= lat <= 90:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
-                            f.write(f"|{lines[0]}\n|{lines[2]}\n|{lat}, {lon}\n|{sub_name}\n|{wwff_site_pref}[^]\n\n")
+                            f.write(f"|{lines[0]}\n|{lines[2]}\n|{google_maps_url_pref}{lat},{lon}[{lat}, {lon}^]\n|{sub_name}\n|{wwff_site_pref}[^]\n\n")
                             print(f"\n***Park {lines[0]} added to the database.***\n".upper())
                         else:
                             print(f"Park {lines[0]} not added to the database.")
@@ -62,3 +66,7 @@ with open(wwff_adoc_filename, "w") as f:
             else:
                 print(f"Park {lines[0]} not added to the database.")
     f.write("|===")
+
+# Clean up files
+print("Cleaning up downloaded files")
+os.remove(wwff_csv_filename)

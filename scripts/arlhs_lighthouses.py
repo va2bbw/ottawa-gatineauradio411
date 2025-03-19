@@ -24,10 +24,13 @@ arlhs_htmldb_filename = "lighthouses_list.html"
 arlhs_csv_filename = "lighthouses_list.csv"
 
 # Target adoc filename
-arlhs_adoc_filename = "../arlhs_lighthouses.adoc"
+arlhs_adoc_filename = "../arlhs-lighthouses.adoc"
 
 # SOTA website prefix - for use with reference links + lighthouse ref#
 arlhs_site_pref = "https://wlol.arlhs.com/lighthouse/"
+
+# GoogleMaps url prefix
+google_maps_url_pref = "https://maps.google.com/maps?t=k&q="
 
 # Name of person submitting these parks
 sub_name = "Ante Laurijssen, VA2BBW"
@@ -85,7 +88,7 @@ with open(arlhs_adoc_filename, "w") as f:
                         if distance <= 100:
                             f.write(f"|{lines[1]}\n")
                             f.write(f"|{lines[0]}\n")
-                            f.write(f"|{lat}, {lon}\n")
+                            f.write(f"|{google_maps_url_pref}{lat},{lon}[{lat, lon}^]\n")
                             f.write(f"|{sub_name}\n")
                             f.write(f"|{arlhs_site_pref}{lines[1].replace(" ", "")}.html[^]\n\n")
                             print(f"\n***Lighthouse {lines[1]} added to the database.***\n".upper())
@@ -96,3 +99,8 @@ with open(arlhs_adoc_filename, "w") as f:
                 except ValueError:
                      print(f"Lighthouse {lines[1]} not added to the database.")
     f.write("|===")
+
+# Clean up files
+print("Cleaning up downloaded files")
+os.remove(arlhs_csv_filename)
+os.remove(arlhs_htmldb_filename)

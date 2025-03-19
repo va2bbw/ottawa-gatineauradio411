@@ -7,235 +7,235 @@
 
 |CAN 1433
 |12 Mile Island Ile Allen
-|45.49, -76.02
+|https://maps.google.com/maps?t=k&q=45.49,-76.02[(45.49, -76.02)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1433.html[^]
 
 |CAN 1432
 |Armitage Marina West
-|45.4767, -75.9933
+|https://maps.google.com/maps?t=k&q=45.4767,-75.9933[(45.4767, -75.9933)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1432.html[^]
 
 |CAN 1044
 |Arnprior Island (Ottawa River) (New)
-|45.4567, -76.3533
+|https://maps.google.com/maps?t=k&q=45.4567,-76.3533[(45.4567, -76.3533)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1044.html[^]
 
 |CAN 1434
 |Arnprior Island (Ottawa River) Old
-|45.4567, -76.3533
+|https://maps.google.com/maps?t=k&q=45.4567,-76.3533[(45.4567, -76.3533)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1434.html[^]
 
 |CAN 867
 |Aylmer Island (Ottawa River) (New)
-|45.3967, -75.8883
+|https://maps.google.com/maps?t=k&q=45.3967,-75.8883[(45.3967, -75.8883)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN867.html[^]
 
 |CAN 1437
 |Aylmer Island (Ottawa River) (Old)
-|45.3967, -75.8883
+|https://maps.google.com/maps?t=k&q=45.3967,-75.8883[(45.3967, -75.8883)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1437.html[^]
 
 |CAN 1431
 |Aylmer Marina
-|45.395, -75.8583
+|https://maps.google.com/maps?t=k&q=45.395,-75.8583[(45.395, -75.8583)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1431.html[^]
 
 |CAN 1046
 |Baskins Wharf Range Front (Ottawa River) (New)
-|45.48, -76.0067
+|https://maps.google.com/maps?t=k&q=45.48,-76.0067[(45.48, -76.0067)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1046.html[^]
 
 |CAN 1047
 |Baskins Wharf Range Rear (Ottawa River) (New)
-|45.4783, -76.005
+|https://maps.google.com/maps?t=k&q=45.4783,-76.005[(45.4783, -76.005)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1047.html[^]
 
 |CAN 023
 |Bass River
-|45.4783, -76.005
+|https://maps.google.com/maps?t=k&q=45.4783,-76.005[(45.4783, -76.005)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN023.html[^]
 
 |CAN 900
 |Bathurst Front Range Light
-|45.4783, -76.005
+|https://maps.google.com/maps?t=k&q=45.4783,-76.005[(45.4783, -76.005)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN900.html[^]
 
 |CAN 901
 |Bathurst Rear Range Light
-|45.4783, -76.005
+|https://maps.google.com/maps?t=k&q=45.4783,-76.005[(45.4783, -76.005)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN901.html[^]
 
 |CAN 1050
 |Britannia (Ottawa River)
-|45.365, -75.8067
+|https://maps.google.com/maps?t=k&q=45.365,-75.8067[(45.365, -75.8067)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1050.html[^]
 
 |CAN 1030
 |Brockville Range Rear/Crossover Range Rear (St. Lawrence River) Crossover Range Rear/Brockville Range Rear (St. Lawrence River), ON
-|44.5333, -75.7667
+|https://maps.google.com/maps?t=k&q=44.5333,-75.7667[(44.5333, -75.7667)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1030.html[^]
 
 |CAN 1051
 |Bronte (Lake Ontario)
-|44.5333, -75.7667
+|https://maps.google.com/maps?t=k&q=44.5333,-75.7667[(44.5333, -75.7667)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1051.html[^]
 
 |CAN 061
 |Bruce Mines
-|44.5333, -75.7667
+|https://maps.google.com/maps?t=k&q=44.5333,-75.7667[(44.5333, -75.7667)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN061.html[^]
 
 |CAN 1052
 |Buckham Point (Ottawa River)
-|45.5117, -76.0933
+|https://maps.google.com/maps?t=k&q=45.5117,-76.0933[(45.5117, -76.0933)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1052.html[^]
 
 |CAN 1382
 |Budget (Indian Harbour)
-|45.5117, -76.0933
+|https://maps.google.com/maps?t=k&q=45.5117,-76.0933[(45.5117, -76.0933)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1382.html[^]
 
 |CAN 865M
 |Cape North (Old) (Museum of Science and Technology/Ottawa) Cape North (Old), NS H
-|45.4017, -75.6233
+|https://maps.google.com/maps?t=k&q=45.4017,-75.6233[(45.4017, -75.6233)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN865M.html[^]
 
 |CAN 1456
 |Cooks Point Light 68
-|44.9317, -75.0783
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0783[(44.9317, -75.0783)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1456.html[^]
 
 |CAN 147
 |Coppermine Point
-|44.9317, -75.0783
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0783[(44.9317, -75.0783)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN147.html[^]
 
 |CAN 1028
 |Corbeil Point (Lake Superior)
-|44.9317, -75.0783
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0783[(44.9317, -75.0783)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1028.html[^]
 
 |CAN 1350
 |Corunna Range Front (St. Clair River)
-|44.9317, -75.0783
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0783[(44.9317, -75.0783)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1350.html[^]
 
 |CAN 1029M
 |Corunna Range Rear (Moore Museum) Corunna Range Rear (St. Clair River), ON H
-|44.9317, -75.0783
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0783[(44.9317, -75.0783)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1029M.html[^]
 
 |CAN 1029H
 |Corunna Range Rear (St. Clair River)
-|44.9317, -75.0783
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0783[(44.9317, -75.0783)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1029H.html[^]
 
 |CAN 966
 |Coteau Landing (St. Lawrence River)
-|44.9317, -75.0783
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0783[(44.9317, -75.0783)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN966.html[^]
 
 |CAN 1061
 |Dickinson Landing (St. Lawrence River)
-|44.945, -75.0667
+|https://maps.google.com/maps?t=k&q=44.945,-75.0667[(44.945, -75.0667)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1061.html[^]
 
 |CAN 1352
 |Graham Bay/Stillwater Park (Ottawa River) Stillwater Park/Graham Bay (Ottawa River), ON
-|45.3533, -75.8233
+|https://maps.google.com/maps?t=k&q=45.3533,-75.8233[(45.3533, -75.8233)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1352.html[^]
 
 |CAN 811
 |Green Shoal (Ottawa River) Beacon Hill
-|45.4733, -75.595
+|https://maps.google.com/maps?t=k&q=45.4733,-75.595[(45.4733, -75.595)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN811.html[^]
 
 |CAN 1452
 |Mariatown Light 92
-|44.8817, -75.2033
+|https://maps.google.com/maps?t=k&q=44.8817,-75.2033[(44.8817, -75.2033)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1452.html[^]
 
 |CAN 1453
 |Mariatown Range Front
-|44.8833, -75.2083
+|https://maps.google.com/maps?t=k&q=44.8833,-75.2083[(44.8833, -75.2083)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1453.html[^]
 
 |CAN 1454
 |Mariatown Range Rear
-|44.8833, -75.2083
+|https://maps.google.com/maps?t=k&q=44.8833,-75.2083[(44.8833, -75.2083)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1454.html[^]
 
 |CAN 307
 |Mark Point
-|44.8833, -75.2083
+|https://maps.google.com/maps?t=k&q=44.8833,-75.2083[(44.8833, -75.2083)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN307.html[^]
 
 |CAN 1210
 |Marshall Cove/Port Lorne/Port Williams (Bay of Fundy) Port Lorne/Port Williams/Marshall Cove (Bay of Fundy), NS H : Port Williams/Marshall Cove/Port Lorne (Bay of Fundy), NS H
-|44.8833, -75.2083
+|https://maps.google.com/maps?t=k&q=44.8833,-75.2083[(44.8833, -75.2083)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1210.html[^]
 
 |CAN 1077
 |Morris Island (Ottawa River)
-|45.4617, -76.2883
+|https://maps.google.com/maps?t=k&q=45.4617,-76.2883[(45.4617, -76.2883)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1077.html[^]
 
 |CAN 769
 |Sand Point
-|45.4883, -76.435
+|https://maps.google.com/maps?t=k&q=45.4883,-76.435[(45.4883, -76.435)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN769.html[^]
 
 |CAN 445
 |Sand Point
-|45.4883, -76.435
+|https://maps.google.com/maps?t=k&q=45.4883,-76.435[(45.4883, -76.435)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN445.html[^]
 
 |CAN 1455
 |Weaver Shoal Light 68
-|44.9317, -75.0683
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0683[(44.9317, -75.0683)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1455.html[^]
 
 |CAN 1244
 |Wedge Island
-|44.9317, -75.0683
+|https://maps.google.com/maps?t=k&q=44.9317,-75.0683[(44.9317, -75.0683)^]
 |Ante Laurijssen, VA2BBW
 |https://wlol.arlhs.com/lighthouse/CAN1244.html[^]
 

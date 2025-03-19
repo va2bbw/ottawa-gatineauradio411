@@ -7,7 +7,6 @@ from urllib.request import urlretrieve
 from geopy.distance import geodesic
 import os
 import sys
-from time import sleep
 import requests
 
 # Change working directory to the script's directory
@@ -39,6 +38,7 @@ def calculateDistance(exmr_lat, exmr_lon):
 
 # Retrieve the ISED accredited examiner file, unzip the txt file and convert it to csv
 urlretrieve(exam_zip_url, exam_zip_filename)
+print("Downloading ISED accredited examiners list")
 zf = ZipFile(exam_zip_filename)
 df = pandas.read_csv(zf.open(exam_txt_filename), delimiter = ";")
 df.to_csv(exam_csv_filename, index=False)

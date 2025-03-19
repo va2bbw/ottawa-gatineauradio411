@@ -7,781 +7,781 @@
 
 |VEFF-0057
 |Mississippi Lake National Wildlife Area
-|45.04255, -76.22636
+|https://maps.google.com/maps?t=k&q=45.04255,-76.22636[45.04255, -76.22636^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0136
 |Alexander Stewart Provincial Park
-|45.4302, -76.49866
+|https://maps.google.com/maps?t=k&q=45.4302,-76.49866[45.4302, -76.49866^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0150
 |Beckett Creek Migratory Bird Sanctuary
-|45.52274, -75.34965
+|https://maps.google.com/maps?t=k&q=45.52274,-75.34965[45.52274, -75.34965^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0212
 |Fitzroy Provincial Park
-|45.48389, -76.21841
+|https://maps.google.com/maps?t=k&q=45.48389,-76.21841[45.48389, -76.21841^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0307
 |Mississippi Lake Migratory Bird Sanctuary
-|45.03812, -76.24203
+|https://maps.google.com/maps?t=k&q=45.03812,-76.24203[45.03812, -76.24203^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0312
 |Murphys Point Provincial Park
-|44.78202, -76.23774
+|https://maps.google.com/maps?t=k&q=44.78202,-76.23774[44.78202, -76.23774^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0332
 |Ottawa River Provincial Park
-|45.75885, -76.78507
+|https://maps.google.com/maps?t=k&q=45.75885,-76.78507[45.75885, -76.78507^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0364
 |Rideau Migratory Bird Sanctuary
-|44.90852, -75.85492
+|https://maps.google.com/maps?t=k&q=44.90852,-75.85492[44.90852, -75.85492^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0365
 |Rideau River Provincial Park
-|45.05985, -75.67165
+|https://maps.google.com/maps?t=k&q=45.05985,-75.67165[45.05985, -75.67165^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0391
 |Silver Lake Provincial Park
-|44.82982, -76.57669
+|https://maps.google.com/maps?t=k&q=44.82982,-76.57669[44.82982, -76.57669^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0419
 |Upper Canada Migratory Bird Sanctuary
-|44.96319, -75.01597
+|https://maps.google.com/maps?t=k&q=44.96319,-75.01597[44.96319, -75.01597^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0421
 |Voyageur Provincial Park
-|45.55561, -74.4449
+|https://maps.google.com/maps?t=k&q=45.55561,-74.4449[45.55561, -74.4449^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0498
 |Gatineau Park
-|45.60053, -76.0428
+|https://maps.google.com/maps?t=k&q=45.60053,-76.0428[45.60053, -76.0428^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0503
 |Jacques-Cartier Park
-|45.44034, -75.70672
+|https://maps.google.com/maps?t=k&q=45.44034,-75.70672[45.44034, -75.70672^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-0517
 |Plaisance National Park
-|45.59302, -75.12983
+|https://maps.google.com/maps?t=k&q=45.59302,-75.12983[45.59302, -75.12983^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1013
 |Parc regional du Poisson Blanc
-|46.09415, -75.67404
+|https://maps.google.com/maps?t=k&q=46.09415,-75.67404[46.09415, -75.67404^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1024
 |Reserve faunique de Papineau-Labelle
-|46.14812, -75.3207
+|https://maps.google.com/maps?t=k&q=46.14812,-75.3207[46.14812, -75.3207^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1040
 |Burnt Lands Provincial Park
-|45.2614, -76.15004
+|https://maps.google.com/maps?t=k&q=45.2614,-76.15004[45.2614, -76.15004^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1339
 |Baxter Conservation Area
-|45.09826, -75.62431
+|https://maps.google.com/maps?t=k&q=45.09826,-75.62431[45.09826, -75.62431^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1349
 |Chapman Mills Conservation Area
-|45.27912, -75.70286
+|https://maps.google.com/maps?t=k&q=45.27912,-75.70286[45.27912, -75.70286^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1351
 |DuPont Provincial Park
-|44.92304, -75.15357
+|https://maps.google.com/maps?t=k&q=44.92304,-75.15357[44.92304, -75.15357^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1359
 |Fort Wellington N.H.S.
-|44.71302, -75.50868
+|https://maps.google.com/maps?t=k&q=44.71302,-75.50868[44.71302, -75.50868^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1363
 |Fulford Place N.H.S.
-|44.5974, -75.67083
+|https://maps.google.com/maps?t=k&q=44.5974,-75.67083[44.5974, -75.67083^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1373
 |Hog's Back Park
-|45.37283, -75.69794
+|https://maps.google.com/maps?t=k&q=45.37283,-75.69794[45.37283, -75.69794^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1404
 |W.A. Taylor Conservation Area
-|45.13368, -75.63368
+|https://maps.google.com/maps?t=k&q=45.13368,-75.63368[45.13368, -75.63368^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1513
 |Manoir Papineau N.H.S.
-|45.64583, -74.94618
+|https://maps.google.com/maps?t=k&q=45.64583,-74.94618[45.64583, -74.94618^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1531
 |Réserve naturelle de l'île Kettle
-|45.47148, -75.65091
+|https://maps.google.com/maps?t=k&q=45.47148,-75.65091[45.47148, -75.65091^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1893
 |Reserve ecologique Andre-Michaux
-|45.83332, -75.88336
+|https://maps.google.com/maps?t=k&q=45.83332,-75.88336[45.83332, -75.88336^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1900
 |Reserve ecologique de la Foret-la-Blanche
-|45.70955, -75.29583
+|https://maps.google.com/maps?t=k&q=45.70955,-75.29583[45.70955, -75.29583^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-1934
 |Constant Creek Swamp And Fen Conservation Area
-|45.29828, -76.7978
+|https://maps.google.com/maps?t=k&q=45.29828,-76.7978[45.29828, -76.7978^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2367
 |Centre de plein air du Lac-Leamy
-|45.45365, -75.72604
+|https://maps.google.com/maps?t=k&q=45.45365,-75.72604[45.45365, -75.72604^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2415
 |Parc du Lac-Beauchamp
-|45.49063, -75.62222
+|https://maps.google.com/maps?t=k&q=45.49063,-75.62222[45.49063, -75.62222^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2432
 |Parc Nature Éco-Odyssée
-|45.63941, -75.88403
+|https://maps.google.com/maps?t=k&q=45.63941,-75.88403[45.63941, -75.88403^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2443
 |Parc régional du Lac 31 Milles
-|46.19288, -75.8309
+|https://maps.google.com/maps?t=k&q=46.19288,-75.8309[46.19288, -75.8309^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2445
 |Parc régional du Mont Morissette
-|46.21927, -76.09965
+|https://maps.google.com/maps?t=k&q=46.21927,-76.09965[46.21927, -76.09965^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2462
 |Réserve écologique de l'Érablière-du-Trente-et-Un-Milles
-|46.15, -75.8583
+|https://maps.google.com/maps?t=k&q=46.15,-75.8583[46.15, -75.8583^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2469
 |Réserve écologique de la Rivière-Rouge
-|45.685, -74.66472
+|https://maps.google.com/maps?t=k&q=45.685,-74.66472[45.685, -74.66472^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2482
 |Réserve écologique du Père-Louis-Marie
-|46.21944, -75.84444
+|https://maps.google.com/maps?t=k&q=46.21944,-75.84444[46.21944, -75.84444^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2492
 |Réserve écologique Louis-Zéphirin-Rousseau
-|46.27292, -75.78715
+|https://maps.google.com/maps?t=k&q=46.27292,-75.78715[46.27292, -75.78715^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2547
 |Aviation Museum Woods
-|45.46016, -75.63079
+|https://maps.google.com/maps?t=k&q=45.46016,-75.63079[45.46016, -75.63079^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2549
 |Battle of the Windmill N.H.S.
-|44.72101, -75.4875
+|https://maps.google.com/maps?t=k&q=44.72101,-75.4875[44.72101, -75.4875^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2553
 |Black Rapids Creek
-|45.31822, -75.71026
+|https://maps.google.com/maps?t=k&q=45.31822,-75.71026[45.31822, -75.71026^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2559
 |Central Chambers N.H.S.
-|45.42319, -75.69523
+|https://maps.google.com/maps?t=k&q=45.42319,-75.69523[45.42319, -75.69523^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2560
 |Central Experimental Farm N.H.S.
-|45.39271, -75.71701
+|https://maps.google.com/maps?t=k&q=45.39271,-75.71701[45.39271, -75.71701^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2561
 |Champlain Bridge and Lemieux Islands
-|45.41085, -75.74367
+|https://maps.google.com/maps?t=k&q=45.41085,-75.74367[45.41085, -75.74367^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2562
 |Chapel Hill's North Forest
-|45.44938, -75.55019
+|https://maps.google.com/maps?t=k&q=45.44938,-75.55019[45.44938, -75.55019^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2565
 |Confederation Square N.H.S.
-|45.42361, -75.69549
+|https://maps.google.com/maps?t=k&q=45.42361,-75.69549[45.42361, -75.69549^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2567
 |Diefenbunker N.H.S.
-|45.35156, -76.04792
+|https://maps.google.com/maps?t=k&q=45.35156,-76.04792[45.35156, -76.04792^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2568
 |Earnscliffe N.H.S.
-|45.43733, -75.69931
+|https://maps.google.com/maps?t=k&q=45.43733,-75.69931[45.43733, -75.69931^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2580
 |Langevin Block N.H.S.
-|45.42375, -75.6973
+|https://maps.google.com/maps?t=k&q=45.42375,-75.6973[45.42375, -75.6973^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2581
 |Laurier House N.H.S.
-|45.42773, -75.67802
+|https://maps.google.com/maps?t=k&q=45.42773,-75.67802[45.42773, -75.67802^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2583
 |Mer Bleue Conservation Area
-|45.41662, -75.52107
+|https://maps.google.com/maps?t=k&q=45.41662,-75.52107[45.41662, -75.52107^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2585
 |National Arts Centre N.H.S.
-|45.42332, -75.69345
+|https://maps.google.com/maps?t=k&q=45.42332,-75.69345[45.42332, -75.69345^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2586
 |Notre-Dame Roman Catholic Basilica N.H.S.
-|45.42986, -75.69653
+|https://maps.google.com/maps?t=k&q=45.42986,-75.69653[45.42986, -75.69653^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2589
 |Parliament Buildings N.H.S.
-|45.425, -75.7
+|https://maps.google.com/maps?t=k&q=45.425,-75.7[45.425, -75.7^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2592
 |Public Grounds of the Parliament Buildings N.H.S.
-|45.42364, -75.7
+|https://maps.google.com/maps?t=k&q=45.42364,-75.7[45.42364, -75.7^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2593
 |Rideau Canal N.H.S.
-|45.42465, -75.69514
+|https://maps.google.com/maps?t=k&q=45.42465,-75.69514[45.42465, -75.69514^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2594
 |Rideau Hall and Landscaped Grounds N.H.S.
-|45.44444, -75.68611
+|https://maps.google.com/maps?t=k&q=45.44444,-75.68611[45.44444, -75.68611^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2595
 |Royal Canadian Mint N.H.S.
-|45.43125, -75.69931
+|https://maps.google.com/maps?t=k&q=45.43125,-75.69931[45.43125, -75.69931^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2599
 |South March Highlands Conservation Forest
-|45.33802, -75.95938
+|https://maps.google.com/maps?t=k&q=45.33802,-75.95938[45.33802, -75.95938^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2923
 |First Geodetic Survey Station N.H.S.
-|45.48906, -75.86285
+|https://maps.google.com/maps?t=k&q=45.48906,-75.86285[45.48906, -75.86285^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2959
 |Aberdeen Pavilion N.H.S.
-|45.4001, -75.68276
+|https://maps.google.com/maps?t=k&q=45.4001,-75.68276[45.4001, -75.68276^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2972
 |Foley Mountain
-|44.68668, -76.39806
+|https://maps.google.com/maps?t=k&q=44.68668,-76.39806[44.68668, -76.39806^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2974
 |Hart Massey House N.H.S.
-|45.45133, -75.67186
+|https://maps.google.com/maps?t=k&q=45.45133,-75.67186[45.45133, -75.67186^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2982
 |Maplelawn & Gardens N.H.S.
-|45.38842, -75.76128
+|https://maps.google.com/maps?t=k&q=45.38842,-75.76128[45.38842, -75.76128^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2984
 |Mill Pond
-|44.77049, -76.17925
+|https://maps.google.com/maps?t=k&q=44.77049,-76.17925[44.77049, -76.17925^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2985
 |Morris Island
-|45.45925, -76.27085
+|https://maps.google.com/maps?t=k&q=45.45925,-76.27085[45.45925, -76.27085^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2987
 |Perth Wildlife Reserve
-|44.88884, -76.20362
+|https://maps.google.com/maps?t=k&q=44.88884,-76.20362[44.88884, -76.20362^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2989
 |Portland Bay
-|44.70172, -76.18343
+|https://maps.google.com/maps?t=k&q=44.70172,-76.18343[44.70172, -76.18343^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-2991
 |Rockcliffe Park and the Rockeries
-|45.45071, -75.68664
+|https://maps.google.com/maps?t=k&q=45.45071,-75.68664[45.45071, -75.68664^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3427
 |Alfred Bog
-|45.49784, -74.86634
+|https://maps.google.com/maps?t=k&q=45.49784,-74.86634[45.49784, -74.86634^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3443
 |Blakeney Park
-|45.26731, -76.25075
+|https://maps.google.com/maps?t=k&q=45.26731,-76.25075[45.26731, -76.25075^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3445
 |Blueberry Mountain Trail (Blueberry Mountain at Cliffland)
-|45.16475, -76.67206
+|https://maps.google.com/maps?t=k&q=45.16475,-76.67206[45.16475, -76.67206^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3457
 |Carp River
-|45.31209, -75.93436
+|https://maps.google.com/maps?t=k&q=45.31209,-75.93436[45.31209, -75.93436^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3459
 |Cass Bridge Conservation Area
-|45.04942, -75.32102
+|https://maps.google.com/maps?t=k&q=45.04942,-75.32102[45.04942, -75.32102^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3473
 |Cooper Marsh Conservation Area
-|45.11657, -74.51792
+|https://maps.google.com/maps?t=k&q=45.11657,-74.51792[45.11657, -74.51792^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3508
 |Five Span Bridge Park
-|45.33585, -76.2879
+|https://maps.google.com/maps?t=k&q=45.33585,-76.2879[45.33585, -76.2879^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3510
 |Fortington Park
-|45.47133, -76.67362
+|https://maps.google.com/maps?t=k&q=45.47133,-76.67362[45.47133, -76.67362^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3524
 |Gray's Creek
-|45.03745, -74.66629
+|https://maps.google.com/maps?t=k&q=45.03745,-74.66629[45.03745, -74.66629^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3537
 |High Falls
-|45.31775, -75.09379
+|https://maps.google.com/maps?t=k&q=45.31775,-75.09379[45.31775, -75.09379^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3538
 |High Lonesome
-|45.33228, -76.37167
+|https://maps.google.com/maps?t=k&q=45.33228,-76.37167[45.33228, -76.37167^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3542
 |Horton Heights Park
-|45.45995, -76.67506
+|https://maps.google.com/maps?t=k&q=45.45995,-76.67506[45.45995, -76.67506^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3543
 |Howard K. Haramis Park
-|45.47698, -76.65525
+|https://maps.google.com/maps?t=k&q=45.47698,-76.65525[45.47698, -76.65525^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3549
 |J. Henry Tweed Conservation Area
-|45.25752, -75.36769
+|https://maps.google.com/maps?t=k&q=45.25752,-75.36769[45.25752, -75.36769^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3550
 |Jessup's Falls
-|45.55919, -75.05986
+|https://maps.google.com/maps?t=k&q=45.55919,-75.05986[45.55919, -75.05986^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3557
 |Kingston and Pembroke (K&P) Trail
-|45.46883, -76.7063
+|https://maps.google.com/maps?t=k&q=45.46883,-76.7063[45.46883, -76.7063^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3558
 |Kiwanis Park (Renfrew)
-|45.46987, -76.69682
+|https://maps.google.com/maps?t=k&q=45.46987,-76.69682[45.46987, -76.69682^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3559
 |Knights of Columbus Park (Renfrew)
-|45.46882, -76.66915
+|https://maps.google.com/maps?t=k&q=45.46882,-76.66915[45.46882, -76.66915^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3571
 |Legion Park (Renfrew)
-|45.47649, -76.68518
+|https://maps.google.com/maps?t=k&q=45.47649,-76.68518[45.47649, -76.68518^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3583
 |Low Square Park
-|45.47285, -76.68512
+|https://maps.google.com/maps?t=k&q=45.47285,-76.68512[45.47285, -76.68512^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3586
 |Lyn Valley Conservation Area
-|44.57641, -75.77536
+|https://maps.google.com/maps?t=k&q=44.57641,-75.77536[44.57641, -75.77536^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3587
 |Ma-te-way Park
-|45.46557, -76.69519
+|https://maps.google.com/maps?t=k&q=45.46557,-76.69519[45.46557, -76.69519^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3598
 |McConnell Park
-|45.4708, -76.69111
+|https://maps.google.com/maps?t=k&q=45.4708,-76.69111[45.4708, -76.69111^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3603
 |Metcalfe Geoheritage Park
-|45.22434, -76.19879
+|https://maps.google.com/maps?t=k&q=45.22434,-76.19879[45.22434, -76.19879^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3605
 |Mill of Kintail
-|45.24422, -76.25846
+|https://maps.google.com/maps?t=k&q=45.24422,-76.25846[45.24422, -76.25846^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3611
 |Motts Mills
-|44.79764, -76.04254
+|https://maps.google.com/maps?t=k&q=44.79764,-76.04254[44.79764, -76.04254^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3618
 |O'Brien Park
-|45.4782, -76.69275
+|https://maps.google.com/maps?t=k&q=45.4782,-76.69275[45.4782, -76.69275^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3621
 |Oschmann Forest
-|45.15045, -75.39288
+|https://maps.google.com/maps?t=k&q=45.15045,-75.39288[45.15045, -75.39288^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3623
 |Palmerston Canonto Conservation Area
-|45.03759, -76.8138
+|https://maps.google.com/maps?t=k&q=45.03759,-76.8138[45.03759, -76.8138^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3639
 |Purdon Conservation Area
-|44.9938, -76.54517
+|https://maps.google.com/maps?t=k&q=44.9938,-76.54517[44.9938, -76.54517^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3641
 |RCAF Memorial Park
-|45.47555, -76.69603
+|https://maps.google.com/maps?t=k&q=45.47555,-76.69603[45.47555, -76.69603^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3642
 |Renfrew Millennium Trail
-|45.46884, -76.70585
+|https://maps.google.com/maps?t=k&q=45.46884,-76.70585[45.46884, -76.70585^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3643
 |Reveler Conservation Area
-|45.20513, -75.2233
+|https://maps.google.com/maps?t=k&q=45.20513,-75.2233[45.20513, -75.2233^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3645
 |Richmond Conservation Area
-|45.18965, -75.83053
+|https://maps.google.com/maps?t=k&q=45.18965,-75.83053[45.18965, -75.83053^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3646
 |Rideau Ferry Yacht Club
-|44.85654, -76.13722
+|https://maps.google.com/maps?t=k&q=44.85654,-76.13722[44.85654, -76.13722^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3648
 |Robert Graham Trail
-|44.90434, -75.44306
+|https://maps.google.com/maps?t=k&q=44.90434,-75.44306[44.90434, -75.44306^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3659
 |Serenity Hills
-|45.51303, -76.60796
+|https://maps.google.com/maps?t=k&q=45.51303,-76.60796[45.51303, -76.60796^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3675
 |St-Albert Conservation Area
-|45.25399, -75.12604
+|https://maps.google.com/maps?t=k&q=45.25399,-75.12604[45.25399, -75.12604^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3680
 |Stewart Park
-|45.4683, -76.68008
+|https://maps.google.com/maps?t=k&q=45.4683,-76.68008[45.4683, -76.68008^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3681
 |Stewartville Swamp
-|45.41773, -76.50982
+|https://maps.google.com/maps?t=k&q=45.41773,-76.50982[45.41773, -76.50982^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3695
 |Two Creeks Forest
-|44.86537, -75.27315
+|https://maps.google.com/maps?t=k&q=44.86537,-75.27315[44.86537, -75.27315^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3703
 |W.E. Burton Conservation Area
-|45.25911, -75.34746
+|https://maps.google.com/maps?t=k&q=45.25911,-75.34746[45.25911, -75.34746^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3709
 |Warwick Forest
-|45.19861, -75.05243
+|https://maps.google.com/maps?t=k&q=45.19861,-75.05243[45.19861, -75.05243^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3957
 |Réserve naturelle de l'Alvar-d'Aylmer (Sec. CNQ)
-|45.44194, -75.87083
+|https://maps.google.com/maps?t=k&q=45.44194,-75.87083[45.44194, -75.87083^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3984
 |Réserve naturelle de la Tortue-Serpentine-de-la-Gatineau
-|46.02057, -75.99446
+|https://maps.google.com/maps?t=k&q=46.02057,-75.99446[46.02057, -75.99446^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-3997
 |Réserve naturelle des Milieux-Humides-du-Lac-Litchfield
-|45.78021, -76.52292
+|https://maps.google.com/maps?t=k&q=45.78021,-76.52292[45.78021, -76.52292^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4010
 |Réserve naturelle du Cerf-de-Virginie-de-la-Gatineau
-|46.02222, -75.97153
+|https://maps.google.com/maps?t=k&q=46.02222,-75.97153[46.02222, -75.97153^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4018
 |Réserve naturelle du Marais-Trépanier
-|45.54931, -75.3691
+|https://maps.google.com/maps?t=k&q=45.54931,-75.3691[45.54931, -75.3691^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4047
 |Réserve naturelle Tamagor
-|45.652, -75.61476
+|https://maps.google.com/maps?t=k&q=45.652,-75.61476[45.652, -75.61476^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4048
 |Réserve naturelle Tamagor (Secteur du Lac-Noir)
-|45.65722, -75.60641
+|https://maps.google.com/maps?t=k&q=45.65722,-75.60641[45.65722, -75.60641^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4087
 |Green's Creek
-|45.44786, -75.58079
+|https://maps.google.com/maps?t=k&q=45.44786,-75.58079[45.44786, -75.58079^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4098
 |Lester Wetland
-|45.33092, -75.62922
+|https://maps.google.com/maps?t=k&q=45.33092,-75.62922[45.33092, -75.62922^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4100
 |McCarthy Woods
-|45.35499, -75.67609
+|https://maps.google.com/maps?t=k&q=45.35499,-75.67609[45.35499, -75.67609^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4101
 |Mer Bleue Bog
-|45.39481, -75.51299
+|https://maps.google.com/maps?t=k&q=45.39481,-75.51299[45.39481, -75.51299^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4103
 |Mud Lake
-|45.37095, -75.79384
+|https://maps.google.com/maps?t=k&q=45.37095,-75.79384[45.37095, -75.79384^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4105
 |Pine Grove Forest
-|45.35065, -75.6032
+|https://maps.google.com/maps?t=k&q=45.35065,-75.6032[45.35065, -75.6032^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4106
 |Pinhey Forest
-|45.32065, -75.733
+|https://maps.google.com/maps?t=k&q=45.32065,-75.733[45.32065, -75.733^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4108
 |Shirleys Bay
-|45.38056, -75.9125
+|https://maps.google.com/maps?t=k&q=45.38056,-75.9125[45.38056, -75.9125^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4111
 |Stony Swamp
-|45.30338, -75.83242
+|https://maps.google.com/maps?t=k&q=45.30338,-75.83242[45.30338, -75.83242^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 
 |VEFF-4411
 |Oak Valley Pioneer Park
-|45.00451, -75.37083
+|https://maps.google.com/maps?t=k&q=45.00451,-75.37083[45.00451, -75.37083^]
 |Ante Laurijssen, VA2BBW
 |https://wwff.co/directory/[^]
 

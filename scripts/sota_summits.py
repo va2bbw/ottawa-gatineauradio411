@@ -1,8 +1,8 @@
 #! /bin/python
 
-import csv
-from urllib.request import urlretrieve
-from geopy.distance import geodesic
+import csv # needed to work with csv files
+from urllib.request import urlretrieve # needed for retrieving files with url
+from geopy.distance import geodesic # needed to calculate distance between two lat/lon points
 import os
 import sys
 
@@ -10,6 +10,7 @@ import sys
 os.chdir(os.path.dirname(os.path.abspath(sys.argv[0])))
 
 # Set the lattitude and longitude frome where we want to calculate the distance
+# Parliament Hill
 ottawa_lat = 45.423599
 ottawa_lon = -75.701050
 
@@ -23,6 +24,9 @@ sota_adoc_filename = "../sota-summits.adoc"
 # SOTA website prefix - for use with reference links + summit ref#
 sota_site_pref = "https://www.sotadata.org.uk/en/summit/"
 
+# GoogleMaps url prefix
+google_maps_url_pref = "https://maps.google.com/maps?t=k&q="
+
 # Name of person submitting these parks
 sub_name = "Ante Laurijssen, VA2BBW"
 
@@ -33,7 +37,9 @@ def calculateDistance(summit_lat, summit_lon):
 
 # Retrieve the SOTA summits csv file
 urlretrieve(sota_csv_url, sota_csv_filename)
+print("Downloading SOTA csv file")
 
+# Adoc file creation with title and table
 with open(sota_adoc_filename, "w") as f:
     f.write("= SOTA Summits / Sommets SOTA\n")
     f.write(":showtitle:\n\n")
@@ -41,6 +47,7 @@ with open(sota_adoc_filename, "w") as f:
     f.write("|===\n")
     f.write("| Summit/Sommet | Name/Nom | Location | Height (m)/Hauteur (m) | Submitted by/Soumis par | Reference\n\n")
 
+    # Function to parse through the csv file, choose the ones only from Canada, then only those within 100km of Parliament Hill and add to the table
     with open(sota_csv_filename, mode='r') as file:
         csvFile = csv.reader(file)
         for lines in csvFile:
@@ -50,7 +57,7 @@ with open(sota_adoc_filename, "w") as f:
                     if -90 <= lat <= 90:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
-                            f.write(f"|{lines[0]}\n|{lines[3]}\n|{lat}, {lon}\n|{lines[4]}\n|{sub_name}\n|{sota_site_pref}{lines[0]}[^]\n\n")
+                            f.write(f"|{lines[0]}\n|{lines[3]}\n|{google_maps_url_pref}{lat},{lon}[{lat}, {lon}^]\n|{lines[4]}\n|{sub_name}\n|{sota_site_pref}{lines[0]}[^]\n\n")
                             print(f"\n***Summit {lines[0]} added to the database.***\n".upper())
                         else:
                             print(f"Summit {lines[0]} not added to the database.")
@@ -59,3 +66,7 @@ with open(sota_adoc_filename, "w") as f:
                  except ValueError:
                      print(f"Summit {lines[0]} not added to the database.")
     f.write("|===")
+
+# Clean up files
+print("Cleaning up downloaded files")
+os.remove(sota_csv_filename)
