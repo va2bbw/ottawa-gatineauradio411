@@ -11,6 +11,8 @@ echo
     
 ./to_html.sh &&
 
+./to_docs.sh &&
+
 ./to_pdf.sh &&
 
 exit
