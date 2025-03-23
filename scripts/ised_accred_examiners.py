@@ -144,10 +144,12 @@ with open(accred_exam_adoc_filename, "w") as f:
                 address = f"{lines[2]}, {lines[3]}, {lines[4]}, {lines[9]}"
                 f.write(f"|{lines[0]} {lines[1]}\n")
                 f.write(f"|{address}\n")
-                f.write(f"|link:tel:{lines[5][:-2]}[({lines[5][:3]}) {lines[5][3:6]}-{lines[5][6:10]}]")
+                f.write(f"|link:tel:{lines[5]}[({lines[5][:3]}) {lines[5][3:6]}-{lines[5][6:]}]")
                 if lines[6] != "":
-                    f.write(f", link:tel:{lines[6][:-2]}[({lines[6][:3]}) {lines[6][3:6]}-{lines[6][6:10]}]\n")
-                f.write(f"|{lines[7]}\n")
+                    f.write(f", link:tel:{lines[6]}[({lines[6][:3]}) {lines[6][3:6]}-{lines[6][6:]}]\n")
+                    f.write(f"|{lines[7]}\n")
+                else:
+                    f.write(f"\n|{lines[7]}\n")
                 f.write(f"|{sub_name}\n")
                 f.write(f"|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]\n\n")
                 print(f"\n***{lines[0]} {lines[1]} added to the database.***\n".upper())
@@ -183,7 +185,9 @@ with open(accred_exam_adoc_filename, "w") as f:
                                 f.write(f"|link:tel:{lines[5]}[({lines[5][:3]}) {lines[5][3:6]}-{lines[5][6:]}]")
                                 if lines[6] != "":
                                     f.write(f", link:tel:{lines[6]}[({lines[6][:3]}) {lines[6][3:6]}-{lines[6][6:]}]\n")
-                                f.write(f"|{lines[7]}\n")
+                                    f.write(f"|{lines[7]}\n")
+                                else:
+                                    f.write(f"\n|{lines[7]}\n")
                                 f.write(f"|{sub_name}\n")
                                 f.write(f"|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]\n\n")
                                 print(f"\n***{lines[0]} {lines[1]} added to the database.***\n".upper())
