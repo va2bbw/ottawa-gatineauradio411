@@ -7,601 +7,601 @@
 
 |CA-0057
 |Mississippi Lake National Wildlife Area
-|https://maps.google.com/maps?t=k&q=45.0297,-76.228[45.0297, -76.228^]
+|https://openstreetmap.org/?mlat=45.0297&mlon=-76.228&zoom=19[45.0297, -76.228^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0057[^]
 
 |CA-0136
 |Alexander Stewart Provincial Park
-|https://maps.google.com/maps?t=k&q=45.4292,-76.4974[45.4292, -76.4974^]
+|https://openstreetmap.org/?mlat=45.4292&mlon=-76.4974&zoom=19[45.4292, -76.4974^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0136[^]
 
 |CA-0150
 |Beckett Creek Migratory Bird Sanctuary
-|https://maps.google.com/maps?t=k&q=45.5065,-75.3361[45.5065, -75.3361^]
+|https://openstreetmap.org/?mlat=45.5065&mlon=-75.3361&zoom=19[45.5065, -75.3361^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0150[^]
 
 |CA-0212
 |Fitzroy Provincial Park
-|https://maps.google.com/maps?t=k&q=45.482,-76.2138[45.482, -76.2138^]
+|https://openstreetmap.org/?mlat=45.482&mlon=-76.2138&zoom=19[45.482, -76.2138^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0212[^]
 
 |CA-0307
 |Mississippi Lake Migratory Bird Sanctuary
-|https://maps.google.com/maps?t=k&q=45.0394,-76.2378[45.0394, -76.2378^]
+|https://openstreetmap.org/?mlat=45.0394&mlon=-76.2378&zoom=19[45.0394, -76.2378^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0307[^]
 
 |CA-0312
 |Murphys Point Provincial Park
-|https://maps.google.com/maps?t=k&q=44.782,-76.2377[44.782, -76.2377^]
+|https://openstreetmap.org/?mlat=44.782&mlon=-76.2377&zoom=19[44.782, -76.2377^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0312[^]
 
 |CA-0332
 |Ottawa River Provincial Park
-|https://maps.google.com/maps?t=k&q=45.7338,-76.7428[45.7338, -76.7428^]
+|https://openstreetmap.org/?mlat=45.7338&mlon=-76.7428&zoom=19[45.7338, -76.7428^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0332[^]
 
 |CA-0364
 |Rideau Migratory Bird Sanctuary
-|https://maps.google.com/maps?t=k&q=44.9159,-75.8446[44.9159, -75.8446^]
+|https://openstreetmap.org/?mlat=44.9159&mlon=-75.8446&zoom=19[44.9159, -75.8446^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0364[^]
 
 |CA-0365
 |Rideau River Provincial Park
-|https://maps.google.com/maps?t=k&q=45.0599,-75.6715[45.0599, -75.6715^]
+|https://openstreetmap.org/?mlat=45.0599&mlon=-75.6715&zoom=19[45.0599, -75.6715^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0365[^]
 
 |CA-0391
 |Silver Lake Provincial Park
-|https://maps.google.com/maps?t=k&q=44.8298,-76.5767[44.8298, -76.5767^]
+|https://openstreetmap.org/?mlat=44.8298&mlon=-76.5767&zoom=19[44.8298, -76.5767^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0391[^]
 
 |CA-0419
 |Upper Canada Migratory Bird Sanctuary
-|https://maps.google.com/maps?t=k&q=44.9632,-75.016[44.9632, -75.016^]
+|https://openstreetmap.org/?mlat=44.9632&mlon=-75.016&zoom=19[44.9632, -75.016^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0419[^]
 
 |CA-0421
 |Voyageur Provincial Park
-|https://maps.google.com/maps?t=k&q=45.5556,-74.4449[45.5556, -74.4449^]
+|https://openstreetmap.org/?mlat=45.5556&mlon=-74.4449&zoom=19[45.5556, -74.4449^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0421[^]
 
 |CA-0498
 |Gatineau Conservation Park
-|https://maps.google.com/maps?t=k&q=45.5051,-75.8119[45.5051, -75.8119^]
+|https://openstreetmap.org/?mlat=45.5051&mlon=-75.8119&zoom=19[45.5051, -75.8119^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0498[^]
 
 |CA-0503
 |Jacques-Cartier Gatineau Historic Site
-|https://maps.google.com/maps?t=k&q=45.4323,-75.7088[45.4323, -75.7088^]
+|https://openstreetmap.org/?mlat=45.4323&mlon=-75.7088&zoom=19[45.4323, -75.7088^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0503[^]
 
 |CA-0517
 |Plaisance National Park
-|https://maps.google.com/maps?t=k&q=45.5994,-75.1102[45.5994, -75.1102^]
+|https://openstreetmap.org/?mlat=45.5994&mlon=-75.1102&zoom=19[45.5994, -75.1102^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-0517[^]
 
 |CA-1013
 |Parc regional du Poisson Blanc Regional Park
-|https://maps.google.com/maps?t=k&q=46.0941,-75.674[46.0941, -75.674^]
+|https://openstreetmap.org/?mlat=46.0941&mlon=-75.674&zoom=19[46.0941, -75.674^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1013[^]
 
 |CA-1024
 |Réserve faunique de Papineau-Labelle Wildlife Reserve
-|https://maps.google.com/maps?t=k&q=46.1373,-75.1468[46.1373, -75.1468^]
+|https://openstreetmap.org/?mlat=46.1373&mlon=-75.1468&zoom=19[46.1373, -75.1468^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1024[^]
 
 |CA-1040
 |Burnt Lands Provincial Park
-|https://maps.google.com/maps?t=k&q=45.2614,-76.15[45.2614, -76.15^]
+|https://openstreetmap.org/?mlat=45.2614&mlon=-76.15&zoom=19[45.2614, -76.15^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1040[^]
 
 |CA-1294
 |Aviation Museum Woods Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.463,-75.6262[45.463, -75.6262^]
+|https://openstreetmap.org/?mlat=45.463&mlon=-75.6262&zoom=19[45.463, -75.6262^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1294[^]
 
 |CA-1319
 |Black Rapids Creek Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3199,-75.7[45.3199, -75.7^]
+|https://openstreetmap.org/?mlat=45.3199&mlon=-75.7&zoom=19[45.3199, -75.7^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1319[^]
 
 |CA-1342
 |Carlington Woods Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3711,-75.7425[45.3711, -75.7425^]
+|https://openstreetmap.org/?mlat=45.3711&mlon=-75.7425&zoom=19[45.3711, -75.7425^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1342[^]
 
 |CA-1349
 |Remic Rapids and Bate Island Conservation Park
-|https://maps.google.com/maps?t=k&q=45.4071,-75.7542[45.4071, -75.7542^]
+|https://openstreetmap.org/?mlat=45.4071&mlon=-75.7542&zoom=19[45.4071, -75.7542^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1349[^]
 
 |CA-1350
 |Chapel Hill's North Forest Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.4436,-75.5461[45.4436, -75.5461^]
+|https://openstreetmap.org/?mlat=45.4436&mlon=-75.5461&zoom=19[45.4436, -75.5461^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1350[^]
 
 |CA-1359
 |Constant Creek Swamp And Fen Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3005,-76.8147[45.3005, -76.8147^]
+|https://openstreetmap.org/?mlat=45.3005&mlon=-76.8147&zoom=19[45.3005, -76.8147^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1359[^]
 
 |CA-1375
 |DuPont Provincial Park
-|https://maps.google.com/maps?t=k&q=44.935,-75.1454[44.935, -75.1454^]
+|https://openstreetmap.org/?mlat=44.935&mlon=-75.1454&zoom=19[44.935, -75.1454^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1375[^]
 
 |CA-1385
 |Chapman Mills Conservation Area
-|https://maps.google.com/maps?t=k&q=45.2791,-75.7029[45.2791, -75.7029^]
+|https://openstreetmap.org/?mlat=45.2791&mlon=-75.7029&zoom=19[45.2791, -75.7029^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1385[^]
 
 |CA-1425
 |Green's Creek Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.4747,-75.5692[45.4747, -75.5692^]
+|https://openstreetmap.org/?mlat=45.4747&mlon=-75.5692&zoom=19[45.4747, -75.5692^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1425[^]
 
 |CA-1436
 |Hawkins Property Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.563,-76.8515[45.563, -76.8515^]
+|https://openstreetmap.org/?mlat=45.563&mlon=-76.8515&zoom=19[45.563, -76.8515^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1436[^]
 
 |CA-1506
 |McCarthy Woods Natural Area
-|https://maps.google.com/maps?t=k&q=45.3549,-75.676[45.3549, -75.676^]
+|https://openstreetmap.org/?mlat=45.3549&mlon=-75.676&zoom=19[45.3549, -75.676^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1506[^]
 
 |CA-1515
 |Mer Bleue Bog Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.4008,-75.4997[45.4008, -75.4997^]
+|https://openstreetmap.org/?mlat=45.4008&mlon=-75.4997&zoom=19[45.4008, -75.4997^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1515[^]
 
 |CA-1516
 |Mer Bleue Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3926,-75.5515[45.3926, -75.5515^]
+|https://openstreetmap.org/?mlat=45.3926&mlon=-75.5515&zoom=19[45.3926, -75.5515^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1516[^]
 
 |CA-1579
 |Pine Grove Forest Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3551,-75.5927[45.3551, -75.5927^]
+|https://openstreetmap.org/?mlat=45.3551&mlon=-75.5927&zoom=19[45.3551, -75.5927^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1579[^]
 
 |CA-1581
 |Pinhey Forest Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3284,-75.738[45.3284, -75.738^]
+|https://openstreetmap.org/?mlat=45.3284&mlon=-75.738&zoom=19[45.3284, -75.738^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1581[^]
 
 |CA-1596
 |Hog's Back Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3717,-75.695[45.3717, -75.695^]
+|https://openstreetmap.org/?mlat=45.3717&mlon=-75.695&zoom=19[45.3717, -75.695^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1596[^]
 
 |CA-1597
 |Rockcliffe Park and the Rockeries Natural Area
-|https://maps.google.com/maps?t=k&q=45.4507,-75.6866[45.4507, -75.6866^]
+|https://openstreetmap.org/?mlat=45.4507&mlon=-75.6866&zoom=19[45.4507, -75.6866^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1597[^]
 
 |CA-1621
 |Shirleys Bay Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3924,-75.9318[45.3924, -75.9318^]
+|https://openstreetmap.org/?mlat=45.3924&mlon=-75.9318&zoom=19[45.3924, -75.9318^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1621[^]
 
 |CA-1638
 |W.A. Taylor Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.133,-75.6333[45.133, -75.6333^]
+|https://openstreetmap.org/?mlat=45.133&mlon=-75.6333&zoom=19[45.133, -75.6333^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1638[^]
 
 |CA-1645
 |Stony Swamp Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.3028,-75.8316[45.3028, -75.8316^]
+|https://openstreetmap.org/?mlat=45.3028&mlon=-75.8316&zoom=19[45.3028, -75.8316^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1645[^]
 
 |CA-1701
 |Westmeath Bog Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.7685,-76.8645[45.7685, -76.8645^]
+|https://openstreetmap.org/?mlat=45.7685&mlon=-76.8645&zoom=19[45.7685, -76.8645^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1701[^]
 
 |CA-1703
 |White Lake Conservation Reserve
-|https://maps.google.com/maps?t=k&q=45.2896,-76.5103[45.2896, -76.5103^]
+|https://openstreetmap.org/?mlat=45.2896&mlon=-76.5103&zoom=19[45.2896, -76.5103^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1703[^]
 
 |CA-1920
 |Alvar-d'Aylmer Nature Reserve
-|https://maps.google.com/maps?t=k&q=45.4387,-75.8736[45.4387, -75.8736^]
+|https://openstreetmap.org/?mlat=45.4387&mlon=-75.8736&zoom=19[45.4387, -75.8736^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1920[^]
 
 |CA-1924
 |Andre-Michaux Ecological Reserve
-|https://maps.google.com/maps?t=k&q=45.8248,-75.8941[45.8248, -75.8941^]
+|https://openstreetmap.org/?mlat=45.8248&mlon=-75.8941&zoom=19[45.8248, -75.8941^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-1924[^]
 
 |CA-2013
 |Foret-la-Blanche Ecological Reserve
-|https://maps.google.com/maps?t=k&q=45.7096,-75.2957[45.7096, -75.2957^]
+|https://openstreetmap.org/?mlat=45.7096&mlon=-75.2957&zoom=19[45.7096, -75.2957^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-2013[^]
 
 |CA-2083
 |Lac-Beauchamp Park (Regional) Nature Reserve
-|https://maps.google.com/maps?t=k&q=45.4888,-75.6247[45.4888, -75.6247^]
+|https://openstreetmap.org/?mlat=45.4888&mlon=-75.6247&zoom=19[45.4888, -75.6247^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-2083[^]
 
 |CA-2217
 |Reserve naturelle de l'Ile-Kettle Nature Reserve
-|https://maps.google.com/maps?t=k&q=45.4657,-75.6736[45.4657, -75.6736^]
+|https://openstreetmap.org/?mlat=45.4657&mlon=-75.6736&zoom=19[45.4657, -75.6736^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-2217[^]
 
 |CA-2271
 |Parc de la biche Recreation Park
-|https://maps.google.com/maps?t=k&q=46.2967,-75.482[46.2967, -75.482^]
+|https://openstreetmap.org/?mlat=46.2967&mlon=-75.482&zoom=19[46.2967, -75.482^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-2271[^]
 
 |CA-4855
 |Battle of the Windmill National Historic Site
-|https://maps.google.com/maps?t=k&q=44.7218,-75.4872[44.7218, -75.4872^]
+|https://openstreetmap.org/?mlat=44.7218&mlon=-75.4872&zoom=19[44.7218, -75.4872^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4855[^]
 
 |CA-4868
 |Fort Wellington National Historic Site
-|https://maps.google.com/maps?t=k&q=44.7126,-75.5105[44.7126, -75.5105^]
+|https://openstreetmap.org/?mlat=44.7126&mlon=-75.5105&zoom=19[44.7126, -75.5105^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4868[^]
 
 |CA-4871
 |Inverarden House National Historic Site
-|https://maps.google.com/maps?t=k&q=45.0305,-74.6704[45.0305, -74.6704^]
+|https://openstreetmap.org/?mlat=45.0305&mlon=-74.6704&zoom=19[45.0305, -74.6704^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4871[^]
 
 |CA-4873
 |Laurier House National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4278,-75.6783[45.4278, -75.6783^]
+|https://openstreetmap.org/?mlat=45.4278&mlon=-75.6783&zoom=19[45.4278, -75.6783^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4873[^]
 
 |CA-4874
 |Merrickville Blockhouse National Historic Site
-|https://maps.google.com/maps?t=k&q=44.9164,-75.8376[44.9164, -75.8376^]
+|https://openstreetmap.org/?mlat=44.9164&mlon=-75.8376&zoom=19[44.9164, -75.8376^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4874[^]
 
 |CA-4882
 |Rideau Canal National Historic Site
-|https://maps.google.com/maps?t=k&q=45.3832,-75.7006[45.3832, -75.7006^]
+|https://openstreetmap.org/?mlat=45.3832&mlon=-75.7006&zoom=19[45.3832, -75.7006^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4882[^]
 
 |CA-4887
 |Sir John Johnson House National Historic Site
-|https://maps.google.com/maps?t=k&q=45.1449,-74.579[45.1449, -74.579^]
+|https://openstreetmap.org/?mlat=45.1449&mlon=-74.579&zoom=19[45.1449, -74.579^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4887[^]
 
 |CA-4916
 |Manoir Papineau National Historic Site
-|https://maps.google.com/maps?t=k&q=45.6499,-74.9431[45.6499, -74.9431^]
+|https://openstreetmap.org/?mlat=45.6499&mlon=-74.9431&zoom=19[45.6499, -74.9431^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4916[^]
 
 |CA-4947
 |Parc Nature Eco-Odyssee Regional Park
-|https://maps.google.com/maps?t=k&q=45.6395,-75.8838[45.6395, -75.8838^]
+|https://openstreetmap.org/?mlat=45.6395&mlon=-75.8838&zoom=19[45.6395, -75.8838^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4947[^]
 
 |CA-4970
 |Parc regional du Lac 31 Milles Regional Park
-|https://maps.google.com/maps?t=k&q=46.1929,-75.8308[46.1929, -75.8308^]
+|https://openstreetmap.org/?mlat=46.1929&mlon=-75.8308&zoom=19[46.1929, -75.8308^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-4970[^]
 
 |CA-5002
 |Parc des Montagnes Noires de Ripon Regional Park
-|https://maps.google.com/maps?t=k&q=45.8072,-75.162[45.8072, -75.162^]
+|https://openstreetmap.org/?mlat=45.8072&mlon=-75.162&zoom=19[45.8072, -75.162^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5002[^]
 
 |CA-5004
 |Centre de plein air du Lac-Leamy Regional Park
-|https://maps.google.com/maps?t=k&q=45.4537,-75.7259[45.4537, -75.7259^]
+|https://openstreetmap.org/?mlat=45.4537&mlon=-75.7259&zoom=19[45.4537, -75.7259^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5004[^]
 
 |CA-5030
 |Parc des Chutes Coulonge Regional Park
-|https://maps.google.com/maps?t=k&q=45.8753,-76.6872[45.8753, -76.6872^]
+|https://openstreetmap.org/?mlat=45.8753&mlon=-76.6872&zoom=19[45.8753, -76.6872^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5030[^]
 
 |CA-5041
 |Parc regional du Mont Morissette Regional Park
-|https://maps.google.com/maps?t=k&q=46.2195,-76.0997[46.2195, -76.0997^]
+|https://openstreetmap.org/?mlat=46.2195&mlon=-76.0997&zoom=19[46.2195, -76.0997^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5041[^]
 
 |CA-5062
 |Chutes de Plaisance Regional Park
-|https://maps.google.com/maps?t=k&q=45.6409,-75.133[45.6409, -75.133^]
+|https://openstreetmap.org/?mlat=45.6409&mlon=-75.133&zoom=19[45.6409, -75.133^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5062[^]
 
 |CA-5083
 |Diefenbunker National Historic Site
-|https://maps.google.com/maps?t=k&q=45.3505,-76.0462[45.3505, -76.0462^]
+|https://openstreetmap.org/?mlat=45.3505&mlon=-76.0462&zoom=19[45.3505, -76.0462^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5083[^]
 
 |CA-5084
 |South March Highlands Conservation Forest Natural Area
-|https://maps.google.com/maps?t=k&q=45.3462,-75.9463[45.3462, -75.9463^]
+|https://openstreetmap.org/?mlat=45.3462&mlon=-75.9463&zoom=19[45.3462, -75.9463^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5084[^]
 
 |CA-5094
 |Central Chambers National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4232,-75.6952[45.4232, -75.6952^]
+|https://openstreetmap.org/?mlat=45.4232&mlon=-75.6952&zoom=19[45.4232, -75.6952^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5094[^]
 
 |CA-5095
 |Central Experimental Farm National Historic Site
-|https://maps.google.com/maps?t=k&q=45.3877,-75.7088[45.3877, -75.7088^]
+|https://openstreetmap.org/?mlat=45.3877&mlon=-75.7088&zoom=19[45.3877, -75.7088^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5095[^]
 
 |CA-5097
 |Confederation Square National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4236,-75.6955[45.4236, -75.6955^]
+|https://openstreetmap.org/?mlat=45.4236&mlon=-75.6955&zoom=19[45.4236, -75.6955^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5097[^]
 
 |CA-5098
 |Earnscliffe National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4374,-75.6988[45.4374, -75.6988^]
+|https://openstreetmap.org/?mlat=45.4374&mlon=-75.6988&zoom=19[45.4374, -75.6988^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5098[^]
 
 |CA-5106
 |Langevin National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4238,-75.6973[45.4238, -75.6973^]
+|https://openstreetmap.org/?mlat=45.4238&mlon=-75.6973&zoom=19[45.4238, -75.6973^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5106[^]
 
 |CA-5109
 |National Arts Centre National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4233,-75.6934[45.4233, -75.6934^]
+|https://openstreetmap.org/?mlat=45.4233&mlon=-75.6934&zoom=19[45.4233, -75.6934^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5109[^]
 
 |CA-5110
 |Notre-Dame Roman Catholic Basilica National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4304,-75.6949[45.4304, -75.6949^]
+|https://openstreetmap.org/?mlat=45.4304&mlon=-75.6949&zoom=19[45.4304, -75.6949^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5110[^]
 
 |CA-5113
 |Parliament Buildings National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4238,-75.7009[45.4238, -75.7009^]
+|https://openstreetmap.org/?mlat=45.4238&mlon=-75.7009&zoom=19[45.4238, -75.7009^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5113[^]
 
 |CA-5115
 |Public Grounds of the Parliament Buildings National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4238,-75.7009[45.4238, -75.7009^]
+|https://openstreetmap.org/?mlat=45.4238&mlon=-75.7009&zoom=19[45.4238, -75.7009^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5115[^]
 
 |CA-5116
 |Rideau Hall and Landscaped Grounds National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4446,-75.6858[45.4446, -75.6858^]
+|https://openstreetmap.org/?mlat=45.4446&mlon=-75.6858&zoom=19[45.4446, -75.6858^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5116[^]
 
 |CA-5117
 |Royal Canadian Mint National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4315,-75.6991[45.4315, -75.6991^]
+|https://openstreetmap.org/?mlat=45.4315&mlon=-75.6991&zoom=19[45.4315, -75.6991^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5117[^]
 
 |CA-5295
 |Baxter Conservation Area
-|https://maps.google.com/maps?t=k&q=45.0983,-75.6243[45.0983, -75.6243^]
+|https://openstreetmap.org/?mlat=45.0983&mlon=-75.6243&zoom=19[45.0983, -75.6243^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5295[^]
 
 |CA-5306
 |Fulford Place National Historic Site
-|https://maps.google.com/maps?t=k&q=44.5974,-75.6708[44.5974, -75.6708^]
+|https://openstreetmap.org/?mlat=44.5974&mlon=-75.6708&zoom=19[44.5974, -75.6708^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5306[^]
 
 |CA-5538
 |J. Henry Tweed Conservation Area
-|https://maps.google.com/maps?t=k&q=45.261,-75.3701[45.261, -75.3701^]
+|https://openstreetmap.org/?mlat=45.261&mlon=-75.3701&zoom=19[45.261, -75.3701^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5538[^]
 
 |CA-5542
 |Foley Mountain Conservation Area
-|https://maps.google.com/maps?t=k&q=44.6867,-76.3978[44.6867, -76.3978^]
+|https://openstreetmap.org/?mlat=44.6867&mlon=-76.3978&zoom=19[44.6867, -76.3978^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5542[^]
 
 |CA-5543
 |Morris Island Conservation Area
-|https://maps.google.com/maps?t=k&q=45.4593,-76.2709[45.4593, -76.2709^]
+|https://openstreetmap.org/?mlat=45.4593&mlon=-76.2709&zoom=19[45.4593, -76.2709^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5543[^]
 
 |CA-5644
 |Pinhey’s Point National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4399,-75.9532[45.4399, -75.9532^]
+|https://openstreetmap.org/?mlat=45.4399&mlon=-75.9532&zoom=19[45.4399, -75.9532^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5644[^]
 
 |CA-5888
 |First Geodetic Survey Station National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4891,-75.8626[45.4891, -75.8626^]
+|https://openstreetmap.org/?mlat=45.4891&mlon=-75.8626&zoom=19[45.4891, -75.8626^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5888[^]
 
 |CA-5926
 |Larose Forest Recreation Park
-|https://maps.google.com/maps?t=k&q=45.405,-75.1413[45.405, -75.1413^]
+|https://openstreetmap.org/?mlat=45.405&mlon=-75.1413&zoom=19[45.405, -75.1413^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5926[^]
 
 |CA-5940
 |Aberdeen Pavilion National Historical Site
-|https://maps.google.com/maps?t=k&q=45.4002,-75.6833[45.4002, -75.6833^]
+|https://openstreetmap.org/?mlat=45.4002&mlon=-75.6833&zoom=19[45.4002, -75.6833^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5940[^]
 
 |CA-5945
 |Cooper Marsh Conservation Area
-|https://maps.google.com/maps?t=k&q=45.1166,-74.518[45.1166, -74.518^]
+|https://openstreetmap.org/?mlat=45.1166&mlon=-74.518&zoom=19[45.1166, -74.518^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5945[^]
 
 |CA-5948
 |Hart Massey House National Historic Site
-|https://maps.google.com/maps?t=k&q=45.4513,-75.6719[45.4513, -75.6719^]
+|https://openstreetmap.org/?mlat=45.4513&mlon=-75.6719&zoom=19[45.4513, -75.6719^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5948[^]
 
 |CA-5954
 |Maplelawn & Gardens National Historic Site
-|https://maps.google.com/maps?t=k&q=45.3887,-75.7619[45.3887, -75.7619^]
+|https://openstreetmap.org/?mlat=45.3887&mlon=-75.7619&zoom=19[45.3887, -75.7619^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5954[^]
 
 |CA-5955
 |Mill Pond Conservation Area
-|https://maps.google.com/maps?t=k&q=44.7705,-76.1793[44.7705, -76.1793^]
+|https://openstreetmap.org/?mlat=44.7705&mlon=-76.1793&zoom=19[44.7705, -76.1793^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5955[^]
 
 |CA-5956
 |Perth Wildlife Reserve
-|https://maps.google.com/maps?t=k&q=44.8888,-76.2036[44.8888, -76.2036^]
+|https://openstreetmap.org/?mlat=44.8888&mlon=-76.2036&zoom=19[44.8888, -76.2036^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5956[^]
 
 |CA-5957
 |Portland Bay Conservation Area
-|https://maps.google.com/maps?t=k&q=44.7017,-76.1834[44.7017, -76.1834^]
+|https://openstreetmap.org/?mlat=44.7017&mlon=-76.1834&zoom=19[44.7017, -76.1834^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5957[^]
 
 |CA-5958
 |Hampton Park Conservation Area
-|https://maps.google.com/maps?t=k&q=45.3873,-75.7382[45.3873, -75.7382^]
+|https://openstreetmap.org/?mlat=45.3873&mlon=-75.7382&zoom=19[45.3873, -75.7382^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-5958[^]
 
 |CA-6100
 |Stewartville Swamp Nature Reserve
-|https://maps.google.com/maps?t=k&q=45.4131,-76.5117[45.4131, -76.5117^]
+|https://openstreetmap.org/?mlat=45.4131&mlon=-76.5117&zoom=19[45.4131, -76.5117^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6100[^]
 
 |CA-6199
 |Smiths Falls Bascule Bridge National Historic Site
-|https://maps.google.com/maps?t=k&q=44.8957,-76.0278[44.8957, -76.0278^]
+|https://openstreetmap.org/?mlat=44.8957&mlon=-76.0278&zoom=19[44.8957, -76.0278^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6199[^]
 
 |CA-6204
 |Vincent Massey Conservation Park
-|https://maps.google.com/maps?t=k&q=45.3779,-75.6947[45.3779, -75.6947^]
+|https://openstreetmap.org/?mlat=45.3779&mlon=-75.6947&zoom=19[45.3779, -75.6947^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6204[^]
 
 |CA-6209
 |High Falls Conservation Area
-|https://maps.google.com/maps?t=k&q=45.3177,-75.0922[45.3177, -75.0922^]
+|https://openstreetmap.org/?mlat=45.3177&mlon=-75.0922&zoom=19[45.3177, -75.0922^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6209[^]
 
 |CA-6215
 |NCC River House National Heritage Site
-|https://maps.google.com/maps?t=k&q=45.4576,-75.6784[45.4576, -75.6784^]
+|https://openstreetmap.org/?mlat=45.4576&mlon=-75.6784&zoom=19[45.4576, -75.6784^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6215[^]
 
 |CA-6256
 |Major's Hill National Park
-|https://maps.google.com/maps?t=k&q=45.4284,-75.6986[45.4284, -75.6986^]
+|https://openstreetmap.org/?mlat=45.4284&mlon=-75.6986&zoom=19[45.4284, -75.6986^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6256[^]
 
 |CA-6257
 |Rideau Falls and Green Island National Park
-|https://maps.google.com/maps?t=k&q=45.4426,-75.694[45.4426, -75.694^]
+|https://openstreetmap.org/?mlat=45.4426&mlon=-75.694&zoom=19[45.4426, -75.694^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6257[^]
 
 |CA-6336
 |Commissioners National Park
-|https://maps.google.com/maps?t=k&q=45.3965,-75.7079[45.3965, -75.7079^]
+|https://openstreetmap.org/?mlat=45.3965&mlon=-75.7079&zoom=19[45.3965, -75.7079^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6336[^]
 
 |CA-6337
 |LeBreton Flats National Park
-|https://maps.google.com/maps?t=k&q=45.4146,-75.7185[45.4146, -75.7185^]
+|https://openstreetmap.org/?mlat=45.4146&mlon=-75.7185&zoom=19[45.4146, -75.7185^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6337[^]
 
 |CA-6345
 |Confederation National Park
-|https://maps.google.com/maps?t=k&q=45.4225,-75.6924[45.4225, -75.6924^]
+|https://openstreetmap.org/?mlat=45.4225&mlon=-75.6924&zoom=19[45.4225, -75.6924^]
 |Ante Laurijssen, VA2BBW
 |https://pota.app/#/park/CA-6345[^]
 

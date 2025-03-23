@@ -1,0 +1,62 @@
+Downloading ISED accredited examiners list
+
+Moved ./csv/tmp.csv to ./csv/amateur_exmr_local.csv.
+Writing to ../ised-accred-examiners.adoc
+
+Copying still valid examiner information from previous ISED data download from ./csv/amateur_exmr_local.csv...
+
+***JUSTIN SCHMIDT-CLEVER ADDED TO THE DATABASE.***
+
+
+***JOSEPH YVAN ROGER BELANGER ADDED TO THE DATABASE.***
+
+
+***ROBERT MCKENNY ADDED TO THE DATABASE.***
+
+
+***FRANK DELUCA ADDED TO THE DATABASE.***
+
+
+***DAVID GOODWIN ADDED TO THE DATABASE.***
+
+
+***DONALD HEKMAN ADDED TO THE DATABASE.***
+
+
+***STEVE D HARVEY ADDED TO THE DATABASE.***
+
+
+***ROCK MALLIN ADDED TO THE DATABASE.***
+
+
+***MIKE KELLY ADDED TO THE DATABASE.***
+
+
+***LUC ROMAIN ADDED TO THE DATABASE.***
+
+
+***GEORGES-ANDRÉ CHAUDRON ADDED TO THE DATABASE.***
+
+
+***DONALD GREENE ADDED TO THE DATABASE.***
+
+
+***NORM RASHLEIGH ADDED TO THE DATABASE.***
+
+
+***GILLES BEAULIEU ADDED TO THE DATABASE.***
+
+
+***MIKE MYERS ADDED TO THE DATABASE.***
+
+
+***ERIC EARLE DEPASS ADDED TO THE DATABASE.***
+
+Done copying over still valid examiner information
+Adding new examiners to asciidoc file from latest ISED download...
+
+16 EXAMINERS WERE ADDED TO THE ../ISED-ACCRED-EXAMINERS.ADOC
+Cleaning up downloaded files.
+Removed amateur_exmr.zip.
+Removed ./csv/tmp.csv.
+Moved ./csv/amateur_exmr.csv to ./csv/amateur_current_exmr.csv.

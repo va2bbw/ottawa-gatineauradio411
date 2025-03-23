@@ -24,8 +24,8 @@ pota_adoc_filename = "../pota-parks.adoc"
 # Pota website prefix - for use with reference links + park ref#
 pota_site_pref = "https://pota.app/#/park/"
 
-# GoogleMaps url prefix
-google_maps_url_pref = "https://maps.google.com/maps?t=k&q="
+# OpenStreetMap url prefix
+osm_maps_url_pref = "https://openstreetmap.org/"
 
 # Name of person submitting these parks
 sub_name = "Ante Laurijssen, VA2BBW"
@@ -50,6 +50,7 @@ with open(pota_adoc_filename, "w") as f:
     # Function to parse through the csv file, choose only the parks in Canada, and then find only the parks within 100 km of Parliament Hill and add them to the table in the adoc file
     with open(pota_csv_filename, mode='r') as file:
         csvFile = csv.reader(file)
+        count = 0
         for lines in csvFile:
             if lines[0].startswith("CA"):  # Simplified check
                 try:
@@ -57,9 +58,10 @@ with open(pota_adoc_filename, "w") as f:
                     if -90 <= lat <= 90:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
+                            count +=1
                             f.write(f"|{lines[0]}\n")
                             f.write(f"|{lines[1]}\n")
-                            f.write(f"|{google_maps_url_pref}{lat},{lon}[{lat}, {lon}^]\n")
+                            f.write(f"|{osm_maps_url_pref}?mlat={lat}&mlon={lon}&zoom=19[{lat}, {lon}^]\n")
                             f.write(f"|{sub_name}\n")
                             f.write(f"|{pota_site_pref}{lines[0]}[^]\n\n")
                             print(f"\n***Park {lines[0]} added to the database.***\n".upper())
@@ -68,6 +70,7 @@ with open(pota_adoc_filename, "w") as f:
                 except ValueError:
                     print(f"Park {lines[0]} not added to the database.")
     f.write("|===")
+    print(f"{count} parks added to the list.")
 
 # Clean up files
 print("Cleaning up downloaded files")

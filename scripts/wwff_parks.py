@@ -25,8 +25,8 @@ wwff_adoc_filename = "../wwff-parks.adoc"
 # Wwff website prefix - for use with reference links + park ref#
 wwff_site_pref = "https://wwff.co/directory/"
 
-# GoogleMaps url prefix
-google_maps_url_pref = "https://maps.google.com/maps?t=k&q="
+# OpenStreetMap url prefix
+osm_maps_url_pref = "https://openstreetmap.org/"
 
 # Name of person submitting these parks
 sub_name = "Ante Laurijssen, VA2BBW"
@@ -47,8 +47,8 @@ with open(wwff_adoc_filename, "w") as f:
     f.write(".WWFF Parks / Parcs WWFF\n")
     f.write("|===\n")
     f.write("| Park/Parc | Name/Nom | Location | Submitted by/Soumis par | Reference\n\n")
-
     with open(wwff_csv_filename, mode='r') as file:
+        count = 0
         csvFile = csv.reader(file)
         for lines in csvFile:
             if lines[0].startswith("VEFF"):  # Simplified check
@@ -57,7 +57,11 @@ with open(wwff_adoc_filename, "w") as f:
                     if -90 <= lat <= 90:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
-                            f.write(f"|{lines[0]}\n|{lines[2]}\n|{google_maps_url_pref}{lat},{lon}[{lat}, {lon}^]\n|{sub_name}\n|{wwff_site_pref}[^]\n\n")
+                            count +=1
+                            f.write(f"|{lines[0]}\n")
+                            f.write(f"|{lines[2]}\n")
+                            f.write(f"|{osm_maps_url_pref}?mlat={lat}&mlon={lon}&zoom=19[{lat}, {lon}^]\n")
+                            f.write(f"|{wwff_site_pref}[^]\n\n")
                             print(f"\n***Park {lines[0]} added to the database.***\n".upper())
                         else:
                             print(f"Park {lines[0]} not added to the database.")
@@ -66,7 +70,7 @@ with open(wwff_adoc_filename, "w") as f:
             else:
                 print(f"Park {lines[0]} not added to the database.")
     f.write("|===")
-
+    print(f"{count} parks added to the list.")
 # Clean up files
 print("Cleaning up downloaded files")
 os.remove(wwff_csv_filename)

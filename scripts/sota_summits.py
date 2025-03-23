@@ -24,8 +24,8 @@ sota_adoc_filename = "../sota-summits.adoc"
 # SOTA website prefix - for use with reference links + summit ref#
 sota_site_pref = "https://www.sotadata.org.uk/en/summit/"
 
-# GoogleMaps url prefix
-google_maps_url_pref = "https://maps.google.com/maps?t=k&q="
+# OpenTopoMap url prefix
+otm_maps_url_pref = "https://opentopomap.org/"
 
 # Name of person submitting these parks
 sub_name = "Ante Laurijssen, VA2BBW"
@@ -50,6 +50,7 @@ with open(sota_adoc_filename, "w") as f:
     # Function to parse through the csv file, choose the ones only from Canada, then only those within 100km of Parliament Hill and add to the table
     with open(sota_csv_filename, mode='r') as file:
         csvFile = csv.reader(file)
+        count = 0
         for lines in csvFile:
             if len(lines) >1 and lines[1].startswith("Canada"):  # Simplified check
                  try:
@@ -57,7 +58,13 @@ with open(sota_adoc_filename, "w") as f:
                     if -90 <= lat <= 90:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
-                            f.write(f"|{lines[0]}\n|{lines[3]}\n|{google_maps_url_pref}{lat},{lon}[{lat}, {lon}^]\n|{lines[4]}\n|{sub_name}\n|{sota_site_pref}{lines[0]}[^]\n\n")
+                            count +=1
+                            f.write(f"|{lines[0]}\n")
+                            f.write(f"|{lines[3]}\n")
+                            f.write(f"|{otm_maps_url_pref}#marker=15/{lat}/{lon}[{lat}, {lon}^]\n")
+                            f.write(f"|{lines[4]}\n")
+                            f.write(f"|{sub_name}\n")
+                            f.write(f"|{sota_site_pref}{lines[0]}[^]\n\n")
                             print(f"\n***Summit {lines[0]} added to the database.***\n".upper())
                         else:
                             print(f"Summit {lines[0]} not added to the database.")
@@ -66,7 +73,8 @@ with open(sota_adoc_filename, "w") as f:
                  except ValueError:
                      print(f"Summit {lines[0]} not added to the database.")
     f.write("|===")
-
+    print(f"{count} summits added to the list.")
+    
 # Clean up files
 print("Cleaning up downloaded files")
 os.remove(sota_csv_filename)

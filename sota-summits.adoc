@@ -7,553 +7,553 @@
 
 |VE2/LR-102
 |VE2/LR-102
-|https://maps.google.com/maps?t=k&q=46.1692,-75.1659[46.1692, -75.1659^]
+|https://opentopomap.org/#marker=15/46.1692/-75.1659[46.1692, -75.1659^]
 |468
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/LR-102[^]
 
 |VE2/LR-105
 |VE2/LR-105
-|https://maps.google.com/maps?t=k&q=46.123,-75.2584[46.123, -75.2584^]
+|https://opentopomap.org/#marker=15/46.123/-75.2584[46.123, -75.2584^]
 |461
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/LR-105[^]
 
 |VE2/LR-109
 |VE2/LR-109
-|https://maps.google.com/maps?t=k&q=45.8895,-74.6682[45.8895, -74.6682^]
+|https://opentopomap.org/#marker=15/45.8895/-74.6682[45.8895, -74.6682^]
 |453
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/LR-109[^]
 
 |VE2/LR-119
 |VE2/LR-119
-|https://maps.google.com/maps?t=k&q=46.0754,-74.9543[46.0754, -74.9543^]
+|https://opentopomap.org/#marker=15/46.0754/-74.9543[46.0754, -74.9543^]
 |429
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/LR-119[^]
 
 |VE2/LR-123
 |VE2/LR-123
-|https://maps.google.com/maps?t=k&q=45.9706,-74.7397[45.9706, -74.7397^]
+|https://opentopomap.org/#marker=15/45.9706/-74.7397[45.9706, -74.7397^]
 |426
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/LR-123[^]
 
 |VE2/LR-126
 |VE2/LR-126
-|https://maps.google.com/maps?t=k&q=45.9784,-74.8321[45.9784, -74.8321^]
+|https://opentopomap.org/#marker=15/45.9784/-74.8321[45.9784, -74.8321^]
 |420
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/LR-126[^]
 
 |VE2/LR-127
 |Mont Limoges
-|https://maps.google.com/maps?t=k&q=46.2728,-75.5251[46.2728, -75.5251^]
+|https://opentopomap.org/#marker=15/46.2728/-75.5251[46.2728, -75.5251^]
 |413
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/LR-127[^]
 
 |VE2/LR-165
 |VE2/LR-165
-|https://maps.google.com/maps?t=k&q=45.8532,-74.6186[45.8532, -74.6186^]
+|https://opentopomap.org/#marker=15/45.8532/-74.6186[45.8532, -74.6186^]
 |409
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/LR-165[^]
 
 |VE2/OU-001
 |Mont Sainte-Marie
-|https://maps.google.com/maps?t=k&q=45.937,-75.8507[45.937, -75.8507^]
+|https://opentopomap.org/#marker=15/45.937/-75.8507[45.937, -75.8507^]
 |546
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-001[^]
 
 |VE2/OU-002
 |Montée Jean-Marc
-|https://maps.google.com/maps?t=k&q=45.9609,-75.8493[45.9609, -75.8493^]
+|https://opentopomap.org/#marker=15/45.9609/-75.8493[45.9609, -75.8493^]
 |467
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-002[^]
 
 |VE2/OU-003
 |Pic McKinstry
-|https://maps.google.com/maps?t=k&q=45.5572,-75.9678[45.5572, -75.9678^]
+|https://opentopomap.org/#marker=15/45.5572/-75.9678[45.5572, -75.9678^]
 |412
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-003[^]
 
 |VE2/OU-004
 |Sioui
-|https://maps.google.com/maps?t=k&q=46.0094,-74.9776[46.0094, -74.9776^]
+|https://opentopomap.org/#marker=15/46.0094/-74.9776[46.0094, -74.9776^]
 |430
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-004[^]
 
 |VE2/OU-005
 |Grand Pic
-|https://maps.google.com/maps?t=k&q=45.7765,-75.2011[45.7765, -75.2011^]
+|https://opentopomap.org/#marker=15/45.7765/-75.2011[45.7765, -75.2011^]
 |451
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-005[^]
 
 |VE2/OU-006
 |Montagne du Lac Sand
-|https://maps.google.com/maps?t=k&q=46.1333,-76.4115[46.1333, -76.4115^]
+|https://opentopomap.org/#marker=15/46.1333/-76.4115[46.1333, -76.4115^]
 |439
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-006[^]
 
 |VE2/OU-007
 |Montagne des Soeurs
-|https://maps.google.com/maps?t=k&q=45.7392,-75.1031[45.7392, -75.1031^]
+|https://opentopomap.org/#marker=15/45.7392/-75.1031[45.7392, -75.1031^]
 |327
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-007[^]
 
 |VE2/OU-008
 |Mont Écho
-|https://maps.google.com/maps?t=k&q=45.917,-75.4989[45.917, -75.4989^]
+|https://opentopomap.org/#marker=15/45.917/-75.4989[45.917, -75.4989^]
 |515
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-008[^]
 
 |VE2/OU-009
 |Montagne Ronde
-|https://maps.google.com/maps?t=k&q=45.9361,-75.6675[45.9361, -75.6675^]
+|https://opentopomap.org/#marker=15/45.9361/-75.6675[45.9361, -75.6675^]
 |401
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-009[^]
 
 |VE2/OU-010
 |Mont Wells Ouest
-|https://maps.google.com/maps?t=k&q=45.9889,-75.5962[45.9889, -75.5962^]
+|https://opentopomap.org/#marker=15/45.9889/-75.5962[45.9889, -75.5962^]
 |412
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-010[^]
 
 |VE2/OU-011
 |Mont Wells Est
-|https://maps.google.com/maps?t=k&q=45.9533,-75.5594[45.9533, -75.5594^]
+|https://opentopomap.org/#marker=15/45.9533/-75.5594[45.9533, -75.5594^]
 |405
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-011[^]
 
 |VE2/OU-012
 |Mont O'Brien
-|https://maps.google.com/maps?t=k&q=45.8876,-76.2283[45.8876, -76.2283^]
+|https://opentopomap.org/#marker=15/45.8876/-76.2283[45.8876, -76.2283^]
 |386
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-012[^]
 
 |VE2/OU-013
 |Pic du Plombe
-|https://maps.google.com/maps?t=k&q=45.846,-75.8476[45.846, -75.8476^]
+|https://opentopomap.org/#marker=15/45.846/-75.8476[45.846, -75.8476^]
 |505
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-013[^]
 
 |VE2/OU-014
 |Mont Morissette
-|https://maps.google.com/maps?t=k&q=46.2236,-76.097[46.2236, -76.097^]
+|https://opentopomap.org/#marker=15/46.2236/-76.097[46.2236, -76.097^]
 |395
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-014[^]
 
 |VE2/OU-016
 |Montagne du Cardinal
-|https://maps.google.com/maps?t=k&q=45.8583,-75.7919[45.8583, -75.7919^]
+|https://opentopomap.org/#marker=15/45.8583/-75.7919[45.8583, -75.7919^]
 |467
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-016[^]
 
 |VE2/OU-017
 |Montagne de la Truite
-|https://maps.google.com/maps?t=k&q=45.8647,-75.7269[45.8647, -75.7269^]
+|https://opentopomap.org/#marker=15/45.8647/-75.7269[45.8647, -75.7269^]
 |429
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-017[^]
 
 |VE2/OU-018
 |Mont McLaren
-|https://maps.google.com/maps?t=k&q=45.8611,-75.6134[45.8611, -75.6134^]
+|https://opentopomap.org/#marker=15/45.8611/-75.6134[45.8611, -75.6134^]
 |384
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-018[^]
 
 |VE2/OU-019
 |Mont aux Bleuets
-|https://maps.google.com/maps?t=k&q=45.8064,-75.6492[45.8064, -75.6492^]
+|https://opentopomap.org/#marker=15/45.8064/-75.6492[45.8064, -75.6492^]
 |358
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-019[^]
 
 |VE2/OU-020
 |Montagne de la Tour
-|https://maps.google.com/maps?t=k&q=46.0788,-75.5266[46.0788, -75.5266^]
+|https://opentopomap.org/#marker=15/46.0788/-75.5266[46.0788, -75.5266^]
 |603
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-020[^]
 
 |VE2/OU-021
 |VE2/OU-021
-|https://maps.google.com/maps?t=k&q=46.161,-75.3862[46.161, -75.3862^]
+|https://opentopomap.org/#marker=15/46.161/-75.3862[46.161, -75.3862^]
 |592
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-021[^]
 
 |VE2/OU-022
 |VE2/OU-022
-|https://maps.google.com/maps?t=k&q=46.1194,-75.3383[46.1194, -75.3383^]
+|https://opentopomap.org/#marker=15/46.1194/-75.3383[46.1194, -75.3383^]
 |572
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-022[^]
 
 |VE2/OU-025
 |VE2/OU-025
-|https://maps.google.com/maps?t=k&q=46.3025,-75.7045[46.3025, -75.7045^]
+|https://opentopomap.org/#marker=15/46.3025/-75.7045[46.3025, -75.7045^]
 |528
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-025[^]
 
 |VE2/OU-027
 |VE2/OU-027
-|https://maps.google.com/maps?t=k&q=46.127,-75.7159[46.127, -75.7159^]
+|https://opentopomap.org/#marker=15/46.127/-75.7159[46.127, -75.7159^]
 |524
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-027[^]
 
 |VE2/OU-029
 |VE2/OU-029
-|https://maps.google.com/maps?t=k&q=45.9332,-75.2296[45.9332, -75.2296^]
+|https://opentopomap.org/#marker=15/45.9332/-75.2296[45.9332, -75.2296^]
 |514
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-029[^]
 
 |VE2/OU-030
 |VE2/OU-030
-|https://maps.google.com/maps?t=k&q=46.1627,-75.5691[46.1627, -75.5691^]
+|https://opentopomap.org/#marker=15/46.1627/-75.5691[46.1627, -75.5691^]
 |513
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-030[^]
 
 |VE2/OU-031
 |VE2/OU-031
-|https://maps.google.com/maps?t=k&q=46.196,-75.5525[46.196, -75.5525^]
+|https://opentopomap.org/#marker=15/46.196/-75.5525[46.196, -75.5525^]
 |502
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-031[^]
 
 |VE2/OU-034
 |VE2/OU-034
-|https://maps.google.com/maps?t=k&q=46.2603,-75.6366[46.2603, -75.6366^]
+|https://opentopomap.org/#marker=15/46.2603/-75.6366[46.2603, -75.6366^]
 |496
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-034[^]
 
 |VE2/OU-035
 |VE2/OU-035
-|https://maps.google.com/maps?t=k&q=46.2369,-75.7164[46.2369, -75.7164^]
+|https://opentopomap.org/#marker=15/46.2369/-75.7164[46.2369, -75.7164^]
 |490
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-035[^]
 
 |VE2/OU-036
 |VE2/OU-036
-|https://maps.google.com/maps?t=k&q=46.2213,-75.6055[46.2213, -75.6055^]
+|https://opentopomap.org/#marker=15/46.2213/-75.6055[46.2213, -75.6055^]
 |486
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-036[^]
 
 |VE2/OU-042
 |VE2/OU-042
-|https://maps.google.com/maps?t=k&q=46.1718,-75.6373[46.1718, -75.6373^]
+|https://opentopomap.org/#marker=15/46.1718/-75.6373[46.1718, -75.6373^]
 |462
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-042[^]
 
 |VE2/OU-045
 |VE2/OU-045
-|https://maps.google.com/maps?t=k&q=45.9819,-75.4613[45.9819, -75.4613^]
+|https://opentopomap.org/#marker=15/45.9819/-75.4613[45.9819, -75.4613^]
 |451
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-045[^]
 
 |VE2/OU-047
 |VE2/OU-047
-|https://maps.google.com/maps?t=k&q=45.767,-74.717[45.767, -74.717^]
+|https://opentopomap.org/#marker=15/45.767/-74.717[45.767, -74.717^]
 |433
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-047[^]
 
 |VE2/OU-050
 |VE2/OU-050
-|https://maps.google.com/maps?t=k&q=46.0474,-75.6435[46.0474, -75.6435^]
+|https://opentopomap.org/#marker=15/46.0474/-75.6435[46.0474, -75.6435^]
 |423
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-050[^]
 
 |VE2/OU-052
 |VE2/OU-052
-|https://maps.google.com/maps?t=k&q=46.0525,-75.7777[46.0525, -75.7777^]
+|https://opentopomap.org/#marker=15/46.0525/-75.7777[46.0525, -75.7777^]
 |421
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-052[^]
 
 |VE2/OU-058
 |VE2/OU-058
-|https://maps.google.com/maps?t=k&q=45.9649,-76.653[45.9649, -76.653^]
+|https://opentopomap.org/#marker=15/45.9649/-76.653[45.9649, -76.653^]
 |412
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-058[^]
 
 |VE2/OU-059
 |VE2/OU-059
-|https://maps.google.com/maps?t=k&q=45.7859,-74.771[45.7859, -74.771^]
+|https://opentopomap.org/#marker=15/45.7859/-74.771[45.7859, -74.771^]
 |410
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-059[^]
 
 |VE2/OU-061
 |VE2/OU-061
-|https://maps.google.com/maps?t=k&q=46.242,-75.5504[46.242, -75.5504^]
+|https://opentopomap.org/#marker=15/46.242/-75.5504[46.242, -75.5504^]
 |389
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-061[^]
 
 |VE2/OU-062
 |VE2/OU-062
-|https://maps.google.com/maps?t=k&q=45.8423,-76.0801[45.8423, -76.0801^]
+|https://opentopomap.org/#marker=15/45.8423/-76.0801[45.8423, -76.0801^]
 |388
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-062[^]
 
 |VE2/OU-063
 |VE2/OU-063
-|https://maps.google.com/maps?t=k&q=45.963,-76.185[45.963, -76.185^]
+|https://opentopomap.org/#marker=15/45.963/-76.185[45.963, -76.185^]
 |387
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-063[^]
 
 |VE2/OU-064
 |VE2/OU-064
-|https://maps.google.com/maps?t=k&q=45.9429,-75.6076[45.9429, -75.6076^]
+|https://opentopomap.org/#marker=15/45.9429/-75.6076[45.9429, -75.6076^]
 |387
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-064[^]
 
 |VE2/OU-065
 |VE2/OU-065
-|https://maps.google.com/maps?t=k&q=45.9743,-75.7631[45.9743, -75.7631^]
+|https://opentopomap.org/#marker=15/45.9743/-75.7631[45.9743, -75.7631^]
 |383
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-065[^]
 
 |VE2/OU-066
 |VE2/OU-066
-|https://maps.google.com/maps?t=k&q=45.7337,-75.6914[45.7337, -75.6914^]
+|https://opentopomap.org/#marker=15/45.7337/-75.6914[45.7337, -75.6914^]
 |379
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-066[^]
 
 |VE2/OU-068
 |VE2/OU-068
-|https://maps.google.com/maps?t=k&q=45.8072,-76.0955[45.8072, -76.0955^]
+|https://opentopomap.org/#marker=15/45.8072/-76.0955[45.8072, -76.0955^]
 |374
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-068[^]
 
 |VE2/OU-069
 |VE2/OU-069
-|https://maps.google.com/maps?t=k&q=46.0295,-75.8937[46.0295, -75.8937^]
+|https://opentopomap.org/#marker=15/46.0295/-75.8937[46.0295, -75.8937^]
 |366
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-069[^]
 
 |VE2/OU-070
 |VE2/OU-070
-|https://maps.google.com/maps?t=k&q=45.9878,-75.8896[45.9878, -75.8896^]
+|https://opentopomap.org/#marker=15/45.9878/-75.8896[45.9878, -75.8896^]
 |365
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-070[^]
 
 |VE2/OU-071
 |VE2/OU-071
-|https://maps.google.com/maps?t=k&q=46.1762,-75.8705[46.1762, -75.8705^]
+|https://opentopomap.org/#marker=15/46.1762/-75.8705[46.1762, -75.8705^]
 |362
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-071[^]
 
 |VE2/OU-072
 |VE2/OU-072
-|https://maps.google.com/maps?t=k&q=45.912,-76.7692[45.912, -76.7692^]
+|https://opentopomap.org/#marker=15/45.912/-76.7692[45.912, -76.7692^]
 |358
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-072[^]
 
 |VE2/OU-073
 |VE2/OU-073
-|https://maps.google.com/maps?t=k&q=46.0979,-75.8659[46.0979, -75.8659^]
+|https://opentopomap.org/#marker=15/46.0979/-75.8659[46.0979, -75.8659^]
 |351
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-073[^]
 
 |VE2/OU-075
 |VE2/OU-075
-|https://maps.google.com/maps?t=k&q=46.1286,-75.3139[46.1286, -75.3139^]
+|https://opentopomap.org/#marker=15/46.1286/-75.3139[46.1286, -75.3139^]
 |530
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-075[^]
 
 |VE2/OU-077
 |VE2/OU-077
-|https://maps.google.com/maps?t=k&q=46.1315,-75.5123[46.1315, -75.5123^]
+|https://opentopomap.org/#marker=15/46.1315/-75.5123[46.1315, -75.5123^]
 |516
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-077[^]
 
 |VE2/OU-078
 |VE2/OU-078
-|https://maps.google.com/maps?t=k&q=45.9417,-75.3187[45.9417, -75.3187^]
+|https://opentopomap.org/#marker=15/45.9417/-75.3187[45.9417, -75.3187^]
 |495
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-078[^]
 
 |VE2/OU-079
 |VE2/OU-079
-|https://maps.google.com/maps?t=k&q=46.0521,-75.5029[46.0521, -75.5029^]
+|https://opentopomap.org/#marker=15/46.0521/-75.5029[46.0521, -75.5029^]
 |494
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-079[^]
 
 |VE2/OU-081
 |VE2/OU-081
-|https://maps.google.com/maps?t=k&q=45.7632,-75.1937[45.7632, -75.1937^]
+|https://opentopomap.org/#marker=15/45.7632/-75.1937[45.7632, -75.1937^]
 |457
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-081[^]
 
 |VE2/OU-082
 |VE2/OU-082
-|https://maps.google.com/maps?t=k&q=46.0277,-75.4348[46.0277, -75.4348^]
+|https://opentopomap.org/#marker=15/46.0277/-75.4348[46.0277, -75.4348^]
 |450
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-082[^]
 
 |VE2/OU-083
 |VE2/OU-083
-|https://maps.google.com/maps?t=k&q=45.9869,-75.205[45.9869, -75.205^]
+|https://opentopomap.org/#marker=15/45.9869/-75.205[45.9869, -75.205^]
 |449
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-083[^]
 
 |VE2/OU-085
 |VE2/OU-085
-|https://maps.google.com/maps?t=k&q=45.9917,-75.6583[45.9917, -75.6583^]
+|https://opentopomap.org/#marker=15/45.9917/-75.6583[45.9917, -75.6583^]
 |427
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-085[^]
 
 |VE2/OU-086
 |VE2/OU-086
-|https://maps.google.com/maps?t=k&q=46.0566,-76.3262[46.0566, -76.3262^]
+|https://opentopomap.org/#marker=15/46.0566/-76.3262[46.0566, -76.3262^]
 |420
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-086[^]
 
 |VE2/OU-087
 |VE2/OU-087
-|https://maps.google.com/maps?t=k&q=45.8386,-75.7739[45.8386, -75.7739^]
+|https://opentopomap.org/#marker=15/45.8386/-75.7739[45.8386, -75.7739^]
 |390
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-087[^]
 
 |VE2/OU-088
 |VE2/OU-088
-|https://maps.google.com/maps?t=k&q=45.7065,-76.292[45.7065, -76.292^]
+|https://opentopomap.org/#marker=15/45.7065/-76.292[45.7065, -76.292^]
 |384
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-088[^]
 
 |VE2/OU-089
 |Montagne du Calvaire
-|https://maps.google.com/maps?t=k&q=46.0142,-75.7729[46.0142, -75.7729^]
+|https://opentopomap.org/#marker=15/46.0142/-75.7729[46.0142, -75.7729^]
 |380
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-089[^]
 
 |VE2/OU-090
 |VE2/OU-090
-|https://maps.google.com/maps?t=k&q=46.0167,-76.2439[46.0167, -76.2439^]
+|https://opentopomap.org/#marker=15/46.0167/-76.2439[46.0167, -76.2439^]
 |370
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-090[^]
 
 |VE2/OU-091
 |VE2/OU-091
-|https://maps.google.com/maps?t=k&q=45.8457,-75.055[45.8457, -75.055^]
+|https://opentopomap.org/#marker=15/45.8457/-75.055[45.8457, -75.055^]
 |366
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-091[^]
 
 |VE2/OU-092
 |VE2/OU-092
-|https://maps.google.com/maps?t=k&q=45.9134,-76.7602[45.9134, -76.7602^]
+|https://opentopomap.org/#marker=15/45.9134/-76.7602[45.9134, -76.7602^]
 |361
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-092[^]
 
 |VE2/OU-093
 |VE2/OU-093
-|https://maps.google.com/maps?t=k&q=45.8469,-75.5598[45.8469, -75.5598^]
+|https://opentopomap.org/#marker=15/45.8469/-75.5598[45.8469, -75.5598^]
 |360
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-093[^]
 
 |VE2/OU-094
 |VE2/OU-094
-|https://maps.google.com/maps?t=k&q=45.8136,-76.5795[45.8136, -76.5795^]
+|https://opentopomap.org/#marker=15/45.8136/-76.5795[45.8136, -76.5795^]
 |337
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-094[^]
 
 |VE2/OU-095
 |La Grosse Loge
-|https://maps.google.com/maps?t=k&q=46.1488,-75.8283[46.1488, -75.8283^]
+|https://opentopomap.org/#marker=15/46.1488/-75.8283[46.1488, -75.8283^]
 |332
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-095[^]
 
 |VE2/OU-096
 |Montagne du Calvaire
-|https://maps.google.com/maps?t=k&q=45.7448,-75.0318[45.7448, -75.0318^]
+|https://opentopomap.org/#marker=15/45.7448/-75.0318[45.7448, -75.0318^]
 |326
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE2/OU-096[^]
 
 |VE3/SO-103
 |VE3/SO-103
-|https://maps.google.com/maps?t=k&q=45.1705,-76.8118[45.1705, -76.8118^]
+|https://opentopomap.org/#marker=15/45.1705/-76.8118[45.1705, -76.8118^]
 |397
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE3/SO-103[^]
 
 |VE3/SO-106
 |White Mountain
-|https://maps.google.com/maps?t=k&q=45.1713,-76.6481[45.1713, -76.6481^]
+|https://opentopomap.org/#marker=15/45.1713/-76.6481[45.1713, -76.6481^]
 |385
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE3/SO-106[^]
 
 |VE3/SO-107
 |Lavant Mountain
-|https://maps.google.com/maps?t=k&q=45.0457,-76.6692[45.0457, -76.6692^]
+|https://opentopomap.org/#marker=15/45.0457/-76.6692[45.0457, -76.6692^]
 |385
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE3/SO-107[^]
 
 |VE3/SO-109
 |Dicksons Mountain
-|https://maps.google.com/maps?t=k&q=45.2624,-76.788[45.2624, -76.788^]
+|https://opentopomap.org/#marker=15/45.2624/-76.788[45.2624, -76.788^]
 |376
 |Ante Laurijssen, VA2BBW
 |https://www.sotadata.org.uk/en/summit/VE3/SO-109[^]

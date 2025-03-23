@@ -29,8 +29,8 @@ arlhs_adoc_filename = "../arlhs-lighthouses.adoc"
 # SOTA website prefix - for use with reference links + lighthouse ref#
 arlhs_site_pref = "https://wlol.arlhs.com/lighthouse/"
 
-# GoogleMaps url prefix
-google_maps_url_pref = "https://maps.google.com/maps?t=k&q="
+# OpenStreetMap url prefix
+osm_maps_url_pref = "https://openstreetmap.org/"
 
 # Name of person submitting these parks
 sub_name = "Ante Laurijssen, VA2BBW"
@@ -76,6 +76,7 @@ with open(arlhs_adoc_filename, "w") as f:
     f.write("| ARLHS Number/Numéro ARLHS | Name/Nom | Location | Submitted by/Soumis par | Reference\n\n")
 
     with open(arlhs_csv_filename, mode='r') as file:
+        count = 0
         csvFile = csv.reader(file)
         for lines in csvFile:
             if len(lines) >1 and lines[1].startswith("CAN"):  # Simplified check
@@ -86,9 +87,10 @@ with open(arlhs_adoc_filename, "w") as f:
                     if -90 <= lat <= 90:
                         distance = calculateDistance(lat, lon)
                         if distance <= 100:
+                            count +=1
                             f.write(f"|{lines[1]}\n")
                             f.write(f"|{lines[0]}\n")
-                            f.write(f"|{google_maps_url_pref}{lat},{lon}[{lat},{lon}^]\n")
+                            f.write(f"|{osm_maps_url_pref}?mlat={lat}&mlon={lon}&zoom=19[{lat}, {lon}^]\n")
                             f.write(f"|{sub_name}\n")
                             f.write(f"|{arlhs_site_pref}{lines[1].replace(" ", "")}.html[^]\n\n")
                             print(f"\n***Lighthouse {lines[1]} added to the database.***\n".upper())
@@ -99,7 +101,8 @@ with open(arlhs_adoc_filename, "w") as f:
                 except ValueError:
                      print(f"Lighthouse {lines[1]} not added to the database.")
     f.write("|===")
-
+    print(f"{count} lighthouses added to the list.")
+    
 # Clean up files
 print("Cleaning up downloaded files")
 os.remove(arlhs_csv_filename)
