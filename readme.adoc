@@ -53,37 +53,134 @@ _Les autres répertoires tels que "html, "pdf", etc, contiennent les fichiers co
 
 - xref:6m-Amateur-Analog.adoc[6m Amateur Radio Analog / Radio amateur 6m analogique]
 
+50MHz analog amateur radio frequencies used in and around Ottawa-Gatineau, including repeaters.
+
+_Fréquences radio amateur 50MHz analogiques utilisées dans la région d'Ottawa-Gatineau, incluant les répétitrices._
+
 '''
 
 - xref:2m-Amateur-Analog.adoc[2m Amateur Radio Analog / Radio amateur 2m analogique]
+
+144MHz analog amateur radio frequencies used in and around Ottawa-Gatineau, including repeaters.
+
+_Fréquences radio amateur 144MHz analogiques utilisées dans la région d'Ottawa-Gatineau, incluant les répétitrices._
+
 - xref:2m-Amateur-Digital.adoc[2m Amateur Radio Digital / Radio amateur 2m numérique]
+
+144MHZ digital amateur radio frequencies used in and around Ottawa-Gatineau, including digital repeaters.
+
+_Fréquences radio amateur 144MHz numériques utilisées dans la région d'Ottawa-Gatineau, incluant les répétitrices numériques._
 
 '''
 
 - xref:135cm-Amateur-Analog.adoc[135cm Amateur Radio Analog / Radio amateur 135cm analogique]
 
+220MHz analog amateur radio frequencies used in and around Ottawa-Gatineau, including repeaters.
+
+_Fréquences radio amateur 220MHz numériques utilisées dans la région d'Ottawa-Gatineau, incluant les répétitrices._
+
 '''
 
 - xref:70cm-Amateur-Analog.adoc[70cm Amateur Radio Analog / Radio amateur 70cm analogique]
+
+440MHz analog amateur radio frequencies used in and around Ottawa-Gatineau, including repeaters.
+
+_Fréquences radio amateur 440MHz analogiques utilisées dans la région d'Ottawa-Gatineau, incluant les répétitrices._
+
 - xref:70cm-Amateur-Digital.adoc[70cm Amateur Radio Digital / Radio amateur 70cm numérique]
+
+440MHz digital amateur radio frequencies used in and around Ottawa-Gatineau, including digital repeaters.
+
+_Fréquences radio amateur 440MHz numériques utilisées dans la région d'Ottawa-Gatineau, incluant les répétitrices numériques._
 
 '''
 
 - xref:frs-gmrs.adoc[FRS-GMRS]
 
+FRS/GMRS frequencies used in and around Ottawa-Gatineau.
+
+_Fréquences FRS/GMRS utilisées dans la région d'Ottawa-Gatineau._
+
 '''
 
 - xref:commercial-am.adoc[Commercial AM Radio / Radio commerciale AM]
+
+Commercial radio broadcast stations in and around Ottawa-Gatineau.
+
+_Stations de radiodiffusion commerciales dans la région d'Ottawa-Gatineau._
 
 '''
 
 - xref:airband.adoc[Airband / Bande aviation]
 
+Aircraft band frequencies used in and around Ottawa-Gatineau.
+
+_Fréquences de bande aviation utilisées dans la région d'Ottawa-Gatineau._
+
 == Resources / Ressources
-- xref:web-sdr.adoc[Local Web SDR radios / Radios Web SDR locales]
-- xref:ised-ham-db.adoc[Local Amateur Database / Base de données amateur locale]
-- xref:ised-accred-examiners.adoc[Local ISED Accredited Examiners / Examinateurs accrédités ISDE locaux]
+
+- xref:web-sdr.adoc[Web SDR radios / Radios Web SDR]
+
+Web-SDR radio receivers located in and around Ottawa-Gatineau.
+
+_Receveurs Web-SDR situées dans la région d'Ottawa-Gatineau._
+
+'''
+
+- xref:ised-ham-db.adoc[Amateur Database / Base de données amateur]
+
+List of licensed amateur radio operators in and around Ottawa-Gatineau.
+
+NOTE: This list is parsed directly from the data available on the ISED website. If you are a licensed amateur local to the area but your callsign and information don't appear, it is likely because you chose not to share your address publicly with ISED.
+
+_Liste de radioamateurs certifiés dans la région d'Ottawa-Gatineau._
+
+NOTE: _Cette liste est analysée directement à partir des données disponibles sure le site d'ISDE. Si vous êtes un radioamateur certifié vivant dans la région et que votre indicatif d'appel et votre information n'apparaîssent pas, c'est probablement parce que vous avez choisi de ne pas partager votre addresse publiquement avec ISDE._
+
+'''
+
+- xref:ised-accred-examiners.adoc[ISED Accredited Examiners / Examinateurs accrédités ISDE]
+
+List accredite amateur radio examiners in and around Ottawa-Gatineau.
+
+_Liste d'examinateurs radio amateur accrédités dans la région d'Ottawa-Gatineau._
+
+'''
+
+- xref:ised-club-callsigns.adoc[Club Callsigns/Indicatifs de club]
+
+List of club callsigns in and around Ottawa-Gatineau.
+
+_Liste d'indicatifs de club dans la région d'Ottawa-Gatineau_
+
+'''
+
 - xref:pota-parks.adoc[POTA Parks / Parcs POTA]
+
+List of POTA parks in and around Ottawa-Gatineau.
+
+_Liste de parcs POTA dans la région d'Ottawa-Gatineau._
+
+'''
+
 - xref:sota-summits.adoc[SOTA Summits / Sommets SOTA]
+
+List of SOTA summits in and around Ottawa-Gatineau.
+
+_Liste de sommets SOTA dans la région d'Ottawa-Gatineau._
+
+'''
+
 - xref:wwff-parks.adoc[WWFF Parks / Parcs WWFF]
+
+List of WWFF parks in and around Ottawa-Gatineau.
+
+_Liste de parcs WWFF dans la région d'Ottawa-Gatineau._
+
+'''
+
 - xref:arlhs-lighthouses.adoc[ARLHS Lighthouses / Phares ARLHS]
+
+List of ARLHS lighthouses in and around Ottawa-Gatineau.
+
+_Liste de phares ARLHS dans la région d'Ottawa-Gatineau._

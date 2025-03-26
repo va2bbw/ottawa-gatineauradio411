@@ -43,7 +43,7 @@ sub_name = "Ante Laurijssen, VA2BBW"
 nominatem_url_pref = "https://nominatim.openstreetmap.org/search?q="
 nominatem_headers = {"User-Agent": "Ottawa-GatineauRadio411"}
 
-# Function to calculate the distance between parliament hill and the park
+# Function to calculate the distance between parliament hill and the examiner
 def calculateDistance(exmr_lat, exmr_lon):
     distance = geodesic((exmr_lat, exmr_lon), (ottawa_lat, ottawa_lon)).kilometers
     return distance
@@ -106,12 +106,11 @@ if os.path.isfile(exam_local_csv_filename) and os.path.isfile(exam_current_csv_f
 
     # Process the new CSV file and compare with both f1_rows and f2_rows
     with open(exam_new_csv_filename) as f3, open(exam_tmp_csv_filename, mode="w", newline="") as tmp_out:
-        f3_reader = csv.reader(f3)
         f3_writer = csv.writer(tmp_out)
 
         for row in f3_rows:
             # Convert the row to a tuple and check if it's not in either f1_rows or f2_rows
-            if tuple(row) not in f1_rows and tuple(row) not in f2_rows:
+            if row not in f2_rows:
                 f3_writer.writerow(row)
 
 else:
@@ -119,14 +118,14 @@ else:
     shutil.copy(exam_new_csv_filename, exam_tmp_csv_filename)
     shutil.copy(exam_new_csv_filename, exam_current_csv_filename)
 
-    # Create asciidoc file
+# Create asciidoc file
 print("Writing to ../ised-accred-examiners.adoc\n")
 with open(accred_exam_adoc_filename, "w") as f:
     f.write("= ISED Accredited Examiners / Examinateurs accrédités ISDE\n")
     f.write(":showtitle:\n\n")
     f.write("[NOTE]\n")
     f.write("====\n")
-    f.write("The information presented here is based on the latest availble data from the ISED website.\n")
+    f.write("The information presented here is based on the latest availble data from the ISED website.\n\n")
     f.write("_L'information présentée ici est basée sur les dernières données disponibles sur le site web de ISDE_\n")
     f.write("====\n\n")
     f.write(".ISED Accredited Examiners / Examinateurs accrédités ISDE\n")
@@ -140,7 +139,7 @@ with open(accred_exam_adoc_filename, "w") as f:
         with open(exam_local_csv_filename, mode='r') as file:
             csvLocal = csv.reader(file)
             for lines in csvLocal:
-                count +=1
+                count += 1
                 address = f"{lines[2]}, {lines[3]}, {lines[4]}, {lines[9]}"
                 f.write(f"|{lines[0]} {lines[1]}\n")
                 f.write(f"|{address}\n")
@@ -178,7 +177,7 @@ with open(accred_exam_adoc_filename, "w") as f:
                         if distance <= 100:
                             with open(exam_local_csv_filename, mode="a+") as local:
                                 csvLoc = csv.writer(local)
-                                count +=1
+                                count += 1
                                 csvLoc.writerow(lines)
                                 f.write(f"|{lines[0]} {lines[1]}\n")
                                 f.write(f"|{address}\n")

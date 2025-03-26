@@ -1,6 +1,13 @@
 = ISED Amateur Database / Base de données amateur ISDE
 :showtitle:
 
+[NOTE]
+====
+The information presented here is based on the latest availble data from the ISED website. If you are a licenced amateur in the Ottawa-Gatineau area and your information doesn't appear in this list, it is likely because you have chosen to not share your address publically in the ISED database.
+
+_L'information présentée ici est basée sur les dernières données disponibles sur le site web de ISDE. Si vous êtes un radioamateur dans la région d'Ottawa-Gatineau et que votre information n'apparaît pas sure cette liste, c'est probablement parce que vous avez choisi de ne pase partager votre adresse publiquement dans la base de données de ISDE._
+====
+
 .ISED Amateur Database / Base de données amateur ISDE
 |===
 | Callsign/Indicatif | Name/Nom | Addresse | Submitted by/Soumis par | Reference

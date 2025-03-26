@@ -61,6 +61,7 @@ with open(wwff_adoc_filename, "w") as f:
                             f.write(f"|{lines[0]}\n")
                             f.write(f"|{lines[2]}\n")
                             f.write(f"|{osm_maps_url_pref}?mlat={lat}&mlon={lon}&zoom=19[{lat}, {lon}^]\n")
+                            f.write(f"|{sub_name}\n")
                             f.write(f"|{wwff_site_pref}[^]\n\n")
                             print(f"\n***Park {lines[0]} added to the database.***\n".upper())
                         else:

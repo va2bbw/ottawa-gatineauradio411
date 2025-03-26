@@ -11,73 +11,10 @@ _L'information présentée ici est basée sur les dernières données disponible
 |===
 | Name/Nom | Addresse | Telephone | email/courriel | Submitted by/Soumis par | Reference
 
-|David Goodwin
-|141 Acton Drive, Smiths Falls, ON, K7A5B8
-|link:tel:6134304911[(613) 430-4911]
-|goodwindave.73@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Georges-André Chaudron
-|23 des Pommiers, Gatineau, QC, J9A3V2
-|link:tel:8197776852[(819) 777-6852]
-|gachaudron@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Rock Mallin
-|**, JOHNSTOWN, ON, K0E1T1
-|link:tel:6139257592[(613) 925-7592]
-|mallincam@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Mike Myers
-|2858 PRINCE OF WALES DR, NEPEAN, ON, K2C3H1
-|link:tel:6137964840[(613) 796-4840]
-|va3mpm@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Norm Rashleigh
-|1611 WAINFLEET ST., ORLEANS, ON, K1C3G3
-|link:tel:6138371733[(613) 837-1733]
-|norm.ve3lc@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Joseph Yvan Roger Belanger
-|3253 Richmond Drive, Cornwall, ON, K0C1P0
-|link:tel:6133300312[(613) 330-0312]
-|belanger.roger@sympatico.ca
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Eric Earle DePass
-|17437 KINGS ROAD, Box 251, ST ANDREWS WEST, ON, K0C2A0
-|link:tel:6139302145[(613) 930-2145], link:tel:6139989992[(613) 998-9992]
-|earfran@bell.net
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Donald Greene
-|153 Curtis Pvt., GLOUCESTER, ON, K1V7L7
-|link:tel:6136396120[(613) 639-6120]
-|ve3ign@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Mike Kelly
-|25 STEVENSON AVE., OTTAWA, ON, K1Z6M9
-|link:tel:6133220669[(613) 322-0669]
-|ve3ffk@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Donald Hekman
-|65 Dr. Gordon Crescent, KEMPTVILLE, ON, K0G1J0
-|link:tel:6132586170[(613) 258-6170]
-|don.hekman@gmail.com
+|Steve D Harvey
+|17389 McLean Road, MAXVILLE, ON, K0C1T0
+|link:tel:7786797839[(778) 679-7839]
+|harvey.steve@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
@@ -88,24 +25,17 @@ _L'information présentée ici est basée sur les dernières données disponible
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
-|Luc Romain
-|140 Félix-Leclerc, GATINEAU, QC, J9H0G4
-|link:tel:6138974467[(613) 897-4467]
-|ve2lrs@ve2reh.com
+|Donald Hekman
+|65 Dr. Gordon Crescent, KEMPTVILLE, ON, K0G1J0
+|link:tel:6132586170[(613) 258-6170]
+|don.hekman@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
-|Justin Schmidt-Clever
-|106 Colonel by Way, MERRICKVILLE, ON, K0G1N0
-|link:tel:3435534834[(343) 553-4834]
-|mr-x-2000@rogers.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Steve D Harvey
-|17389 McLean Road, MAXVILLE, ON, K0C1T0
-|link:tel:7786797839[(778) 679-7839]
-|harvey.steve@gmail.com
+|Donald Greene
+|153 Curtis Pvt., GLOUCESTER, ON, K1V7L7
+|link:tel:6136396120[(613) 639-6120]
+|ve3ign@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
@@ -116,10 +46,80 @@ _L'information présentée ici est basée sur les dernières données disponible
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
+|Luc Romain
+|140 Félix-Leclerc, GATINEAU, QC, J9H0G4
+|link:tel:6138974467[(613) 897-4467]
+|ve2lrs@ve2reh.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Rock Mallin
+|**, JOHNSTOWN, ON, K0E1T1
+|link:tel:6139257592[(613) 925-7592]
+|mallincam@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Joseph Yvan Roger Belanger
+|3253 Richmond Drive, Cornwall, ON, K0C1P0
+|link:tel:6133300312[(613) 330-0312]
+|belanger.roger@sympatico.ca
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Mike Kelly
+|25 STEVENSON AVE., OTTAWA, ON, K1Z6M9
+|link:tel:6133220669[(613) 322-0669]
+|ve3ffk@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
 |Gilles Beaulieu
 |1010 Elizabeth St.,  P.O. Box 22, Curran, ON, K0B1C0
 |link:tel:6137121058[(613) 712-1058], link:tel:6135182262[(613) 518-2262]
 |VE3NPI@OUTLOOK.COM
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Georges-André Chaudron
+|23 des Pommiers, Gatineau, QC, J9A3V2
+|link:tel:8197776852[(819) 777-6852]
+|gachaudron@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Justin Schmidt-Clever
+|106 Colonel by Way, MERRICKVILLE, ON, K0G1N0
+|link:tel:3435534834[(343) 553-4834]
+|mr-x-2000@rogers.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Eric Earle DePass
+|17437 KINGS ROAD, Box 251, ST ANDREWS WEST, ON, K0C2A0
+|link:tel:6139302145[(613) 930-2145], link:tel:6139989992[(613) 998-9992]
+|earfran@bell.net
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Norm Rashleigh
+|1611 WAINFLEET ST., ORLEANS, ON, K1C3G3
+|link:tel:6138371733[(613) 837-1733]
+|norm.ve3lc@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|David Goodwin
+|141 Acton Drive, Smiths Falls, ON, K7A5B8
+|link:tel:6134304911[(613) 430-4911]
+|goodwindave.73@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Mike Myers
+|2858 PRINCE OF WALES DR, NEPEAN, ON, K2C3H1
+|link:tel:6137964840[(613) 796-4840]
+|va3mpm@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 

@@ -2,28 +2,32 @@
 
 .Web SDR Radios / Radios Web SDR
 |===
-|Name/Nom |Owner/Propriétaire |Location |Submitted by/Soumis par |Reference
+|Name/Nom |Owner/Propriétaire |Link/Lien |Location |Submitted by/Soumis par |Reference
 
-|http://va3urs.zapto.org:8073/#freq=3730000,mod=lsb,sql=-65[VA3URS^]
+|VA3URS
 |Shawn Chartrand, VA3GFY
+|http://va3urs.zapto.org:8073/#freq=3730000,mod=lsb,sql=-65[^]
 |Ottawa FN25dj
 |Ante Laurijssen, VA2BBW
 |https://rx-tx.info/map-sdr-points
 
-|http://ve3hoa.ddns.net:8073/[VA3HOA^]
+|VA3HOA
 |Phillip Rodney Lytle, VA3HOA
+|http://ve3hoa.ddns.net:8073/[^]
 |Carleton Place FN15xg
 |Ante Laurijssen, VA2BBW
 |https://rx-tx.info/map-sdr-points
 
-|http://va3xa.ddns.net:30948/#freq=27000000,mod=usb,sql=-150[VA3XA^]
+|VA3XA
 |Scott Ronald Crouse, VA3XA
+|http://va3xa.ddns.net:30948/#freq=27000000,mod=usb,sql=-150[^]
 |Osgoode FN25ge
 |Ante Laurijssen, VA2BBW
 |https://rx-tx.info/map-sdr-points
 
-|http://184.145.34.34:8073/[Unknown^]
-|
+|Unknown
+|Unknown
+|http://184.145.34.34:8073/[^]
 |Carleton Place FN15wd
 |Ante Laurijssen, VA2BBW
 |https://rx-tx.info/map-sdr-points

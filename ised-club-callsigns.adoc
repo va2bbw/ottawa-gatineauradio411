@@ -1,0 +1,759 @@
+= Club Callsigns / Indicatifs de club
+:showtitle:
+
+[NOTE]
+====
+The information presented here is based on the latest availble data from the ISED website.
+
+_L'information présentée ici est basée sur les dernières données disponibles sur le site web de ISDE_
+====
+
+.Club Callsigns / Indicatifs de club
+|===
+| Callsign/Indicatif | Club | Address/Adresse | Holder/Détenteur | Submitted by/Soumis par | Reference
+
+|VE3URF
+|FRIENDS OF UPPER CANADA AMATEUR RADIO
+|3456 BRUCE ST. SOUTH STORMONT, CORNWALL, ON, K6K1M9
+|Robert Fry|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3URF[^]
+
+|VA3AAR
+|Almonte Amateur Radio Club
+|102 Manion Rd., CARP, ON, K0A1L0
+|Phillip Rodney Lytle|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3AAR[^]
+
+|VA3HSP
+|Almonte Amateur Radio Club
+|102 Manion Rd., CARP, ON, K0A1L0
+|Phillip Rodney Lytle|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3HSP[^]
+
+|VE3FYO
+|ALGONQUIN COLLEGE ARC (ELECTRONICS DEPT.)
+|200 LEES AVE., OTTAWA, ON, K1S0C5
+|William Wright|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3FYO[^]
+
+|VA3RIU
+|The Swords and Ploughshares Museum
+|7500 Reevecraig Road North, RR#1, Kars, ON, K0A2E0
+|Justin Schmidt-Clever|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3RIU[^]
+
+|VE3SHQ
+|Scouts Canada National Museum
+|1345 Baseline Road, Ottawa, ON, K2C0A7
+|Christian Leith Bisaillion|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3SHQ[^]
+
+|VA3SDG
+|SEAWAY VALLEY AMATEUR RADIO CLUB(SVARC)INC.
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Eric Earle DePass|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3SDG[^]
+
+|VA3CZZ
+|Carleton Aerospace Astrophysics Radio Club
+|1125 Colonel By Drive, Ottawa, ON, K1S5B6
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3CZZ[^]
+
+|VE3TEL
+|MANOTICK AMATEUR RADIO GROUP
+|C/O 139 Curtis Pvt, GLOUCESTER, ON, K1V7L7
+|Donald Greene|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3TEL[^]
+
+|VE3BZU
+|United Counties of Stormont, Dundas & Glengary
+|26 PITT STREET, CORNWALL, ON, K6J3P2
+|Edward Ashworth Halliwell|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3BZU[^]
+
+|VE3RST
+|ASSOCIATION VHF DE L'OUTAOUAIS
+|2970 WALTER ROAD, OTTAWA, ON, K2B7A6
+|Michel Lafleur|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RST[^]
+
+|VE3PGC
+|CORNWALL PACKET GROUP
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Douglas Paul Pearson|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3PGC[^]
+
+|VA3OFS
+|EMERGENCY MEASURES RADIO GROUP
+|C/O PETER GAMBLE, 1282 LIVINGSTONE AVE, OTTAWA, ON, K1H7P8
+|Peter Douglas Gamble|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3OFS[^]
+
+|VA3OUT
+|University of Ottawa Radio Club
+|800 KING EDWARD AVE, ROOM 5105, BOX#93, OTTAWA, ON, K1N6N5
+|Icor Acimovic|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3OUT[^]
+
+|VE3WRA
+|COMMUNICATION REGIMENT OTTAWA ARC
+|2100 WAKLEY RD, OTTAWA, ON, K1G3V3
+|Richard Simon Rhine|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3WRA[^]
+
+|VE3PRR
+|Prescott-Russell ARES Group
+|7 LASALLE COURT, ROCKLAND, ON, K4K1K7
+|William Lance Peterson|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3PRR[^]
+
+|VE2CRA
+|OTTAWA AMATEUR RADIO CLUB INC.
+|C/O HARRIE JONES, BOX 8873, STATION A, OTTAWA, ON, K1G3J2
+|Harrie F C Jones|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2CRA[^]
+
+|VE3SVR
+|IROQUOIS AMATEUR RADIO CLUB
+|PO Box 186, IROQUOIS, ON, K0E1K0
+|Keith Poore|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3SVR[^]
+
+|VE2RWC
+|VE2RWC Repeater Group
+|70 Pendleton Street, Box 801, VANKLEEK HILL, ON, K0B1R0
+|Allan Lachlan Boa|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2RWC[^]
+
+|VE3TRA
+|TELESAT AMATEUR RADIO ASSOCIATION
+|1601 TELESAT CT, GLOUCESTER, ON, K1B5P4
+|Mike Ligeza|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3TRA[^]
+
+|VE3EPC
+|EMERGENCY PREPAREDNESS CANADA HEADQUARTERS
+|122 BANK STREET, OTTAWA, ON, K1A0W6
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3EPC[^]
+
+|VA3ODG
+|Ottawa Amateur Radio Digital Group
+|89 Stonewalk Drive, KEMPTVILLE, ON, K0G1J0
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3ODG[^]
+
+|VE3SAU
+|RADIO CLUB AMATEUR EASTERN ONT.
+|C/O FRED SCOTT, R.R. # 2, MOOSE CREEK, ON, K0C1W0
+|Frederick G Scott|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3SAU[^]
+
+|VE3WPO
+|LANARK & NORTH LEEDS ARES
+|390 Loonie Lane, RR-3, PERTH, ON, K7H3C5
+|Allan Niittymaa|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3WPO[^]
+
+|VE2RBH
+|CLUB RADIO AMATEUR DE L'OUTAOUAIS
+|CP 1583 STN B, GATINEAU, QC, J8X3Z6
+|Jonathan Lévesque|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2RBH[^]
+
+|VE3VSW
+|SEAWAY VALLEY AMATEUR RADIO CLUB(SVARC)INC.
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Eric Earle DePass|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3VSW[^]
+
+|VE3RIX
+|MANOTICK AMATEUR RADIO GROUP
+|C/O 139 Curtis Pvt, GLOUCESTER, ON, K1V7L7
+|Donald Greene|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RIX[^]
+
+|VE3CER
+|CUMBERLAND EMERGENCY RADIO AMATEUR GROUP
+|640 LIMOGES RD, LIMOGES, ON, K0A2M0
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3CER[^]
+
+|VA2UHF
+|CLUB RADIO AMATEUR DE L'OUTAOUAIS
+|CP 1583 STN B, GATINEAU, QC, J8X3Z6
+|Jonathan Lévesque|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA2UHF[^]
+
+|VE3IGC
+|GRENVILLE CHRISTIAN COLLEGE AMATEUR RADIO CLUB
+|BOX 610, BROCKVILLE, ON, K6V5V8
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3IGC[^]
+
+|VE3HQP
+|EMERGENCY PREPAREDNESS CANADA HEADQUARTERS
+|122 BANK STREET, OTTAWA, ON, K1A0W6
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3HQP[^]
+
+|VE3TEN
+|OTTAWA AMATEUR RADIO CLUB INC.
+|C/O HARRIE JONES, BOX 8873, STATION A, OTTAWA, ON, K1G3J2
+|Harrie F C Jones|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3TEN[^]
+
+|VE3RAC
+|RADIO AMATEUR DU / OF CANADA INC.
+|720 BELFAST RD SUITE 217, OTTAWA, ON, K1G0Z5
+|Christopher Llewellyn Allingham|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RAC[^]
+
+|VE2OJ
+|OUTAOUAIS CONTEST OPERATORS ASSOCIATION
+|44 BROCKINGTON CRESCENT, NEPEAN, ON, K2G4K2
+|John Wesley Moffat|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2OJ[^]
+
+|VA3TUV
+|The Ultimate Vacation
+|2273  Samuel Dr., Ottawa, ON, K1G3C3
+|Craig McLoughlin|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3TUV[^]
+
+|VE3GSC
+|GSC OTTAWA AMATEUR RADIO CLUB
+|P.O. BOX 281, MERRICKVILLE, ON, K0G1N0
+|David George Stephenson|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3GSC[^]
+
+|VE2AQP
+|CIDX CLUB
+|P.O. BOX 1839, CORNWALL, ON, K6H6N6
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2AQP[^]
+
+|VE3IRO
+|IROQUOIS AMATEUR RADIO CLUB
+|PO Box 186, IROQUOIS, ON, K0E1K0
+|Keith Poore|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3IRO[^]
+
+|VA3SND
+|Radio and Communication Enthusiasts
+|PO Box 246, LONG SAULT, ON, K0C1P0
+|David A F Cull|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3SND[^]
+
+|VE3AIR
+|MANOTICK AMATEUR RADIO GROUP
+|C/O 139 Curtis Pvt, GLOUCESTER, ON, K1V7L7
+|Donald Greene|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3AIR[^]
+
+|VE2KPG
+|Association des Radioamateurs Independants
+|605 CHEMIN LAMARCHE, GATINEAU, QC, J8L2W7
+|Martin Proulx|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2KPG[^]
+
+|VE3ABC
+|613-905-519 Radio Group
+|2205 BEL-AIR DRIVE, OTTAWA, ON, K2C0X2
+|Lawrence Carson Kearns|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3ABC[^]
+
+|VA2RAC
+|RADIO AMATEUR DU / OF CANADA INC.
+|720 BELFAST RD SUITE 217, OTTAWA, ON, K1G0Z5
+|Christopher Llewellyn Allingham|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA2RAC[^]
+
+|VE3LCA
+|LANARK & NORTH LEEDS ARES
+|390 Loonie Lane, RR-3, PERTH, ON, K7H3C5
+|Allan Niittymaa|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3LCA[^]
+
+|VA3ESD
+|South Dundas Emergency Group
+|PO Box 186, IROQUOIS, ON, K0E1K0
+|Keith Poore|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3ESD[^]
+
+|VE3SML
+|CLUB DE RADIO AMATEUR SAMUEL GENEST
+|ATT: CHARLES WADDELL, 704 CHEMIN CARSON, OTTAWA, ON, K1K2H3
+|Charles Waddell|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3SML[^]
+
+|VE2SY
+|CLUB RADIO AMATEUR DE L'OUTAOUAIS
+|CP 1583 STN B, GATINEAU, QC, J8X3Z6
+|Jonathan Lévesque|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2SY[^]
+
+|VA3PRA
+|Prescott-Russell ARES Group
+|7 LASALLE COURT, ROCKLAND, ON, K4K1K7
+|William Lance Peterson|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3PRA[^]
+
+|VA3OVQ
+|Ottawa Valley QRP Society
+|112 BLOOMINGDALE STREET, OTTAWA, ON, K2C4A4
+|William Michael Babineau|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3OVQ[^]
+
+|VE3RLR
+|Rideau Lakes Amateur Radio Club
+|262 WOOD AVE., SMITHS FALLS, ON, K7A5H2
+|Wayne David Poulter|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RLR[^]
+
+|VA3NOC
+|RCMP NATIONAL OPERATIONS CENTRE
+|1200 VANIER PARKWAY, OTTAWA, ON, K1A0R2
+|Norman Rhodes Rashleigh|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3NOC[^]
+
+|VA3EPC
+|EMERGENCY PREPAREDNESS CANADA HEADQUARTERS
+|122 BANK STREET, OTTAWA, ON, K1A0W6
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3EPC[^]
+
+|VE3YRR
+|RADIO DIRECTION FINDING CLUB OF OTTAWA CARLETON
+|C/O DENTON CRAIG, 4129 BASELINE ROAD R.R. #2, RAMSAYVILLE, ON, K0A2Y0
+|Denton Craig|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3YRR[^]
+
+|VE3EYV
+|Hertziens de l'Est Ontarien
+|818 CH. ST-ISIDORE, CASSELMAN, ON, K0A1M0
+|Gérard Joseph F. Piette|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3EYV[^]
+
+|VA3COC
+|Search and Rescue Radio Group
+|6525 TIMAGAMI CT., MANOTICK, ON, K4M1B3
+|Peter Shane Devanney|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3COC[^]
+
+|VE3HCB
+|SEAWAY VALLEY AMATEUR RADIO CLUB(SVARC)INC.
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Eric Earle DePass|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3HCB[^]
+
+|VA3RHQ
+|RADIO AMATEUR DU / OF CANADA INC.
+|720 BELFAST RD SUITE 217, OTTAWA, ON, K1G0Z5
+|Christopher Llewellyn Allingham|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3RHQ[^]
+
+|VE3RSR
+|COMMUNICATION REGIMENT OTTAWA ARC
+|2100 WAKLEY RD, OTTAWA, ON, K1G3V3
+|Richard Simon Rhine|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RSR[^]
+
+|VE3RC
+|OTTAWA AMATEUR RADIO CLUB INC.
+|C/O HARRIE JONES, BOX 8873, STATION A, OTTAWA, ON, K1G3J2
+|Harrie F C Jones|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RC[^]
+
+|VA3BLN
+|Icarus PicoBalloon Group
+|112 Bloomingdale St, Ottawa, ON, K2C4A4
+|William Michael Babineau|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3BLN[^]
+
+|VE2SH
+|UHF-VHF AMATEUR CLUB OF MONTREAL
+|C/O DONALD R DASHNEY, 2849 ALLEN ROAD,R.R.1, L'ORIGNAL, ON, K0B1K0
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2SH[^]
+
+|VA3CZJ
+|Cadet Radio
+|HMCS CARLETON NRD/79 Prince of Wales Drive, MERRICKVILLE, ON, K1A0K2
+|Justin Schmidt-Clever|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3CZJ[^]
+
+|VA3EDG
+|SEAWAY VALLEY AMATEUR RADIO CLUB(SVARC)INC.
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Douglas Paul Pearson|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3EDG[^]
+
+|VA3UHR
+|Almonte Amateur Radio Club
+|102 Manion Rd., CARP, ON, K0A1L0
+|Phillip Rodney Lytle|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3UHR[^]
+
+|VE3KJG
+|LANARK COUNTY A.R.E.S.
+|564 Amberwood Road, ASHTON, ON, K0A1B0
+|Douglas William Griffith|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3KJG[^]
+
+|VE3REX
+|LANARK & NORTH LEEDS ARES
+|390 Loonie Lane, RR-3, PERTH, ON, K7H3C5
+|Allan Niittymaa|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3REX[^]
+
+|VE3CWM
+|DIEFENBUNKER AMATEUR RADIO CLUB
+|50A  TYNDALL STREET, OTTAWA, ON, K1Y3J8
+|Robert William Boyd|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3CWM[^]
+
+|VA2PCC
+|EMERGENCY PREPAREDNESS CANADA HEADQUARTERS
+|122 BANK STREET, OTTAWA, ON, K1A0W6
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA2PCC[^]
+
+|VA3SJS
+|St John Ambulance - Community Services
+|1050 Morrison Drive , Unit# 101, Ottawa, ON, K2H8K7
+|Justin Schmidt-Clever|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3SJS[^]
+
+|VE3RNU
+|LANARK & NORTH LEEDS ARES
+|390 Loonie Lane, RR-3, PERTH, ON, K7H3C5
+|Allan Niittymaa|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RNU[^]
+
+|VE3OCR
+|OTTAWA AMATEUR RADIO CLUB INC.
+|C/O HARRIE JONES, BOX 8873, STATION A, OTTAWA, ON, K1G3J2
+|Harrie F C Jones|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3OCR[^]
+
+|VE3PRD
+|Prescott-Russell Amateur Radio Club Inc.
+|P.O. Box 22, CURRAN, ON, K0B1C0
+|William Lance Peterson|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3PRD[^]
+
+|VE3JW
+|OTTAWA VALLEY MOBILE RADIO CLUB INC
+|P.O. BOX 41145, OTTAWA, ON, K1G5K9
+|Norman Rhodes Rashleigh|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3JW[^]
+
+|VA3CRC
+|CDN RED CROSS NAT. HQ ARC
+|170 METCALFE ST. SUITE 300, OTTAWA, ON, K2P2P2
+|Richard William Guidone|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3CRC[^]
+
+|VA3RCU
+|SEAWAY VALLEY AMATEUR RADIO CLUB(SVARC)INC.
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Eric Earle DePass|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3RCU[^]
+
+|VA3RLR
+|Rideau Lakes Amateur Radio Club
+|262 WOOD AVE., SMITHS FALLS, ON, K7A5H2
+|Wayne David Poulter|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3RLR[^]
+
+|VE3PFR
+|ASSOCIATION VHF DE L'OUTAOUAIS
+|2970 WALTER ROAD, OTTAWA, ON, K2B7A6
+|Michel Lafleur|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3PFR[^]
+
+|VA3DOT
+|NAV CANADA - AANFPN
+|C/O ALAN FORSYTH, BLDG T78, 280 HUNT CLUB ROAD, OTTAWA, ON, K1V1C1
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3DOT[^]
+
+|VE3EMU
+|EMERGENCY MEASURES RADIO GROUP
+|C/O PETER GAMBLE, 1282 LIVINGSTONE AVE, OTTAWA, ON, K1H7P8
+|Peter Douglas Gamble|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3EMU[^]
+
+|VA3CCN
+|Club de Radio Amateur de la Capitale Nationale
+|52 Antares Dr., Ottawa, ON, K2E7Z1
+|Gilles Violette|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3CCN[^]
+
+|VE3NCR
+|OTTAWA AMATEUR RADIO CLUB INC.
+|C/O HARRIE JONES, BOX 8873, STATION A, OTTAWA, ON, K1G3J2
+|Harrie F C Jones|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3NCR[^]
+
+|VA3SAU
+|RADIO CLUB AMATEUR EASTERN ONT.
+|C/O FRED SCOTT, R.R. # 2, MOOSE CREEK, ON, K0C1W0
+|Frederick G Scott|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3SAU[^]
+
+|VE3XYZ
+|19th / 119th Nepean Scouts
+|13 ESQUIMAULT AVE., NEPEAN, ON, K2H6Z2
+|Alan Robert Boyce|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3XYZ[^]
+
+|VE3XWR
+|Defence R&D Canada - Ottawa - Radar Systems
+|3701 CARLING AVE., BLDG. T86, OTTAWA, ON, K1A0Z4
+|Norman Leslie Reed|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3XWR[^]
+
+|VA3ARE
+|Almonte Amateur Radio Club
+|102 Manion Rd., CARP, ON, K0A1L0
+|Phillip Rodney Lytle|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3ARE[^]
+
+|VE3RAM
+|OTTAWA VALLEY MOBILE RADIO CLUB INC
+|P.O. BOX 41145, OTTAWA, ON, K1G5K9
+|Norman Rhodes Rashleigh|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RAM[^]
+
+|VE3WCC
+|West Carleton Amateur Radio Club
+|18 Gervin Street, NEPEAN, ON, K2G0J8
+|Wayne R Getchell|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3WCC[^]
+
+|VA3URS
+|URS
+|36b primrose  east, Ottawa, ON, K1R7C4
+|Shawn Chartrand|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3URS[^]
+
+|VA3TEL
+|LANARK & NORTH LEEDS ARES
+|390 Loonie Lane, RR-3, PERTH, ON, K7H3C5
+|Allan Niittymaa|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3TEL[^]
+
+|VA3CUA
+|Carleton University Amateur Radio Club
+|FACULTY OF ENG. & DESIGN, 1125 COLONEL BY DRIVE, OTTAWA, ON, K1S5B6
+|Alan Steele|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3CUA[^]
+
+|VE2RAO
+|CLUB RADIO AMATEUR DE L'OUTAOUAIS
+|CP 1583 STN B, GATINEAU, QC, J8X3Z6
+|Jonathan Lévesque|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2RAO[^]
+
+|VE3MPC
+|OTTAWA VALLEY MOBILE RADIO CLUB INC
+|P.O. BOX 41145, OTTAWA, ON, K1G5K9
+|Norman Rhodes Rashleigh|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3MPC[^]
+
+|VA3OCE
+|EMERGENCY MEASURES RADIO GROUP
+|C/O PETER GAMBLE, 1282 LIVINGSTONE AVE, OTTAWA, ON, K1H7P8
+|Peter Douglas Gamble|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3OCE[^]
+
+|VE3YYX
+|Champlain Regional Repeater Association
+|891 Stones Lake Rpad, CALABOGIE, ON, K0J1H0
+|Edsel James Tink|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3YYX[^]
+
+|VA3ORH
+|Ottawa Radio Hobbyist Group
+|132-A Craig Henry Drive, Nepean, ON, K2G4M6
+|Terence Foster|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3ORH[^]
+
+|VA3CEA
+|SEAWAY VALLEY AMATEUR RADIO CLUB(SVARC)INC.
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Eric Earle DePass|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3CEA[^]
+
+|VA3RAC
+|RADIO AMATEUR DU / OF CANADA INC.
+|720 BELFAST RD SUITE 217, OTTAWA, ON, K1G0Z5
+|Christopher Llewellyn Allingham|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3RAC[^]
+
+|VA3CGH
+|RCSCC DEFIANT ARC
+|407 Clothier st East , PO Box 91, Kemptville, ON, K0G1J0
+|Matthew David Batten|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3CGH[^]
+
+|VE2RBL
+|CLUB RADIO AMATEUR DE L'OUTAOUAIS
+|CP 1583 STN B, GATINEAU, QC, J8X3Z6
+|Jonathan Lévesque|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2RBL[^]
+
+|VE3UEE
+|Bush Dog Radio Group
+|11 Mohawk Crescent, Nepean, ON, K2H7G7
+|David Hamilton|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3UEE[^]
+
+|VA3CGD
+|CGD AMATEUR RADIO ASSOCIATION
+|RR #1 C/O BILL COUSINS, KEMPTVILLE, ON, K0G1J0
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3CGD[^]
+
+|VE3CDH
+|THE HAWKESBURY AMATEUR RADIO CLUB
+|342 RUE MCGILL CHAMBRE 107, HAWKESBURY, ON, K6A3V5
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3CDH[^]
+
+|VA3LCC
+|LA CITE COLLEGIALE
+|ATTN: DEPT. MEDIA & TECH. D 2190, 801 PROMENADE DE L'AVIATION, OTTAWA, ON, K1K4R3
+|Yves Michaud|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3LCC[^]
+
+|VE3PRV
+|Prescott-Russell Ares Group
+|264 MONTÉE OUTAOUAIS ROAD, ROCKLAND, ON, K4K1G2
+|Jim Thiessen|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3PRV[^]
+
+|VE3SVC
+|SEAWAY VALLEY AMATEUR RADIO CLUB(SVARC)INC.
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Eric Earle DePass|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3SVC[^]
+
+|VE2CRO
+|CLUB RADIO AMATEUR DE L'OUTAOUAIS
+|CP 1583 STN B, GATINEAU, QC, J8X3Z6
+|Jonathan Lévesque|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2CRO[^]
+
+|VE3AII
+|Canam Contest Club
+|43 D'ARCYS WAY, KEMPTVILLE, ON, K0G1J0
+|Gerald Bernard Hull|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3AII[^]
+
+|VE3RHQ
+|RADIO AMATEUR DU / OF CANADA INC.
+|720 BELFAST RD SUITE 217, OTTAWA, ON, K1G0Z5
+|Christopher Llewellyn Allingham|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3RHQ[^]
+
+|VE3CTD
+|ADVANCED RADIO CLUB
+|5 WOLMSLEY, NEPEAN, ON, K2G1J3
+|Richard Hagemeyer|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3CTD[^]
+
+|VA3MPC
+|RCMP "A" Division Emergency Operations Group
+|1426 ST. JOSEPH BLVD, RM 1900B, OTTAWA, ON, K1A0R2
+|Corey Bryk|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3MPC[^]
+
+|VE3SWL
+|CIDX CLUB
+|P.O. BOX 1839, CORNWALL, ON, K6H6N6
+|First Name Unknown Surname Unknown|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3SWL[^]
+
+|VE3NGR
+|North Grenville Amateur Radio Group
+|112 Stonewalk Drive, KEMPTVILLE, ON, K0G1J0
+|Thomas Leblanc|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3NGR[^]
+
+|VE2UQH
+|CLUB RADIO AMATEUR DE L'OUTAOUAIS
+|CP 1583 STN B, GATINEAU, QC, J8X3Z6
+|Jonathan Lévesque|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE2UQH[^]
+
+|VE3DVQ
+|LANARK & NORTH LEEDS ARES
+|390 Loonie Lane, RR-3, PERTH, ON, K7H3C5
+|Allan Niittymaa|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3DVQ[^]
+
+|VA3FHA
+|SEAWAY VALLEY AMATEUR RADIO CLUB(SVARC)INC.
+|4672 O'Keefe Road, ST ANDREWS WEST, ON, K0C2A0
+|Eric Earle DePass|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3FHA[^]
+
+|VE3SFR
+|Rideau Lakes Amateur Radio Club
+|262 WOOD AVE., SMITHS FALLS, ON, K7A5H2
+|Wayne David Poulter|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3SFR[^]
+
+|VA3EMV
+|EMERGENCY MEASURES RADIO GROUP
+|C/O PETER GAMBLE, 1282 LIVINGSTONE AVE, OTTAWA, ON, K1H7P8
+|Peter Douglas Gamble|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3EMV[^]
+
+|VA3XAC
+|Algonquin College Amateur Radio Club
+|30 Forest Gate Way, Ottawa, ON, K2G1V8
+|Craig David Delmage|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3XAC[^]
+
+|VA3NDC
+|IROQUOIS AMATEUR RADIO CLUB
+|PO Box 186, IROQUOIS, ON, K0E1K0
+|Keith Poore|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VA3NDC[^]
+
+|VE3OJE
+|RADIO CLUB AMATEUR EASTERN ONT.
+|C/O FRED SCOTT, R.R. # 2, MOOSE CREEK, ON, K0C1W0
+|Frederick G Scott|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3OJE[^]
+
+|VE3OCE
+|EMERGENCY MEASURES RADIO GROUP
+|C/O PETER GAMBLE, 1282 LIVINGSTONE AVE, OTTAWA, ON, K1H7P8
+|Peter Douglas Gamble|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3OCE[^]
+
+|VE3CKJ
+|Radio Misfits
+|132 Mann Ave, Ottawa, ON, K1N1C1
+|Bruce Strickland|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3CKJ[^]
+
+|VE3OEM
+|EMERGENCY MEASURES RADIO GROUP
+|C/O PETER GAMBLE, 1282 LIVINGSTONE AVE, OTTAWA, ON, K1H7P8
+|Peter Douglas Gamble|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3OEM[^]
+
+|VE3TWO
+|OTTAWA VALLEY MOBILE RADIO CLUB INC
+|P.O. BOX 41145, OTTAWA, ON, K1G5K9
+|Norman Rhodes Rashleigh|Ante Laurijssen, VA2BBW
+|https://qrz.com/db/VE3TWO[^]
+
+|===
