@@ -1,5 +1,7 @@
 = Ottawa-Gatineau Radio411
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 image::Logo.png[]
 
