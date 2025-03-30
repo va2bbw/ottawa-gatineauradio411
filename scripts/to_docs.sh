@@ -15,7 +15,7 @@ for file in ../*.adoc; do
   if [ -f "$file" ]; then
       # Convert adoc files to their base name with .html
       base_name=$(basename "$file" .adoc)
-      asciidoctor -b html5 -a stylesheet=../ottgatrad411.css -a linkcss -a copycss "$file" -o "../docs/$base_name.html"
+      asciidoctor -b html5 -a stylesheet=ottgatrad411.css -a linkcss "$file" -o "../docs/$base_name.html"
       echo "Converted $file to $base_name.html"
   fi
 done
