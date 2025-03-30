@@ -1,9 +1,10 @@
-= 70cm Amateur Radio Digital / Radio amateur 70cm numérique
+= image:Logo.png[Logo,150,150] 70cm Amateur Radio Digital / Radio amateur 70cm numérique
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .DMR Simplex
 |===
-
 | Name/Nom | Frequency/Fréquence (MHz) | Colour Code (CC) | Time Slot (TS) | Talk Group (TG) | Description/Notes | Submitted by/Soumis par | Reference
 
 |DMR UHF Simplex 1
@@ -46,7 +47,6 @@
 
 .DMR Repeaters / Répétitrices DMR
 |===
-
 | Name/Nom | Frequency/Fréquence (MHz) | Offset (MHz) | Network / Réseau | CC | TS1 | TS2 | Location | Sponsor | Description/Notes | Submitted by/Soumis par | Reference
 
 |VE2RAO

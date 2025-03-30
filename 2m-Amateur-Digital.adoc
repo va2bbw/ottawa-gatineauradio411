@@ -1,9 +1,10 @@
-= 2m Amateur Radio Digital / Radio amateur 2m numérique
+= image:Logo.png[Logo,150,150] 2m Amateur Radio Digital / Radio amateur 2m numérique
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .DMR Simplex
 |===
-
 | Name/Nom | Frequency/Fréquence (MHz) | Colour Code (CC) | Time Slot (TS) | Talk Group (TG) | Description/Notes | Submitted by/Soumis par | Reference
 
 |DMR VHF Simplex 1
@@ -28,7 +29,6 @@
 
 .DMR Repeaters / Répétitrices DMR
 |===
-
 | Name/Nom | Frequency/Fréquence (MHz) | Offset (MHz) | Network / Réseau | CC | TS1 | TS2 | Location | Sponsor | Description/Notes | Submitted by/Soumis par | Reference
 
 |VE2REH
@@ -48,7 +48,6 @@
 
 .Packet/Winlink
 |===
-
 | Name/Nom | Frequency/Fréquence (MHz) | Mode | Description/Notes | Location | Submitted by/Soumis par | Reference
 
 |VE3SMF-10

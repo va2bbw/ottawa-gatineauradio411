@@ -41,8 +41,10 @@ print("Downloading POTA csv file")
 
 # Adoc file creation with title and table
 with open(pota_adoc_filename, "w") as f:
-    f.write("= POTA Parks / Parcs POTA\n")
-    f.write(":showtitle:\n\n")
+    f.write("= image:Logo.png[Logo,150,150] POTA Parks / Parcs POTA\n")
+    f.write(":showtitle:\n")
+    f.write(":imagesdir: images\n")
+    f.write(":data-uri:\n\n")
     f.write(".POTA Parks / Parcs POTA\n")
     f.write("|===\n")
     f.write("| Park/Parc | Name/Nom | Location | Submitted by/Soumis par | Reference\n\n")

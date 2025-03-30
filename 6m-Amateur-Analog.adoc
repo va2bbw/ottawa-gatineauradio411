@@ -1,5 +1,7 @@
-= 6m Amateur Radio Analog / Radio amateur 6m analogique
+= image:Logo.png[Logo,150,150] 6m Amateur Radio Analog / Radio amateur 6m analogique
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .Simplex
 |===
@@ -18,7 +20,7 @@
 
 .Repeaters / Répétitrices
 |===
-| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Sponsor | Description/Notes | Submitted by/Soumis par | Reference
 
 |VE2REH
 |53.110
@@ -28,6 +30,7 @@
 |110.9
 |Gatineau
 |Association des Radio Amateurs Indépendants
+|
 |Ante Laurijssen, VA2BBW
 |https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
 
@@ -39,6 +42,7 @@
 |123
 |Ripon
 |Association des Radio Amateurs Indépendants
+|
 |Ante Laurijssen, VA2BBW
 |https://ve2reh.com/wp/notre-reseau/relais-analogues/[window=_blank]
 

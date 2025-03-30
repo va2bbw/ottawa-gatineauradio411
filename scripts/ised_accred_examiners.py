@@ -121,8 +121,10 @@ else:
 # Create asciidoc file
 print("Writing to ../ised-accred-examiners.adoc\n")
 with open(accred_exam_adoc_filename, "w") as f:
-    f.write("= ISED Accredited Examiners / Examinateurs accrédités ISDE\n")
-    f.write(":showtitle:\n\n")
+    f.write("= image:Logo.png[Logo,150,150] ISED Accredited Examiners / Examinateurs accrédités ISDE\n")
+    f.write(":showtitle:\n")
+    f.write(":imagesdir: images\n")
+    f.write(":data-uri:\n\n")
     f.write("[NOTE]\n")
     f.write("====\n")
     f.write("The information presented here is based on the latest availble data from the ISED website.\n\n")

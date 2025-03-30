@@ -41,8 +41,10 @@ print("Downloading SOTA csv file")
 
 # Adoc file creation with title and table
 with open(sota_adoc_filename, "w") as f:
-    f.write("= SOTA Summits / Sommets SOTA\n")
-    f.write(":showtitle:\n\n")
+    f.write("= image:Logo.png[Logo,150,150] SOTA Summits / Sommets SOTA\n")
+    f.write(":showtitle:\n")
+    f.write(":imagesdir: images\n")
+    f.write(":data-uri:\n\n")
     f.write(".SOTA Summits / Sommets SOTA\n")
     f.write("|===\n")
     f.write("| Summit/Sommet | Name/Nom | Location | Height (m)/Hauteur (m) | Submitted by/Soumis par | Reference\n\n")

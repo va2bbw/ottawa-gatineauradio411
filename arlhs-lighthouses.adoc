@@ -1,5 +1,7 @@
-= ARLHS Lighthouses / Phares ARLHS
+= image:Logo.png[Logo,150,150] ARLHS Lighthouses / Phares ARLHS
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .ARLHS Lighthouses / Phares ARLHS
 |===

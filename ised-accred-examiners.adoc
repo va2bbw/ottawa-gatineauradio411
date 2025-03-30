@@ -1,5 +1,7 @@
-= ISED Accredited Examiners / Examinateurs accrédités ISDE
+= image:Logo.png[Logo,150,150] ISED Accredited Examiners / Examinateurs accrédités ISDE
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 [NOTE]
 ====
@@ -12,10 +14,17 @@ _L'information présentée ici est basée sur les dernières données disponible
 |===
 | Name/Nom | Addresse | Telephone | email/courriel | Submitted by/Soumis par | Reference
 
-|Robert McKenny
-|link:++https://nominatim.openstreetmap.org/search?q=115 Loon Bay Lane, MCDONALDS CORNERS, ON, K0G1M0++[115 Loon Bay Lane, MCDONALDS CORNERS, ON, K0G1M0^]
-|link:tel:6134157330[(613) 415-7330]
-|ve3rmj@gmail.com
+|David Goodwin
+|link:++https://nominatim.openstreetmap.org/search?q=141 Acton Drive, Smiths Falls, ON, K7A5B8++[141 Acton Drive, Smiths Falls, ON, K7A5B8^]
+|link:tel:6134304911[(613) 430-4911]
+|goodwindave.73@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Steve D Harvey
+|link:++https://nominatim.openstreetmap.org/search?q=17389 McLean Road, MAXVILLE, ON, K0C1T0++[17389 McLean Road, MAXVILLE, ON, K0C1T0^]
+|link:tel:7786797839[(778) 679-7839]
+|harvey.steve@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
@@ -26,45 +35,17 @@ _L'information présentée ici est basée sur les dernières données disponible
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
-|David Goodwin
-|link:++https://nominatim.openstreetmap.org/search?q=141 Acton Drive, Smiths Falls, ON, K7A5B8++[141 Acton Drive, Smiths Falls, ON, K7A5B8^]
-|link:tel:6134304911[(613) 430-4911]
-|goodwindave.73@gmail.com
+|Mike Kelly
+|link:++https://nominatim.openstreetmap.org/search?q=25 STEVENSON AVE., OTTAWA, ON, K1Z6M9++[25 STEVENSON AVE., OTTAWA, ON, K1Z6M9^]
+|link:tel:6133220669[(613) 322-0669]
+|ve3ffk@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
-|Rock Mallin
-|link:++https://nominatim.openstreetmap.org/search?q=**, JOHNSTOWN, ON, K0E1T1++[**, JOHNSTOWN, ON, K0E1T1^]
-|link:tel:6139257592[(613) 925-7592]
-|mallincam@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Georges-André Chaudron
-|link:++https://nominatim.openstreetmap.org/search?q=23 des Pommiers, Gatineau, QC, J9A3V2++[23 des Pommiers, Gatineau, QC, J9A3V2^]
-|link:tel:8197776852[(819) 777-6852]
-|gachaudron@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Donald Greene
-|link:++https://nominatim.openstreetmap.org/search?q=153 Curtis Pvt., GLOUCESTER, ON, K1V7L7++[153 Curtis Pvt., GLOUCESTER, ON, K1V7L7^]
-|link:tel:6136396120[(613) 639-6120]
-|ve3ign@gmail.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Luc Romain
-|link:++https://nominatim.openstreetmap.org/search?q=140 Félix-Leclerc, GATINEAU, QC, J9H0G4++[140 Félix-Leclerc, GATINEAU, QC, J9H0G4^]
-|link:tel:6138974467[(613) 897-4467]
-|ve2lrs@ve2reh.com
-|Ante Laurijssen, VA2BBW
-|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
-
-|Gilles Beaulieu
-|link:++https://nominatim.openstreetmap.org/search?q=1010 Elizabeth St.,  P.O. Box 22, Curran, ON, K0B1C0++[1010 Elizabeth St.,  P.O. Box 22, Curran, ON, K0B1C0^]
-|link:tel:6137121058[(613) 712-1058], link:tel:6135182262[(613) 518-2262]
-|VE3NPI@OUTLOOK.COM
+|Frank Deluca
+|link:++https://nominatim.openstreetmap.org/search?q=185 Lyon St. N. , APT.2412, OTTAWA, ON, K1R7Y4++[185 Lyon St. N. , APT.2412, OTTAWA, ON, K1R7Y4^]
+|link:tel:7057744530[(705) 774-4530]
+|va3fsd@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
@@ -75,17 +56,31 @@ _L'information présentée ici est basée sur les dernières données disponible
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
-|Eric Earle DePass
-|link:++https://nominatim.openstreetmap.org/search?q=17437 KINGS ROAD, Box 251, ST ANDREWS WEST, ON, K0C2A0++[17437 KINGS ROAD, Box 251, ST ANDREWS WEST, ON, K0C2A0^]
-|link:tel:6139302145[(613) 930-2145], link:tel:6139989992[(613) 998-9992]
-|earfran@bell.net
+|Robert McKenny
+|link:++https://nominatim.openstreetmap.org/search?q=115 Loon Bay Lane, MCDONALDS CORNERS, ON, K0G1M0++[115 Loon Bay Lane, MCDONALDS CORNERS, ON, K0G1M0^]
+|link:tel:6134157330[(613) 415-7330]
+|ve3rmj@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
-|Steve D Harvey
-|link:++https://nominatim.openstreetmap.org/search?q=17389 McLean Road, MAXVILLE, ON, K0C1T0++[17389 McLean Road, MAXVILLE, ON, K0C1T0^]
-|link:tel:7786797839[(778) 679-7839]
-|harvey.steve@gmail.com
+|Donald Greene
+|link:++https://nominatim.openstreetmap.org/search?q=153 Curtis Pvt., GLOUCESTER, ON, K1V7L7++[153 Curtis Pvt., GLOUCESTER, ON, K1V7L7^]
+|link:tel:6136396120[(613) 639-6120]
+|ve3ign@gmail.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Gilles Beaulieu
+|link:++https://nominatim.openstreetmap.org/search?q=1010 Elizabeth St.,  P.O. Box 22, Curran, ON, K0B1C0++[1010 Elizabeth St.,  P.O. Box 22, Curran, ON, K0B1C0^]
+|link:tel:6137121058[(613) 712-1058], link:tel:6135182262[(613) 518-2262]
+|VE3NPI@OUTLOOK.COM
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Georges-André Chaudron
+|link:++https://nominatim.openstreetmap.org/search?q=23 des Pommiers, Gatineau, QC, J9A3V2++[23 des Pommiers, Gatineau, QC, J9A3V2^]
+|link:tel:8197776852[(819) 777-6852]
+|gachaudron@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
@@ -103,17 +98,24 @@ _L'information présentée ici est basée sur les dernières données disponible
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
-|Frank Deluca
-|link:++https://nominatim.openstreetmap.org/search?q=185 Lyon St. N. , APT.2412, OTTAWA, ON, K1R7Y4++[185 Lyon St. N. , APT.2412, OTTAWA, ON, K1R7Y4^]
-|link:tel:7057744530[(705) 774-4530]
-|va3fsd@gmail.com
+|Rock Mallin
+|link:++https://nominatim.openstreetmap.org/search?q=**, JOHNSTOWN, ON, K0E1T1++[**, JOHNSTOWN, ON, K0E1T1^]
+|link:tel:6139257592[(613) 925-7592]
+|mallincam@gmail.com
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 
-|Mike Kelly
-|link:++https://nominatim.openstreetmap.org/search?q=25 STEVENSON AVE., OTTAWA, ON, K1Z6M9++[25 STEVENSON AVE., OTTAWA, ON, K1Z6M9^]
-|link:tel:6133220669[(613) 322-0669]
-|ve3ffk@gmail.com
+|Luc Romain
+|link:++https://nominatim.openstreetmap.org/search?q=140 Félix-Leclerc, GATINEAU, QC, J9H0G4++[140 Félix-Leclerc, GATINEAU, QC, J9H0G4^]
+|link:tel:6138974467[(613) 897-4467]
+|ve2lrs@ve2reh.com
+|Ante Laurijssen, VA2BBW
+|https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
+
+|Eric Earle DePass
+|link:++https://nominatim.openstreetmap.org/search?q=17437 KINGS ROAD, Box 251, ST ANDREWS WEST, ON, K0C2A0++[17437 KINGS ROAD, Box 251, ST ANDREWS WEST, ON, K0C2A0^]
+|link:tel:6139302145[(613) 930-2145], link:tel:6139989992[(613) 998-9992]
+|earfran@bell.net
 |Ante Laurijssen, VA2BBW
 |https://apc-cap.ic.gc.ca/pls/apc_anon/query_examiner_amat$.startup[ISED^]
 

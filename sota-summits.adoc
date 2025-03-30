@@ -1,5 +1,7 @@
-= SOTA Summits / Sommets SOTA
+= image:Logo.png[Logo,150,150] SOTA Summits / Sommets SOTA
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .SOTA Summits / Sommets SOTA
 |===

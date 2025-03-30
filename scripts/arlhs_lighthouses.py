@@ -69,8 +69,10 @@ def dmm_to_dd(coord):
     return dd
 
 with open(arlhs_adoc_filename, "w") as f:
-    f.write("= ARLHS Lighthouses / Phares ARLHS\n")
-    f.write(":showtitle:\n\n")
+    f.write("= image:Logo.png[Logo,150,150] ARLHS Lighthouses / Phares ARLHS\n")
+    f.write(":showtitle:\n")
+    f.write(":imagesdir: images\n")
+    f.write(":data-uri:\n\n")
     f.write(".ARLHS Lighthouses / Phares ARLHS\n")
     f.write("|===\n")
     f.write("| ARLHS Number/Numéro ARLHS | Name/Nom | Location | Submitted by/Soumis par | Reference\n\n")

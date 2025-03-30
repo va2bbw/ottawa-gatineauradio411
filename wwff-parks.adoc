@@ -1,5 +1,7 @@
-= WWFF Parks / Parcs WWFF
+= image:Logo.png[Logo,150,150] WWFF Parks / Parcs WWFF
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .WWFF Parks / Parcs WWFF
 |===

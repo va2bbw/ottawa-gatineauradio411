@@ -42,8 +42,10 @@ r = requests.get(wwff_csv_url)
 open(wwff_csv_filename, "wb").write(r.content)
 
 with open(wwff_adoc_filename, "w") as f:
-    f.write("= WWFF Parks / Parcs WWFF\n")
-    f.write(":showtitle:\n\n")
+    f.write("= image:Logo.png[Logo,150,150] WWFF Parks / Parcs WWFF\n")
+    f.write(":showtitle:\n")
+    f.write(":imagesdir: images\n")
+    f.write(":data-uri:\n\n")
     f.write(".WWFF Parks / Parcs WWFF\n")
     f.write("|===\n")
     f.write("| Park/Parc | Name/Nom | Location | Submitted by/Soumis par | Reference\n\n")

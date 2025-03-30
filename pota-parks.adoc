@@ -1,5 +1,7 @@
-= POTA Parks / Parcs POTA
+= image:Logo.png[Logo,150,150] POTA Parks / Parcs POTA
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .POTA Parks / Parcs POTA
 |===

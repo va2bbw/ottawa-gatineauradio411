@@ -34,7 +34,7 @@ clubs_local_csv_filename = "./csv/clubs_local.csv"
 clubs_tmp_csv_filename = "./csv/tmp.csv"
 
 # Target adoc filename
-clubs_adoc_filename = "../club_callsigns.adoc"
+clubs_adoc_filename = "../ised-club-callsigns.adoc"
 
 # Name of person submitting this list of clubsiners
 sub_name = "Ante Laurijssen, VA2BBW"
@@ -122,8 +122,10 @@ else:
 # Create asciidoc file
 print("Writing to ../ised-accred-clubsiners.adoc\n")
 with open(clubs_adoc_filename, "w") as f:
-    f.write("= Club Callsigns / Indicatifs de club\n")
-    f.write(":showtitle:\n\n")
+    f.write("= image:Logo.png[Logo,150,150] Club Callsigns / Indicatifs de club\n")
+    f.write(":showtitle:\n")
+    f.write(":imagesdir: images\n")
+    f.write(":data-uri:\n\n")
     f.write("[NOTE]\n")
     f.write("====\n")
     f.write("The information presented here is based on the latest availble data from the ISED website.\n\n")
@@ -144,7 +146,7 @@ with open(clubs_adoc_filename, "w") as f:
                 address = f"{lines[14]}, {lines[15]}, {lines[16]}, {lines[17]}"
                 f.write(f"|{lines[0]}\n")
                 f.write(f"|{lines[12]}\n")
-                f.write(f"|{address}\n")
+                f.write(f"|link:++{nominatem_url_pref}{address}++[{address}^]\n")
                 f.write(f"|{lines[1]} {lines[2]}")
                 f.write(f"|{sub_name}\n")
                 f.write(f"|https://qrz.com/db/{lines[0]}[^]\n\n")
@@ -179,7 +181,7 @@ with open(clubs_adoc_filename, "w") as f:
                                 csvLoc.writerow(lines)
                                 f.write(f"|{lines[0]}\n")
                                 f.write(f"|{lines[12]}\n")
-                                f.write(f"|{address}\n")
+                                f.write(f"|link:++{nominatem_url_pref}{address}++[{address}^]\n")                                
                                 f.write(f"|{lines[1]} {lines[2]}")
                                 f.write(f"|{sub_name}\n")
                                 f.write(f"|https://qrz.com/db/{lines[0]}[^]\n\n")

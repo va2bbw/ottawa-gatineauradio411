@@ -1,5 +1,7 @@
-= Airband / Bande aviation
+= image:Logo.png[Logo,150,150] Airband / Bande aviation
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .CYOW Ottawa Macdonald-Cartier International Airport / Aéroport international Macdonald-Cartier d'Ottawa
 |===

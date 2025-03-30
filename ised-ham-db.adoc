@@ -1,5 +1,7 @@
-= ISED Amateur Database / Base de données amateur ISDE
+= image:Logo.png[Logo,150,150] ISED Amateur Database / Base de données amateur ISDE
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 [NOTE]
 ====

@@ -1,9 +1,7 @@
-= Ottawa-Gatineau Radio411
+= image:Logo.png[Logo,150,150] Ottawa-Gatineau Radio411
 :showtitle:
 :imagesdir: images
 :data-uri:
-
-image::Logo.png[]
 
 The nation's capital is rife with RF of all sorts, and I thought it would be a fun project to create a central collaborative repository for everything radio-related within 100 kilometres of Parliament Hill. My goal is for this to not only be a list of active frequencies, but also a list of local resources for the radio hobbyist.
 

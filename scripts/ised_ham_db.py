@@ -123,8 +123,10 @@ else:
 # Create asciidoc file
 print("Writing to ../ised-ham-db.adoc\n")
 with open(ised_ham_adoc_filename, "w") as f:
-    f.write("= ISED Amateur Database / Base de données amateur ISDE\n")
-    f.write(":showtitle:\n\n")
+    f.write("= image:Logo.png[Logo,150,150] ISED Amateur Database / Base de données amateur ISDE\n")
+    f.write(":showtitle:\n")
+    f.write(":imagesdir: images\n")
+    f.write(":data-uri:\n\n")
     f.write("[NOTE]\n")
     f.write("====\n")
     f.write("The information presented here is based on the latest availble data from the ISED website. If you are a licenced amateur in the Ottawa-Gatineau area and your information doesn't appear in this list, it is likely because you have chosen to not share your address publically in the ISED database.\n\n")
@@ -147,7 +149,7 @@ with open(ised_ham_adoc_filename, "w") as f:
                 address = f"{lines[3]}, {lines[4]}, {lines[5]}, {lines[6]}"
                 f.write(f"|{lines[0]}\n")
                 f.write(f"|{lines[1]}, {lines[2]}\n")
-                f.write(f"|{address}\n")
+                f.write(f"|link:++{nominatem_url_pref}{address}++[{address}^]\n")
                 f.write(f"|{sub_name}\n")
                 f.write(f"|https://qrz.com/db/{lines[0]}[^]\n\n")
                 print(f"\n***{lines[1]} {lines[2]}, {lines[0]} added to the database.***\n".upper())                
@@ -180,7 +182,7 @@ with open(ised_ham_adoc_filename, "w") as f:
                             csvLoc.writerow(lines)
                             f.write(f"|{lines[0]}\n")
                             f.write(f"|{lines[1]} {lines[2]}\n")
-                            f.write(f"|{address}\n")
+                            f.write(f"|link:++{nominatem_url_pref}{address}++[{address}^]\n")
                             f.write(f"|{sub_name}\n")
                             f.write(f"|https://qrz.com/db/{lines[0]}[^]\n\n")
                             print(f"\n***{lines[0]} added to the database.***\n".upper())

@@ -1,5 +1,7 @@
-= 2m Amateur Radio Analog / Radio amateur 2m analogique
+= image:Logo.png[Logo,150,150] 2m Amateur Radio Analog / Radio amateur 2m analogique
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .Simplex
 |===

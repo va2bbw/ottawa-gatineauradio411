@@ -1,5 +1,7 @@
-= 70cm Amateur Radio Analog / Radio amateur 70cm analogique
+= image:Logo.png[Logo,150,150] 70cm Amateur Radio Analog / Radio amateur 70cm analogique
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 .Simplex
 |===
@@ -18,7 +20,6 @@
 
 .Repeaters/Répétitrices
 |===
-
 | Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Sponsor | Description/Notes | Submitted by/Soumis par | Reference
 
 |VE2RAO

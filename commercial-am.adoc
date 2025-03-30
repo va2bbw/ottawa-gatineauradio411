@@ -1,5 +1,7 @@
-= Commercial AM Radio / Radio AM commerciale
+= image:Logo.png[Logo,150,150] Commercial AM Radio / Radio AM commerciale
 :showtitle:
+:imagesdir: images
+:data-uri:
 
 |===
 | Name/Nom | Frequency/Fréquence (KHz) | Mode | Location | Description/Notes | Submitted by/Soumis par | Reference
