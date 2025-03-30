@@ -5,16 +5,17 @@ WARNING: *_GMRS repeaters aren't currently legal in Canada / Les répétitrices 
 
 .Repeaters / Répétitrices
 |===
-| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Sponsor | Description/Notes | Submitted by/Soumis par | Reference
 
-|Mike 303
+|Unknown
 |462.600 (FRS/GMRS ch#17)
 |FM
 |+5
 |141.3
 |141.3
 |Gatineau (Secteur Hull)
-|
+|Unknown
+|Currently offline/Présentement hors-ligne
 |Ante Laurijssen, VA2BBW
 |Personal / Personnelle
 

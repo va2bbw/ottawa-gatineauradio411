@@ -1,4 +1,4 @@
-= 70cm Digital Radio Analog / Radio amateur 70cm numérique
+= 70cm Amateur Radio Digital / Radio amateur 70cm numérique
 :showtitle:
 
 .DMR Simplex
@@ -47,7 +47,7 @@
 .DMR Repeaters / Répétitrices DMR
 |===
 
-| Name/Nom | Frequency/Fréquence (MHz) | Offset (MHz) | Network / Réseau | CC | TS1 | TS2 | Location | Description/Notes | Submitted by/Soumis par | Reference
+| Name/Nom | Frequency/Fréquence (MHz) | Offset (MHz) | Network / Réseau | CC | TS1 | TS2 | Location | Sponsor | Description/Notes | Submitted by/Soumis par | Reference
 
 |VE2RAO
 |441.950
@@ -58,6 +58,7 @@
 |TG-2, TG-30239
 |Hôpital de Gatineau (secteur Hull)
 |Club de Radio Amateur Outaouais
+|
 |Ante Laurijssen, VA2BBW
 |https://brandmeister.network/?page=device&id=302242[^]
 
@@ -69,7 +70,8 @@
 |TG-6 (XLX197 reflector)
 |
 |Orleans
-|OVMRC
+|OVMRC, Norm VE3LC
+|
 |Ante Laurijssen, VA2BBW
 |http://ve3ram.ddns.net:380/[^]
 
@@ -82,6 +84,7 @@
 |TG-30239, TG-302354, TG-3022911, TG-8, TG-2
 |Gatineau
 |Association des Radio Amateurs Indépendants
+|
 |Ante Laurijssen, VA2BBW
 |https://brandmeister.network/?page=repeater&id=302354[^]
 
@@ -94,6 +97,7 @@
 |TG-30239, TG-302354, TG-3022911, TG-8, TG-2
 |L'Ange-Gardien
 |Association des Radio Amateurs Indépendants
+|
 |Ante Laurijssen, VA2BBW
 |https://brandmeister.network/?page=repeater&id=302046[^]
 

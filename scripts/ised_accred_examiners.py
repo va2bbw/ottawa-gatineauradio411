@@ -142,7 +142,7 @@ with open(accred_exam_adoc_filename, "w") as f:
                 count += 1
                 address = f"{lines[2]}, {lines[3]}, {lines[4]}, {lines[9]}"
                 f.write(f"|{lines[0]} {lines[1]}\n")
-                f.write(f"|{address}\n")
+                f.write(f"|link:++{nominatem_url_pref}{address}++[{address}^]\n")
                 f.write(f"|link:tel:{lines[5]}[({lines[5][:3]}) {lines[5][3:6]}-{lines[5][6:]}]")
                 if lines[6] != "":
                     f.write(f", link:tel:{lines[6]}[({lines[6][:3]}) {lines[6][3:6]}-{lines[6][6:]}]\n")
@@ -180,7 +180,7 @@ with open(accred_exam_adoc_filename, "w") as f:
                                 count += 1
                                 csvLoc.writerow(lines)
                                 f.write(f"|{lines[0]} {lines[1]}\n")
-                                f.write(f"|{address}\n")
+                                f.write(f"|link:++{nominatem_url_pref}{address}++[{address}^]\n")
                                 f.write(f"|link:tel:{lines[5]}[({lines[5][:3]}) {lines[5][3:6]}-{lines[5][6:]}]")
                                 if lines[6] != "":
                                     f.write(f", link:tel:{lines[6]}[({lines[6][:3]}) {lines[6][3:6]}-{lines[6][6:]}]\n")

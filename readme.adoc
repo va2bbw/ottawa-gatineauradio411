@@ -1,10 +1,12 @@
 = Ottawa-Gatineau Radio411
 :showtitle:
 
+image::Logo.png[]
+
 The nation's capital is rife with RF of all sorts, and I thought it would be a fun project to create a central collaborative repository for everything radio-related within 100 kilometres of Parliament Hill. My goal is for this to not only be a list of active frequencies, but also a list of local resources for the radio hobbyist.
 
 _La région de la capitale nationale est pleine de RF de toute sorte, et je me suis dis que ce serait un petit projet amusant de créer un dépot collaboratif pour tout ce qui est relié à la radio dans un rayon de 100 kilomètres de la colline du parlement. Mon but est que ceci ne soit pas simplement une liste de fréquences actives, mais aussi une liste de ressources locales pour les amateurs de radio	._
-    	      
+
 == How to collaborate - Comment collaborer
 
 . *Git/Github*
@@ -131,11 +133,14 @@ _Receveurs Web-SDR situées dans la région d'Ottawa-Gatineau._
 
 List of licensed amateur radio operators in and around Ottawa-Gatineau.
 
-NOTE: This list is parsed directly from the data available on the ISED website. If you are a licensed amateur local to the area but your callsign and information don't appear, it is likely because you chose not to share your address publicly with ISED.
-
 _Liste de radioamateurs certifiés dans la région d'Ottawa-Gatineau._
 
-NOTE: _Cette liste est analysée directement à partir des données disponibles sure le site d'ISDE. Si vous êtes un radioamateur certifié vivant dans la région et que votre indicatif d'appel et votre information n'apparaîssent pas, c'est probablement parce que vous avez choisi de ne pas partager votre addresse publiquement avec ISDE._
+[NOTE]
+====
+This list is parsed directly from the data available on the ISED website. If you are a licensed amateur local to the area but your callsign and information don't appear, it is likely because you chose not to share your address publicly with ISED.
+
+_Cette liste est analysée directement à partir des données disponibles sure le site d'ISDE. Si vous êtes un radioamateur certifié vivant dans la région et que votre indicatif d'appel et votre information n'apparaîssent pas, c'est probablement parce que vous avez choisi de ne pas partager votre addresse publiquement avec ISDE._
+====
 
 '''
 

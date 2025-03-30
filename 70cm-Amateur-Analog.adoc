@@ -1,10 +1,25 @@
 = 70cm Amateur Radio Analog / Radio amateur 70cm analogique
 :showtitle:
 
+.Simplex
+|===
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Tone TX | Tone RX | Description/Notes | Submitted by/Soumis par | Reference
+
+|Simplex Calling Frequency
+|446.000
+|FM
+|
+|
+|Calling Freq, some local activity
+|Ante Laurijssen, VA2BBW
+|Personal/Personnelle
+
+|===
+
 .Repeaters/Répétitrices
 |===
 
-| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Description/Notes | Submitted by/Soumis par | Reference
+| Name/Nom | Frequency/Fréquence (MHz) | Mode | Offset (MHz) | Tone TX | Tone RX | Location | Sponsor | Description/Notes | Submitted by/Soumis par | Reference
 
 |VE2RAO
 |443.950
@@ -14,6 +29,7 @@
 |118.8
 |Hopital de Gatineau (secteur Hull)
 |Club de Radioamateur Outaouais
+|
 |Ante Laurijssen, VA2BBW
 |https://ve2cro.ca[^]
 
@@ -25,6 +41,7 @@
 |136.5
 |Ottawa Fire Dispatch
 |EMRG
+|
 |Ante Laurijssen, VA2BBW
 |http://emrg.ca/repeaters.htm[^]
 
@@ -36,6 +53,7 @@
 |110.9
 |L'Ange-Gardien
 |Association des Radio Amateurs Indépendants
+|
 |Ante Laurijssen, VA2BBW
 |https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
@@ -47,6 +65,7 @@
 |110.9
 |Cantley
 |Association des Radio Amateurs Indépendants
+|
 |Ante Laurijssen, VA2BBW
 |https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
 
@@ -58,18 +77,20 @@
 |100
 |Camp Fortune
 |Ottawa Amateur Radio Club
+|
 |Ante Laurijssen, VA2BBW
 |https://oarc.net/ve2cra-repeaters/[^]
 
 
 |VE3RAM
 |443.700
-|+5
 |FM
+|+5
 |
 |
 |Orleans
-|OVMRC - limited coverage to Orleans and East Ottawa
+|OVMRC, Norm VE3LC
+|Limited coverage to Orleans and East Ottawa
 |Ante Laurijssen, VA2BBW
 |https://ovmrc.ca/about-ovmrc/ve3ram/[^]
 

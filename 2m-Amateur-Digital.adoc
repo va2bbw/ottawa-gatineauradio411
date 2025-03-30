@@ -1,4 +1,4 @@
-= 2m Digital Radio Analog / Radio amateur 2m numérique
+= 2m Amateur Radio Digital / Radio amateur 2m numérique
 :showtitle:
 
 .DMR Simplex
@@ -29,7 +29,7 @@
 .DMR Repeaters / Répétitrices DMR
 |===
 
-| Name/Nom | Frequency/Fréquence (MHz) | Offset (MHz) | Network / Réseau | CC | TS1 | TS2 | Location | Description/Notes | Submitted by/Soumis par | Reference
+| Name/Nom | Frequency/Fréquence (MHz) | Offset (MHz) | Network / Réseau | CC | TS1 | TS2 | Location | Sponsor | Description/Notes | Submitted by/Soumis par | Reference
 
 |VE2REH
 |147.180
@@ -40,6 +40,7 @@
 |TG-30239, TG-302354, TG-3022911, TG-2, TG-8
 |Cantley
 |Réseau des Amateurs Indépendants
+|
 |Ante Laurijssen, VA2BBW
 |https://brandmeister.network/?page=device&id=302370[^]
 
