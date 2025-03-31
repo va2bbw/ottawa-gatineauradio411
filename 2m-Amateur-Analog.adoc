@@ -2,6 +2,7 @@
 :showtitle:
 :imagesdir: images
 :data-uri:
+:hyphens:
 
 .Simplex
 |===

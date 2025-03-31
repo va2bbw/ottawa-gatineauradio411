@@ -2,10 +2,12 @@
 :showtitle:
 :imagesdir: images
 :data-uri:
+:toc: preamble
+:toc-title!:
 
 The nation's capital is rife with RF of all sorts, and I thought it would be a fun project to create a central collaborative repository for everything radio-related within 100 kilometres of Parliament Hill. My goal is for this to not only be a list of active frequencies, but also a list of local resources for the radio hobbyist.
 
-_La région de la capitale nationale est pleine de RF de toute sorte, et je me suis dis que ce serait un petit projet amusant de créer un dépot collaboratif pour tout ce qui est relié à la radio dans un rayon de 100 kilomètres de la colline du parlement. Mon but est que ceci ne soit pas simplement une liste de fréquences actives, mais aussi une liste de ressources locales pour les amateurs de radio	._
+_La région de la capitale nationale est pleine de RF de toute sorte, et je me suis dis que ce serait un petit projet amusant de créer un dépot collaboratif pour tout ce qui est relié à la radio dans un rayon de 100 kilomètres de la colline du parlement. Mon but est que ceci ne soit pas simplement une liste de fréquences actives, mais aussi une liste de ressources locales pour les amateurs de radio._
 
 == How to collaborate - Comment collaborer
 
@@ -13,25 +15,31 @@ _La région de la capitale nationale est pleine de RF de toute sorte, et je me s
 +
 The traditional way to do things, just like you would for any other software project. If you're familiar already with how Git/Github work, this should be easy. The project is written in asciidoc.
 +
+*_https://github.com/va2bbw/ottawa-gatineauradio411[^]_*
++
 _La manière traditionelle de faire les chose, comme vous feriez pour n'importe quel autre project de logiciel. Si vous êtes déjà familier avec la manière dont fonctionne Git/Github, Le project est écrit en asciidoc._
 
 . *Issues*
 +
 If you don't like asciidoc, aren't familiar with Git workflow, or simply don't feel like forking the repository and submitting a pull request, you can raise an issue in the repository containing the information you want to submit and I can add it in.
 +
+*_https://github.com/va2bbw/ottawa-gatineauradio411/issues[^]_*
++
 _Si vous n'aimez pas le asciidoc, n'êtes pas familier avec Git, ou ne voulez simplement pas télécharger le référentiel de code et soumettre une demande de tirage, vous pouvez soulever un problème dans le dépot contenant l'information que vous voulez soumettre et je pourrai l'ajouter._
 
 . *Email / Courriel*
 +
-Finally, if you don't want to use Git/Github at all, just send an email to va2bbw@gmail.com with the frequency information and I can add it in.
+Finally, if you don't want to use Git/Github at all, just send me an email with the frequency information and I can add it in.
 +
-_Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simplement un courriel à va2bbw@gmail.com avec les informations sur la fréquence et je pourrai l'ajouter._
-
+*_mailto:va2bbw@gmail.com[]_*
++
+_Finalement, si vous ne voulez pas utiliser Git/Github du tout, envoyez-moi simplement un courriel avec les informations sur la fréquence et je pourrai l'ajouter._
+	     
 == Frequency and Resource Criteria / Critères pour fréquences et ressources
 
-The frequencies and resources must be active or available within 100 kilometres of Parliament Hill, and within Canada.
+The frequencies and resources must be active or available within 100 kilometres of Parliament Hill, and within Canada. Anything radio-related item will be considered for inclusion.
 
-_Les fréquences et ressources doivent être actives ou disponibles dans un rayon de 100 kilomètres de la colline du parlement, et à l'intérieur du Canada._
+_Les fréquences et ressources doivent être actives ou disponibles dans un rayon de 100 kilomètres de la colline du parlement, et à l'intérieur du Canada. Tout item relié à la radio sera considéré pour inclusion._
     	  
 == Structure
 
@@ -51,9 +59,13 @@ _Le répertoire « scripts » contient des scripts pour convertir l'asciidoc en 
 +
 _Les autres répertoires tels que "html, "pdf", etc, contiennent les fichiers convertis á ces formats._
 
+- The "docs" directory contains the html files for the github.io page.
++
+_Le répertoire "docs" contient les fichiers html pour la page github.io._
+     
 == Frequencies / Fréquences
 
-- xref:6m-Amateur-Analog.adoc[6m Amateur Radio Analog / Radio amateur 6m analogique]
+=== xref:6m-Amateur-Analog.adoc[6m Amateur Radio Analog / Radio amateur 6m analogique]
 
 50MHz analog amateur radio frequencies used in and around Ottawa-Gatineau, including repeaters.
 
@@ -61,13 +73,13 @@ _Fréquences radio amateur 50MHz analogiques utilisées dans la région d'Ottawa
 
 '''
 
-- xref:2m-Amateur-Analog.adoc[2m Amateur Radio Analog / Radio amateur 2m analogique]
+=== xref:2m-Amateur-Analog.adoc[2m Amateur Radio Analog / Radio amateur 2m analogique]
 
 144MHz analog amateur radio frequencies used in and around Ottawa-Gatineau, including repeaters.
 
 _Fréquences radio amateur 144MHz analogiques utilisées dans la région d'Ottawa-Gatineau, incluant les répétitrices._
 
-- xref:2m-Amateur-Digital.adoc[2m Amateur Radio Digital / Radio amateur 2m numérique]
+=== xref:2m-Amateur-Digital.adoc[2m Amateur Radio Digital / Radio amateur 2m numérique]
 
 144MHZ digital amateur radio frequencies used in and around Ottawa-Gatineau, including digital repeaters.
 
@@ -75,7 +87,7 @@ _Fréquences radio amateur 144MHz numériques utilisées dans la région d'Ottaw
 
 '''
 
-- xref:135cm-Amateur-Analog.adoc[135cm Amateur Radio Analog / Radio amateur 135cm analogique]
+=== xref:135cm-Amateur-Analog.adoc[135cm Amateur Radio Analog / Radio amateur 135cm analogique]
 
 220MHz analog amateur radio frequencies used in and around Ottawa-Gatineau, including repeaters.
 
@@ -83,13 +95,13 @@ _Fréquences radio amateur 220MHz numériques utilisées dans la région d'Ottaw
 
 '''
 
-- xref:70cm-Amateur-Analog.adoc[70cm Amateur Radio Analog / Radio amateur 70cm analogique]
+=== xref:70cm-Amateur-Analog.adoc[70cm Amateur Radio Analog / Radio amateur 70cm analogique]
 
 440MHz analog amateur radio frequencies used in and around Ottawa-Gatineau, including repeaters.
 
 _Fréquences radio amateur 440MHz analogiques utilisées dans la région d'Ottawa-Gatineau, incluant les répétitrices._
 
-- xref:70cm-Amateur-Digital.adoc[70cm Amateur Radio Digital / Radio amateur 70cm numérique]
+=== xref:70cm-Amateur-Digital.adoc[70cm Amateur Radio Digital / Radio amateur 70cm numérique]
 
 440MHz digital amateur radio frequencies used in and around Ottawa-Gatineau, including digital repeaters.
 
@@ -97,7 +109,7 @@ _Fréquences radio amateur 440MHz numériques utilisées dans la région d'Ottaw
 
 '''
 
-- xref:frs-gmrs.adoc[FRS-GMRS]
+=== xref:frs-gmrs.adoc[FRS-GMRS]
 
 FRS/GMRS frequencies used in and around Ottawa-Gatineau.
 
@@ -105,7 +117,7 @@ _Fréquences FRS/GMRS utilisées dans la région d'Ottawa-Gatineau._
 
 '''
 
-- xref:commercial-am.adoc[Commercial AM Radio / Radio commerciale AM]
+=== xref:commercial-am.adoc[Commercial AM Radio / Radio commerciale AM]
 
 Commercial radio broadcast stations in and around Ottawa-Gatineau.
 
@@ -113,23 +125,15 @@ _Stations de radiodiffusion commerciales dans la région d'Ottawa-Gatineau._
 
 '''
 
-- xref:airband.adoc[Airband / Bande aviation]
+=== xref:airband.adoc[Airband / Bande aviation]
 
 Aircraft band frequencies used in and around Ottawa-Gatineau.
 
 _Fréquences de bande aviation utilisées dans la région d'Ottawa-Gatineau._
 
 == Resources / Ressources
-
-- xref:web-sdr.adoc[Web SDR radios / Radios Web SDR]
-
-Web-SDR radio receivers located in and around Ottawa-Gatineau.
-
-_Receveurs Web-SDR situées dans la région d'Ottawa-Gatineau._
-
-'''
-
-- xref:ised-ham-db.adoc[Amateur Database / Base de données amateur]
+   
+=== xref:ised-ham-db.adoc[Amateur Database / Base de données amateur]
 
 List of licensed amateur radio operators in and around Ottawa-Gatineau.
 
@@ -144,7 +148,7 @@ _Cette liste est analysée directement à partir des données disponibles sure l
 
 '''
 
-- xref:ised-accred-examiners.adoc[ISED Accredited Examiners / Examinateurs accrédités ISDE]
+=== xref:ised-accred-examiners.adoc[ISED Accredited Examiners / Examinateurs accrédités ISDE]
 
 List accredite amateur radio examiners in and around Ottawa-Gatineau.
 
@@ -152,7 +156,7 @@ _Liste d'examinateurs radio amateur accrédités dans la région d'Ottawa-Gatine
 
 '''
 
-- xref:ised-club-callsigns.adoc[Club Callsigns/Indicatifs de club]
+=== xref:ised-club-callsigns.adoc[Club Callsigns/Indicatifs de club]
 
 List of club callsigns in and around Ottawa-Gatineau.
 
@@ -160,7 +164,15 @@ _Liste d'indicatifs de club dans la région d'Ottawa-Gatineau_
 
 '''
 
-- xref:pota-parks.adoc[POTA Parks / Parcs POTA]
+=== xref:web-sdr.adoc[Web SDR radios / Radios Web SDR]
+
+Web-SDR radio receivers located in and around Ottawa-Gatineau.
+
+_Receveurs Web-SDR situées dans la région d'Ottawa-Gatineau._
+
+'''
+
+=== xref:pota-parks.adoc[POTA Parks / Parcs POTA]
 
 List of POTA parks in and around Ottawa-Gatineau.
 
@@ -168,7 +180,7 @@ _Liste de parcs POTA dans la région d'Ottawa-Gatineau._
 
 '''
 
-- xref:sota-summits.adoc[SOTA Summits / Sommets SOTA]
+=== xref:sota-summits.adoc[SOTA Summits / Sommets SOTA]
 
 List of SOTA summits in and around Ottawa-Gatineau.
 
@@ -176,7 +188,7 @@ _Liste de sommets SOTA dans la région d'Ottawa-Gatineau._
 
 '''
 
-- xref:wwff-parks.adoc[WWFF Parks / Parcs WWFF]
+=== xref:wwff-parks.adoc[WWFF Parks / Parcs WWFF]
 
 List of WWFF parks in and around Ottawa-Gatineau.
 
@@ -184,7 +196,7 @@ _Liste de parcs WWFF dans la région d'Ottawa-Gatineau._
 
 '''
 
-- xref:arlhs-lighthouses.adoc[ARLHS Lighthouses / Phares ARLHS]
+=== xref:arlhs-lighthouses.adoc[ARLHS Lighthouses / Phares ARLHS]
 
 List of ARLHS lighthouses in and around Ottawa-Gatineau.
 
