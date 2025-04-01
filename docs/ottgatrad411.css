@@ -1,9 +1,9 @@
 body {
     background-color: antiquewhite;
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-top: 100px;
-    margin-bottom: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
     color: black;
 }
 
@@ -15,26 +15,30 @@ h1 {
     align-items: center;
     text-align: center;
     text-shadow: 3px 3px black;
-    padding: 30px;
-    font-size: 50px;
-    margin-bottom: 50px;
-}
-
-h1 img {
+    padding: 2%;
+    margin-bottom: 2%;
     border-style: solid;
-    border-color: red;
-    margin-right: 25px;
+    border-color: black;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    gap: 10px;
+}
+@media (max-width: 800px) {
+  h1 {
+    flex-direction: column;
+  }
 }
 
 h2 {
     color: navy;
     text-align: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 25px;
-    font-size: 30px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 2%;
     background-color: orange;
+    border-color: black;
+    border-style: solid;
     transition: 0.5s;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);    
 }
 
 h2:hover {
@@ -42,13 +46,15 @@ h2:hover {
 }
 
 #toc {
-    pading: 50px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    pading: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     background-color: dodgerblue;
     color: dodgerblue;
     border-style: solid;
     text-align: center;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    border-color: black;
 }
 
 #toc > ul {
@@ -60,8 +66,8 @@ h2:hover {
     color: dodgerblue;
     display: block;
     text-align: center;
-    margin: 10px;
-    padding: 10px;
+    margin: 2%;
+    padding: 2%;
     text-align: center;
 }
 
@@ -73,12 +79,13 @@ h2:hover {
     color: navy;
     display: block;
     text-decoration: none;
-    font-size: 25px;
 }
 
 #toc > ul > li > ul {
-    padding: 10px;
-    column-count: 2;
+    display: flex;
+    padding: 5%;
+    justify-content: center;
+    flex-direction: column;
 }
 
 #toc > ul > li > ul > li {
@@ -104,7 +111,6 @@ h2:hover {
     
 p {
     font-family: verdana;
-    font-size: 20px;
 }
 
 table, th, td {
@@ -117,6 +123,7 @@ table {
     margin-top: 25px;
     margin-bottom: 25px;
     table-layout: auto;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 th {
@@ -138,14 +145,14 @@ tr {
 table > caption {
     text-align: center;
     color: darkblue;
-    font-size: 25px;
-    margin: 15px;
+    margin: 5px;
 }
 
 tr:nth-child(even) {background-color: #f2f2f2;}
 
 .admonitionblock {
     transition: 0.5s;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 .admonitionblock table{
@@ -155,8 +162,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 .admonitionblock td {
     text-align: left;
-    font-size:25px;
-    padding: 20px;
+    padding: 2%;
     background-color: #f2f2f2;
     transition: 0.5s;
 }
@@ -189,9 +195,11 @@ hr {
 #footer {
     padding: 25px;
     text-align: center;
-    color: dodgerblue;
-    font-size: 20px;
+    color: navy;
     background-color: coral;
     text-shadow: 1px 1px indianred;
     margin-top: 50px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    border-style: solid;
+    border-color: black
 }
