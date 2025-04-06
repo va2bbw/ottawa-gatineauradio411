@@ -221,4 +221,40 @@
 |Ante Laurijssen, VA2BBW
 |https://champlainrepeater.ca/repeater-2/[^]
 
+|VE3OJE
+|145.370
+|FM
+|-0.6
+|151.4
+|
+|Moose Creek, ON
+|
+|
+|Ante Laurijssen, VA2BBW
+|https://hearham.com/repeaters/8979/[^]
+
+|VE3PRV
+|147.330
+|FM
+|+0.6
+|110.9
+|110.9
+|Hammond, ON
+|PRARC & ARAI
+|
+|Ante Laurijssen
+|https://ve2reh.com/wp/notre-reseau/relais-analogues/[^]
+
+|VA2KB
+|145.350
+|FM
+|-0.6
+|123
+|123
+|Mont-Cascade
+|Keith Baribeau, VA2KB
+|
+|Ante Laurijssen
+|Personal/Personelle
+
 |===

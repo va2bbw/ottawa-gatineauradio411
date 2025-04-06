@@ -95,4 +95,28 @@
 |Ante Laurijssen, VA2BBW
 |https://ovmrc.ca/about-ovmrc/ve3ram/[^]
 
+|VE3CKJ
+|449.930
+|FM
+|-5
+|123
+|123
+|Sandy Hill, Ottawa, ON
+|Bruce Strickland, VA3BNS
+|
+|Ante Laurijssen, VA2BBW
+|https://www.repeaterbook.com/repeaters/details.php?state_id=CA08&ID=22402[^]
+
+|VE2RKL
+|447.325
+|FM
+|-5
+|110.9
+|110.9
+|Gatineau, QC
+|RAQI
+|
+|Ante Laurijssen, VA2BBW
+|https://www.repeaterbook.com/repeaters/details.php?state_id=CA10&ID=17300[^]
+
 |===

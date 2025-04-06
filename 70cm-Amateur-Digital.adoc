@@ -58,7 +58,7 @@
 |TG-2, TG-30239
 |Hôpital de Gatineau (secteur Hull)
 |Club de Radio Amateur Outaouais
-|
+|Local activity on TG-9/TS2
 |Ante Laurijssen, VA2BBW
 |https://brandmeister.network/?page=device&id=302242[^]
 
@@ -100,5 +100,18 @@
 |
 |Ante Laurijssen, VA2BBW
 |https://brandmeister.network/?page=repeater&id=302046[^]
+
+|VE3TST
+|444.125
+|+5
+|TG-5469 Linked to VE3ORF
+|13
+|TG-2
+|TG-5469
+|Ottawa
+|3730 Group/VE3ORF
+|
+|Ante Laurijssen, VA2BBW
+|https://3730group.ca/[^]
 
 |===
