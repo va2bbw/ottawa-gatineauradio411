@@ -14,7 +14,8 @@
 |
 |Pot Lid Net - Sundays/Dimanches, 7h30 local time/heure locale
 |Ante Laurijssen, VA2BBW
-|Personal/Personnelle
+a|* https://ovmrc.ca/club-activities/6m-pot-lid-net/[^]
+  * xref:PotLidNetScript.adoc[Pot Lid Net Script]
 
 |===
 

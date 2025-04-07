@@ -1,0 +1,21 @@
+= Script for the OVMRC Pot Lid Net.
+:revdate:2023-09-02
+
+*_CQ CQ POT LID NET PLN DE [NCS Callsign] <BT>_*
+
+*_ROLL CALL FOLLOWED BY QNI? THEN QSP? <BT>_*
+
+*_PLN DE [NCS Callsign]_*
+
+. Roll call of each station that checked in to the previous week's net, each station responds as
+their callsign is given: *_DE [their call sign] [optionally GE + name of the NCS] K_*
+. NCS responds with *_[their call sign], GE (for good evening) + [Op's name] <AS>_*. If there is no
+response from the called station, NCS issues: *_NIL_* and proceeds to the next callsign.
+. Following the roll-call and acknowledgements, NCS asks for check-ins not on the roll list
+with: *_QNI? K_*. Any stations wishing to check in will do so and each is acknowledged by the
+NCS. These check-ins are added to the roll call list for the next week's net. When there are no
+further responses to a *_QNI?_*, NCS sends: *_NIL HRD_*. NCS then sends: *_QSP?_*, which requests any
+station on net to relay other stations they may have heard but not acknowledged by the NCS.
+. The NCS goes through all additional check-ins and end with a final *_QNI? QSP?_*
+. If nothing heard, then the net will conclude with the NCS making a final transmission: *_TNX
+ALL FOR CHECKING IN, PLN QNF DE [NCS Callsign] 73 ES GE_*
