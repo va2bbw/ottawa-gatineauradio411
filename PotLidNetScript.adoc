@@ -1,5 +1,9 @@
-= Script for the OVMRC Pot Lid Net.
-:revdate:2023-09-02
+= image:Logo.png[Logo,150,150] Script for the OVMRC Pot Lid Net.
+:showtitle:
+:imagesdir: images
+:data-uri:
+:hyphens:
+:revdate: 2023-09-02
 
 *_CQ CQ POT LID NET PLN DE [NCS Callsign] <BT>_*
 
@@ -18,4 +22,4 @@ further responses to a *_QNI?_*, NCS sends: *_NIL HRD_*. NCS then sends: *_QSP?_
 station on net to relay other stations they may have heard but not acknowledged by the NCS.
 . The NCS goes through all additional check-ins and end with a final *_QNI? QSP?_*
 . If nothing heard, then the net will conclude with the NCS making a final transmission: *_TNX
-ALL FOR CHECKING IN, PLN QNF DE [NCS Callsign] 73 ES GE_*
+ALL FOR CHECKING IN, PLN QNF DE [NCS Callsign] 73 ES GE_*   
